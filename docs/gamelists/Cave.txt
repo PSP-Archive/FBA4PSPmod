@@ -1,0 +1,34 @@
+This list contains all games supported by FB Alpha.
+
+27 games supported in total; X = excluded from build; D = included in debug build only; NW = not working
+
+  name		  status  full name						  parent	  year	  company	  hardware	  remarks
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
+| agallet	|  	| Air Gallet						| 		| 1996	| BanPresto / Ga| Cave		| 					|
+| dfeveron	|  	| Dangun Feveron (Japan ver. Thu Sep 17 1998)		| feversos	| 1998	| Cave / Nihon S| Cave		| 					|
+| ddonpach	|  	| DoDonPachi (1997 2/5 master ver, international)	| 		| 1997	| Atlus / Cave	| Cave		| 					|
+| ddonpchj	|  	| DoDonPachi (1997 2/5 master ver, Japan)		| ddonpach	| 1997	| Atlus / Cave	| Cave		| 					|
+| donpacjp	|  	| DonPachi (ver. 1.01 1995/05/11, Japan)		| donpachi	| 1995	| Atlus / Cave	| Cave		| 					|
+| donpachi	|  	| DonPachi (ver. 1.01 1995/05/11, U.S.A)		| 		| 1995	| Atlus / Cave	| Cave		| 					|
+| donpachk	|  	| DonPachi (ver. 1.12 1995/05/2x, Hong Kong)		| donpachi	| 1995	| Atlus / Cave	| Cave		| 					|
+| donpackr	|  	| DonPachi (ver. 1.12 1995/05/2x, Korea)		| donpachi	| 1995	| Atlus / Cave	| Cave		| 					|
+| esprade	|  	| ESP Ra.De. (1998 4/22 international ver.)		| 		| 1998	| Atlus / Cave	| Cave		| 					|
+| espradeo	|  	| ESP Ra.De. (Japan, 1998 4/14 master ver.)		| esprade	| 1998	| Atlus / Cave	| Cave		| 					|
+| espradej	|  	| ESP Ra.De. (Japan, 1998 4/21 master ver.)		| esprade	| 1998	| Atlus / Cave	| Cave		| 					|
+| feversos	|  	| Fever SOS (International ver. Fri Sep 25 1998)	| 		| 1998	| Cave / Nihon S| Cave		| 					|
+| gaia		|  	| Gaia Crusaders					| 		| 1999	| Noise Factory	| Cave		| 					|
+| pwrins2j	|  	| Gouketsuji Ichizoku 2 (Japan, Ver. 94/04/08)		| pwrinst2	| 1994	| Atlus/Cave	| Cave		| 					|
+| plegendj	|  	| Gouketsuji Ichizoku Saikyou Densetsu (Japan, Ver. 95/0| plegends	| 1995	| Atlus/Cave	| Cave		| 					|
+| guwange	|  	| Guwange (Japan, 1999 6/24 master ver.)		| 		| 1999	| Atlus / Cave	| Cave		| 					|
+| hotdogst	|  	| Hotdog Storm (International)				| 		| 1996	| Marble	| Cave		| 					|
+| mazinger	|  	| Mazinger Z (International/Japan)			| 		| 1994	| Banpresto/Dyna| Cave		| 					|
+| metmqstr	|  	| Metamoqester (International)				| 		| 1995	| Banpresto/Pand| Cave		| 					|
+| nmaster	|  	| Oni - The Ninja Master (Japan)			| metmqstr	| 1995	| Banpresto/Pand| Cave		| 					|
+| pwrinst2	|  	| Power Instinct 2 (US, Ver. 94/04/08)			| 		| 1994	| Atlus/Cave	| Cave		| Bad Music from first MSM6295		|
+| plegends	|  	| Power Instinct Legends (US, Ver. 95/06/20)		| 		| 1995	| Atlus/Cave	| Cave		| 					|
+| sailormo	|  	| Pretty Soldier Sailor Moon (version 95/03/22)		| sailormn	| 1995	| BanPresto / Ga| Cave		| 					|
+| sailormn	|  	| Pretty Soldier Sailor Moon (version 95/03/22B)	| 		| 1995	| BanPresto / Ga| Cave		| 					|
+| uopoko	|  	| Puzzle Uo Poko (International)			| 		| 1999	| Cave / Jaleco	| Cave		| 					|
+| theroes	|  	| Thunder Heroes					| 		| 2001	| Primetek Inves| Cave		| 					|
+| uopokoj	|  	| Uo Poko (Japan, ver. 1998 Feb 06)			| uopoko	| 1999	| Cave / Jaleco	| Cave		| 					|
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+

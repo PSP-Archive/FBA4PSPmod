@@ -1,0 +1,685 @@
+This list contains all games supported by FB Alpha.
+
+678 games supported in total; X = excluded from build; D = included in debug build only; NW = not working
+
+  name		  status  full name						  parent	  year	  company	  hardware	  remarks
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
+| 8ballact	| D NW	| "8ballact"						| 		| 1984	| Miscellaneous	| 		| Seatongrove Ltd (Magic Eletronics USA |
+| arkanoid	|  	| "arkanoid"						| 		| 1986	| Arkanoid	| 		| Taito Corporation Japan		|
+| bagman	|   NW	| "bagman"						| 		| 1982	| Miscellaneous	| 		| Valadon Automation			|
+| ckong		|   NW	| "ckong"						| 		| 1981	| Miscellaneous	| 		| Falcon				|
+| dkongjr	|   NW	| "dkongjr"						| 		| 1982	| Miscellaneous	| 		| Nintendo of America			|
+| drivfrcp	| D NW	| "drivfrcp"						| 		| 1984	| Pac-man	| 		| Shinkai Inc. (Magic Eletronics Inc. li|
+| getstar	|   NW	| "getstar"						| 		| 1986	| Early Toaplan	| 		| Taito					|
+| hunchbak	|   NW	| "hunchbak"						| 		| 1983	| Miscellaneous	| 		| Century Electronics			|
+| huncholy	|   NW	| "huncholy"						| 		| 1984	| Miscellaneous	| 		| Seatongrove Ltd			|
+| ladybug	|   NW	| "ladybug"						| 		| 1981	| Miscellaneous	| 		| Universal				|
+| maniacsq	| D NW	| "maniacsq"						| 		| 1996	| Miscellaneous	| 		| Gaelco				|
+| phoenix	|   NW	| "phoenix"						| 		| 1980	| Miscellaneous	| 		| Amstar				|
+| porky		| D NW	| "porky"						| 		| 1985	| Pac-man	| 		| Shinkai Inc. (Magic Eletronics Inc. li|
+| tumblep	|   NW	| "tumblep"						| 		| 1991	| Miscellaneous	| 		| Data East Corporation			|
+| 99lstwar	|  	| '99: The Last War					| sonofphx	| 1985	| Proma		| Kyugo		| 					|
+| 99lstwra	|  	| '99: The Last War (alternate)				| sonofphx	| 1985	| Proma		| Kyugo		| 					|
+| 99lstwrk	|  	| '99: The Last War (Kyugo)				| sonofphx	| 1985	| Kyugo		| Kyugo		| 					|
+| gtmra		|  	| 1000 Miglia: Great 1000 Miles Rally (94/06/13)	| gtmr		| 1994	| Kaneko	| Kaneko 16-bit	| 					|
+| gtmr		|  	| 1000 Miglia: Great 1000 Miles Rally (94/07/18)	| 		| 1994	| Kaneko	| Kaneko 16-bit	| 					|
+| 1942b		|  	| 1942 (First Version)					| 1942		| 1984	| Capcom	| Miscellaneous	| 					|
+| 1942a		|  	| 1942 (Revision A)					| 1942		| 1984	| Capcom	| Miscellaneous	| 					|
+| 1942		|  	| 1942 (Revision B)					| 		| 1984	| Capcom	| Miscellaneous	| 					|
+| 1942w		|  	| 1942 (Williams Electronics license)			| 1942		| 1985	| Capcom (Willia| Miscellaneous	| 					|
+| 1945kiii	|  	| 1945k III						| 		| 2000	| Oriental	| misc		| 					|
+| 4enraya	|  	| 4 En Raya						| 		| 1990	| IDSA		| misc		| 					|
+| 7ordi		|  	| 7 Ordi (Korea)					| 		| 2002	| Yun Sung	| Miscellaneous	| 					|
+| abscam	|  	| Abscam						| puckman	| 1981	| GL (US Billiar| Pac-man	| 					|
+| aerofgt	|  	| Aero Fighters						| 		| 1992	| Video System C| Video System	| 					|
+| aerofgtb	|  	| Aero Fighters (Turbo Force hardware set 1)		| aerofgt	| 1992	| Video System C| Video System	| 					|
+| aerofgtc	|  	| Aero Fighters (Turbo Force hardware set 2)		| aerofgt	| 1992	| Video System C| Video System	| 					|
+| koshien	|  	| Ah Eikou no Koshien (Japan)				| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| airwolf	|  	| Airwolf						| 		| 1987	| Kyugo		| Kyugo		| 					|
+| airwolfa	|  	| Airwolf (US)						| airwolf	| 1987	| Kyugo (UA Thea| Kyugo		| 					|
+| alibaba	|  	| Ali Baba and 40 Thieves				| 		| 1982	| Sega		| Pac-man	| 					|
+| ambush	|  	| Ambush						| 		| 1983	| Nippon Amuse C| Ambush	| 					|
+| ambusht	|  	| Ambush (Tecfri)					| ambush	| 1983	| Tecfri	| Ambush	| 					|
+| ambushv	|  	| Ambush (Volt Elec co-ltd)				| ambush	| 1983	| Volt Elec co-l| Ambush	| 					|
+| aquajckj	|  	| Aquajack (Japan)					| aquajack	| 1990	| Taito Corporat| Taito-Z	| 					|
+| aquajack	|  	| Aquajack (World)					| 		| 1990	| Taito Corporat| Taito-Z	| 					|
+| lwingsjp	|  	| Ares no Tsubasa (Japan)				| lwings	| 1986	| Capcom	| hardware	| 					|
+| rygarj	|  	| Argus no Senshi (Japan)				| rygar		| 1986	| Tecmo		| Miscellaneous	| 					|
+| arkgcbl	|  	| Arkanoid (bootleg on Block hardware)			| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| arkmcubl	| D NW	| Arkanoid (bootleg with MCU)				| arkanoid	| 1986	| bootleg	| Arkanoid	| Unsupported MCU			|
+| ark1ball	| D NW	| Arkanoid (bootleg with MCU, harder)			| arkanoid	| 1986	| bootleg	| Arkanoid	| Unsupported MCU			|
+| arkangc	|  	| Arkanoid (Game Corporation bootleg, set 1)		| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| arkangc2	|  	| Arkanoid (Game Corporation bootleg, set 2)		| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| arknoidj	| D NW	| Arkanoid (Japan)					| arkanoid	| 1986	| Taito Corporat| Arkanoid	| Unsupported MCU			|
+| arkatayt	|  	| Arkanoid (Tayto bootleg)				| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| arktayt2	|  	| Arkanoid (Tayto bootleg, harder)			| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| arknoidu	| D NW	| Arkanoid (US)						| arkanoid	| 1986	| Taito America | Arkanoid	| Unsupported MCU			|
+| arknoiuo	| D NW	| Arkanoid (US, older)					| arkanoid	| 1986	| Taito America | Arkanoid	| Unsupported MCU			|
+| batridc	|  	| Armed Police Batrider (China) (Fri Feb 13 1998)	| batrid	| 1998	| Raizing / 8ing| Toaplan GP9001| 					|
+| batrid	|  	| Armed Police Batrider (Europe) (Fri Feb 13 1998)	| 		| 1998	| Raizing / 8ing| Toaplan GP9001| 					|
+| batridja	|  	| Armed Police Batrider (Japan) (Mon Dec 22 1997)	| batrid	| 1998	| Raizing / 8ing| Toaplan GP9001| 					|
+| batridk	|  	| Armed Police Batrider (Korea) (Fri Feb 13 1998)	| batrid	| 1998	| Raizing / 8ing| Toaplan GP9001| 					|
+| batridu	|  	| Armed Police Batrider (U.S.A.) (Fri Feb 13 1998)	| batrid	| 1998	| Raizing / 8ing| Toaplan GP9001| 					|
+| batridj	|  	| Armed Police Batrider - B Version (Japan) (Fri Feb 13 | batrid	| 1998	| Raizing / 8ing| Toaplan GP9001| 					|
+| acitya	|  	| Atlantic City Action					| bwcasino	| 1983	| EPOS Corporati| Pac-man	| 					|
+| atompunk	| D NW	| Atomic Punk (US)					| dynablst	| 1992	| Irem America (| Miscellaneous	| Preliminary driver			|
+| avengers	|  	| Avengers (US set 1)					| 		| 1987	| Capcom	| hardware	| 					|
+| avenger2	|  	| Avengers (US set 2)					| avengers	| 1987	| Capcom	| hardware	| 					|
+| bonkadv	|  	| B.C. Kid / Bonk's Adventure / Kyukyoku!! PC Genjin	| 		| 1994	| Kaneko	| Kaneko 16-bit	| 					|
+| bcstry	|  	| B.C. Story (set 1)					| 		| 1997	| SemiCom	| Miscellaneous	| 					|
+| bcstrya	|  	| B.C. Story (set 2)					| bcstry	| 1997	| SemiCom	| Miscellaneous	| 					|
+| bssoccer	|  	| Back Street Soccer					| 		| 1996	| SunA		| Miscellaneous	| 					|
+| baddudes	| D	| Bad Dudes vs. Dragonninja (US)			| 		| 1988	| Data East USA	| DEC0		| 					|
+| bakubrkr	|  	| Bakuretsu Breaker					| explbrkr	| 1992	| Kaneko	| Kaneko 16-bit	| 					|
+| ballbros	|  	| Balloon Brothers					| 		| 1992	| East Technolog| Taito-X	| 					|
+| bankp		|  	| Bank Panic						| 		| 1984	| [Sanritsu] Seg| Misc		| 					|
+| batsugun	|  	| Batsugun (set 1)					| 		| 1993	| Toaplan	| Dual Toaplan G| No sound (sound MCU not dumped)	|
+| batsugna	|  	| Batsugun (set 2)					| batsugun	| 1993	| Dual Toaplan	| Toaplan GP9001| No sound (sound MCU not dumped)	|
+| batugnsp	|  	| Batsugun Special Ver.					| batsugun	| 1993	| Dual Toaplan	| Toaplan GP9001| No sound (sound MCU not dumped)	|
+| bkraidj	|  	| Battle Bakraid (Japan) (Wed Apr 7 1999)		| bkraidu	| 1999	| Eighting	| Toaplan GP9001| 					|
+| bkraiduj	|  	| Battle Bakraid - Unlimited Version (Japan) (Tue Jun 8 | bkraidu	| 1999	| Eighting	| Toaplan GP9001| 					|
+| bkraidu	|  	| Battle Bakraid - Unlimited Version (U.S.A.) (Tue Jun 8| 		| 1999	| Eighting	| Toaplan GP9001| 					|
+| bgareghk	|  	| Battle Garegga (Austria / Hong Kong) (Sat Feb 3 1996)	| bgaregga	| 1996	| Raizing / 8ing| Toaplan GP9001| 					|
+| bgaregga	|  	| Battle Garegga (Europe / USA / Japan / Asia) (Sat Feb | 		| 1996	| Raizing / 8ing| Toaplan GP9001| 					|
+| bgaregnv	|  	| Battle Garegga - New Version (Austria / Hong Kong) (Sa| bgaregga	| 1996	| Raizing / 8ing| Toaplan GP9001| 					|
+| bgaregcn	|  	| Battle Garegga - Type 2 (Denmark / China) (Tue Apr 2 1| bgaregga	| 1996	| Raizing / 8ing| Toaplan GP9001| 					|
+| bgaregt2	|  	| Battle Garegga - Type 2 (Europe / USA / Japan / Asia) | bgaregga	| 1996	| Raizing / 8ing| Toaplan GP9001| 					|
+| bsharkj	|  	| Battle Shark (Japan)					| bshark	| 1989	| Taito Corporat| Taito-Z	| 					|
+| bshark	|  	| Battle Shark (US)					| 		| 1989	| Taito America | Taito-Z	| 					|
+| beastf	|  	| Beastie Feastie					| suprglob	| 1984	| Epos Corporati| Pac-man	| 					|
+| bestbest	|  	| Best Of Best						| 		| 1994	| SunA		| Miscellaneous	| 					|
+| bigbucks	|  	| Big Bucks						| 		| 1986	| Dynasoft Inc.	| Pac-man	| 					|
+| biomtoy	|  	| Biomechanical Toy (unprotected)			| 		| 1995	| Zeus		| Gaelco '91 - '| 					|
+| bionicc	|  	| Bionic Commando (Euro)				| 		| 1987	| Capcom	| Misc		| 					|
+| bionicc1	|  	| Bionic Commando (US set 1)				| bionicc	| 1987	| Capcom	| Misc		| 					|
+| bionicc2	|  	| Bionic Commando (US set 2)				| bionicc	| 1987	| Capcom	| Misc		| 					|
+| blazeon	|  	| Blaze On (Japan)					| 		| 1991	| Atlus		| Kaneko 16-bit	| 					|
+| arkblock	|  	| Block (Game Corporation bootleg, set 1)		| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| arkbloc2	|  	| Block (Game Corporation bootleg, set 2)		| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| bloodwar	|  	| Blood Warrior						| 		| 1994	| Kaneko	| Kaneko 16-bit	| 					|
+| bwcasino	|  	| Boardwalk Casino					| 		| 1983	| EPOS Corporati| Pac-man	| 					|
+| bombjack	|  	| Bomb Jack (set 1)					| 		| 1984	| Tehkan	| Bomb Jack	| 					|
+| bombjac2	|  	| Bomb Jack (set 2)					| bombjack	| 1984	| Tehkan	| Bomb Jack	| 					|
+| bombrman	| D NW	| Bomber Man (Japan)					| dynablst	| 1992	| Irem (licensed| Miscellaneous	| Preliminary driver			|
+| brix		|  	| Brix							| zzyzzyxx	| 1982	| Cinematronics | Jack the Giant| 					|
+| burglarx	|  	| Burglar X						| 		| 1997	| Unico		| Unico		| 					|
+| buzzard	|  	| Buzzard						| gyrodine	| 1984	| Crux		| Kyugo		| 					|
+| cameltrj	|  	| Cameltry (Japan, YM2610)				| cameltry	| 1989	| Taito Corporat| Taito-F2	| 					|
+| camltrya	|  	| Cameltry (US, YM2203 + M6295)				| cameltry	| 1989	| Taito America | Taito-F2	| 					|
+| cameltry	|  	| Cameltry (US, YM2610)					| 		| 1989	| Taito America | Taito-F2	| 					|
+| camltrua	|  	| Cameltry (World, YM2203 + M6295)			| cameltry	| 1989	| Taito America | Taito-F2	| 					|
+| cannonbp	|  	| Cannon Ball (Pacman Hardware)				| 		| 198?	| Novomatic	| Pac-man	| wrong colors				|
+| catapult	| D NW	| Catapult						| 		| 1982	| Epos Corporati| EPOS Tristar	| Bad dump				|
+| ctrpllrp	|  	| Caterpillar Pacman Hack				| puckman	| 1982	| hack		| Pac-man	| 					|
+| catt		|  	| Catt (Japan)						| mcatadv	| 1993	| Wintechno	| LINDA		| 					|
+| chasehqj	|  	| Chase H.Q. (Japan)					| chasehq	| 1988	| Taito Corporat| Taito-Z	| 					|
+| chasehq	|  	| Chase H.Q. (World)					| 		| 1988	| Taito Corporat| Taito-Z	| 					|
+| chokchok	|  	| Choky! Choky!						| 		| 1995	| SemiCom	| Miscellaneous	| 					|
+| combh		|  	| Combat Hawk						| 		| 1987	| Sega / Sanrits| Misc		| 					|
+| commandb	|  	| Commando (bootleg)					| commando	| 1985	| bootleg	| Miscellaneous	| 					|
+| commandu	|  	| Commando (US)						| commando	| 1985	| Capcom (Data E| Miscellaneous	| 					|
+| commando	|  	| Commando (World)					| 		| 1985	| Capcom	| Miscellaneous	| 					|
+| contcrcu	|  	| Continental Circus (US set 1)				| contcirc	| 1987	| Taito America | Taito-Z	| 					|
+| contcrua	|  	| Continental Circus (US set 2)				| contcirc	| 1987	| Taito America | Taito-Z	| 					|
+| contcirc	|  	| Continental Circus (World)				| 		| 1987	| Taito Corporat| Taito-Z	| 					|
+| contrab	|  	| Contra (bootleg)					| contra	| 1987	| bootleg	| hardware	| 					|
+| contrajb	|  	| Contra (Japan bootleg)				| contra	| 1987	| bootleg	| hardware	| 					|
+| contraj	|  	| Contra (Japan)					| contra	| 1987	| Konami	| hardware	| 					|
+| contra	|  	| Contra (US, Set 1)					| 		| 1987	| Konami	| hardware	| 					|
+| contra1	|  	| Contra (US, Set 2)					| contra	| 1987	| Konami	| hardware	| 					|
+| cookbib	|  	| Cookie & Bibi						| 		| 1995	| SemiCom	| Miscellaneous	| 					|
+| cookbib2	|  	| Cookie & Bibi 2					| 		| 1996	| SemiCom	| Kaneko Pandora| 					|
+| cookbib3	|  	| Cookie & Bibi 3					| 		| 1997	| SemiCom	| Kaneko Pandora| 					|
+| qcrayon2	|  	| Crayon Shinchan Orato Asobo (Japan)			| 		| 1993	| Taito Corporat| Taito-F2	| 					|
+| croquis	|  	| Croquis (Germany)					| logicpro	| 1996	| Deniam	| Deniam-16b Har| 					|
+| crushbl	|  	| Crush Roller (bootleg)				| crush		| 1981	| Kural Samno El| Pac-man	| 					|
+| crush3	|  	| Crush Roller (Kural - bootleg?)			| crush		| 1981	| Kural Electric| Pac-man	| 					|
+| crush2	|  	| Crush Roller (Kural Esco - bootleg?)			| crush		| 1981	| Kural Esco Ele| Pac-man	| 					|
+| crush		|  	| Crush Roller (Kural Samno)				| 		| 1981	| Kural Samno El| Pac-man	| 					|
+| crush4	|  	| Crush Roller (Kural TWT)				| crush		| 1981	| Kural TWT	| Pac-man	| 					|
+| crushs	|  	| Crush Roller (Sidam bootleg)				| crush		| 19??	| [Kural] (Sidam| Pac-man	| 					|
+| cuebrick	|  	| Cue Brick (World version D)				| 		| 1989	| Konami	| Konami	| 					|
+| daisenpu	|  	| Daisenpu (Japan)					| twinhawk	| 1989	| Taito Corporat| Taito-X	| 					|
+| dariuse	|  	| Darius (Extra) (Japan)				| darius	| 1986	| Taito Corporat| Taito Misc	| 					|
+| dariuso	|  	| Darius (Japan old version)				| darius	| 1986	| Taito Corporat| Taito Misc	| 					|
+| dariusj	|  	| Darius (Japan)					| darius	| 1986	| Taito Corporat| Taito Misc	| 					|
+| darius	|  	| Darius (World)					| 		| 1986	| Taito Corporat| Taito Misc	| 					|
+| darius2	|  	| Darius II (Japan)					| 		| 1989	| Taito Corporat| Taito-F2	| 					|
+| dquizgo	|  	| Date Quiz Go Go (Korea)				| 		| 1998	| SemiCom	| Miscellaneous	| 					|
+| powj		|  	| Datsugoku - Prisoners of War (Japan)			| pow		| 1988	| SNK		| Miscellaneous	| 					|
+| deadconj	|  	| Dead Connection (Japan)				| deadconx	| 1992	| Taito Corporat| Taito-F2	| 					|
+| deadconx	|  	| Dead Connection (World)				| 		| 1992	| Taito Corporat| Taito-F2	| 					|
+| diamond	|  	| Diamond Run						| 		| 1985	| KH Video	| Miscellaneous	| 					|
+| dinorexj	|  	| Dino Rex (Japan)					| dinorex	| 1992	| Taito Corporat| Taito-F2	| 					|
+| dinorexu	|  	| Dino Rex (US)						| dinorex	| 1992	| Taito America | Taito-F2	| 					|
+| dinorex	|  	| Dino Rex (World)					| 		| 1992	| Taito Corporat| Taito-F2	| 					|
+| diverboy	|  	| Diver Boy						| 		| 1992	| Electronic Dev| Miscellaneous	| 					|
+| dogyuunk	|  	| Dogyuun (Licensed to Unite Trading For Korea)		| dogyuun	| 1992	| Toaplan	| Dual Toaplan G| No sound (sound MCU not dumped)	|
+| dogyuun	|  	| Dogyuun						| 		| 1992	| Toaplan	| Dual Toaplan G| No sound (sound MCU not dumped)	|
+| dommy		|  	| Dommy							| 		| 198?	| Technos	| misc		| 					|
+| dondokdj	|  	| Don Doko Don (Japan)					| dondokod	| 1989	| Taito Corporat| Taito-F2	| 					|
+| dondokdu	|  	| Don Doko Don (US)					| dondokod	| 1989	| Taito Corporat| Taito-F2	| 					|
+| dondokod	|  	| Don Doko Don (World)					| 		| 1989	| Taito Corporat| Taito-F2	| 					|
+| dotrikun	|  	| Dottori Kun (new version)				| 		| 1990	| Sega		| Test Hardware	| 					|
+| dotriku2	|  	| Dottori Kun (old version)				| dotrikun	| 1990	| Sega		| Test Hardware	| 					|
+| dblaxle	|  	| Double Axle (US)					| 		| 1991	| Taito America | Taito-Z	| Imperfect sound, bad dump in sample ro|
+| ddragonb	|  	| Double Dragon (bootleg with HD6309)			| ddragon	| 1987	| bootleg	| Miscellaneous	| 					|
+| ddragnba	|  	| Double Dragon (bootleg with M6803)			| ddragon	| 1987	| bootleg	| Miscellaneous	| 					|
+| ddragob2	|  	| Double Dragon (bootleg)				| ddragon	| 1987	| bootleg	| Miscellaneous	| 					|
+| ddragon	|  	| Double Dragon (Japan)					| 		| 1987	| Technos	| Miscellaneous	| 					|
+| ddragonu	|  	| Double Dragon (US set 1)				| ddragon	| 1987	| [Technos] (Tai| Miscellaneous	| 					|
+| ddragoua	|  	| Double Dragon (US set 2)				| ddragon	| 1987	| [Technos] (Tai| Miscellaneous	| 					|
+| ddragonw	|  	| Double Dragon (World set 1)				| ddragon	| 1987	| [Technos] (Tai| Miscellaneous	| 					|
+| ddragnw1	|  	| Double Dragon (World set 2)				| ddragon	| 1987	| [Technos] (Tai| Miscellaneous	| 					|
+| ddrago3b	|  	| Double Dragon 3 - The Rosetta Stone (bootleg)		| ddragon3	| 1990	| bootleg	| Miscellaneous	| 					|
+| ddrago3j	|  	| Double Dragon 3 - The Rosetta Stone (Japan)		| ddragon3	| 1990	| Technos	| Miscellaneous	| 					|
+| ddrago3p	|  	| Double Dragon 3 - The Rosetta Stone (prototype)	| ddragon3	| 1990	| Technos	| Miscellaneous	| 					|
+| ddragon3	|  	| Double Dragon 3 - The Rosetta Stone (US)		| 		| 1990	| Technos	| Miscellaneous	| 					|
+| ddragn2u	|  	| Double Dragon II - The Revenge (US)			| ddragon2	| 1988	| Technos	| Miscellaneous	| 					|
+| ddragon2	|  	| Double Dragon II - The Revenge (World)		| 		| 1988	| Technos	| Miscellaneous	| 					|
+| dblpoint	|  	| Double Point						| 		| 1995	| Min Corp.	| Miscellaneous	| 					|
+| dblpoind	|  	| Double Point (Dong Bang Electron, bootleg?)		| dblpoint	| 1995	| Dong Bang Elec| Miscellaneous	| 					|
+| drtomy	|  	| Dr. Tomy						| 		| 1993	| Playmark	| Miscellaneous	| 					|
+| drgnbowl	|  	| Dragon Bowl						| 		| 1992	| Nics		| Miscellaneous	| 					|
+| dremshpr	|  	| Dream Shopper						| 		| 1982	| Sanritsu	| Pac-man	| 					|
+| driftout	|  	| Drift Out (Japan)					| 		| 1991	| Visco		| Taito-F2	| 					|
+| driveout	|  	| Drive Out						| driftout	| 1991	| bootleg	| Taito-F2	| 					|
+| dynablsb	| D NW	| Dynablaster (bootleg)					| dynablst	| 1992	| bootleg	| Miscellaneous	| Preliminary driver			|
+| dynablst	| D NW	| Dynablaster / Bomber Man				| 		| 1992	| Irem (licensed| Miscellaneous	| Preliminary driver			|
+| eggor		|  	| Eggor							| 		| 1982	| Telko		| Pac-man	| 					|
+| eggs		|  	| Eggs							| scregg	| 1983	| [Technos] Univ| misc		| 					|
+| 8bpm		| D NW	| Eight Ball Action (Pac-Man conversion)		| 8ballact	| 1985	| Seatongrove Lt| Pac-man	| 					|
+| enforce	|  	| Enforce (Japan)					| 		| 1988	| Taito Corporat| Taito-Z	| 					|
+| euroch92	|  	| Euro Champ '92 (World)				| footchmp	| 1992	| Taito Corporat| Taito-F2	| 					|
+| exedexes	|  	| Exed Exes						| 		| 1985	| Capcom	| Miscellaneous	| 					|
+| exerizrb	|  	| Exerizer (Japan) (bootleg)				| skyfox	| 1987	| Jaleco	| Miscellaneous	| 					|
+| explbrkr	|  	| Explosive Breaker					| 		| 1992	| Kaneko	| Kaneko 16-bit	| 					|
+| eyes		|  	| Eyes (Digitrex Techstar)				| 		| 1982	| Digitrex Techs| Pac-man	| 					|
+| eyes2		|  	| Eyes (Techstar)					| eyes		| 1982	| Techstar (Rock| Pac-man	| 					|
+| eyeszac	|  	| Eyes (Zaccaria)					| eyes		| 1982	| Zaccaria / boo| Pac-man	| 					|
+| f1dream	|  	| F-1 Dream						| 		| 1988	| Capcom (Romsta| hardware	| 					|
+| f1dreamb	|  	| F-1 Dream (bootleg)					| f1dream	| 1988	| bootleg	| hardware	| 					|
+| fx		|  	| F-X							| srdmissn	| 1986	| bootleg	| Kyugo		| 					|
+| fncywld	|  	| Fancy World - Earth of Crisis				| 		| 1996	| Unico		| Miscellaneous	| 					|
+| fantasia	|  	| Fantasia						| 		| 1994	| Comad / New Ja| Miscellaneous	| 					|
+| fantsia2	|  	| Fantasia II (Explicit)				| 		| 1997	| Comad		| Miscellaneous	| 					|
+| fntsia2a	|  	| Fantasia II (Less Explicit)				| fantsia2	| 1997	| Comad		| Miscellaneous	| 					|
+| fantsy95	|  	| Fantasy '95						| 		| 1995	| Hi-max Technol| Miscellaneous	| 					|
+| farmer	|  	| Farmers Rebellion					| ikki		| 1985	| Sun Electronic| Miscellaneous	| 					|
+| finalbj	|  	| Final Blow (Japan)					| finalb	| 1988	| Taito Corporat| Taito-F2	| 					|
+| finalbu	|  	| Final Blow (US)					| finalb	| 1988	| Taito America | Taito-F2	| 					|
+| finalb	|  	| Final Blow (World)					| 		| 1988	| Taito Corporat| Taito-F2	| 					|
+| fstarfrc	|  	| Final Star Force (US)					| 		| 1992	| Tecmo		| Miscellaneous	| 					|
+| finalttr	|  	| Final Tetris						| 		| 1993	| Jeil Computer | Kaneko Pandora| 					|
+| flashgal	|  	| Flashgal (set 1)					| 		| 1985	| Sega		| Kyugo		| 					|
+| flashgla	|  	| Flashgal (set 2)					| flashgal	| 1985	| Sega		| Kyugo		| 					|
+| footchmp	|  	| Football Champ (World)				| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| freeze	|  	| Freeze						| 		| 1984	| Cinematronics	| Jack the Giant| 					|
+| funkybee	|  	| Funky Bee						| 		| 1982	| Orca		| misc		| 					|
+| funkbeeb	|  	| Funky Bee (bootleg, harder)				| funkybee	| 1982	| bootleg	| misc		| 					|
+| fnkyfish	| D	| Funky Fish						| 		| 1981	| Sun Electronic| Kangaroo	| 					|
+| funybubl	|  	| Funny Bubble						| 		| 1999	| In Chang Elect| misc		| 					|
+| funybubc	|  	| Funny Bubble (Comad version)				| funybubl	| 1999	| Comad Industry| misc		| 					|
+| galaga	| D	| Galaga (Namco rev. B)					| 		| 1981	| Namco		| Miscellaneous	| 					|
+| gallag	| D	| Gallag						| galaga	| 1981	| bootleg	| Miscellaneous	| 					|
+| galhustl	|  	| Gals Hustler						| 		| 1997	| ACE Internatio| Miscellaneous	| 					|
+| galpanic	|  	| Gals Panic (Unprotected)				| 		| 1990	| Kaneko	| Miscellaneous	| 					|
+| ginkun	|  	| Ganbare Ginkun					| 		| 1995	| Tecmo		| Miscellaneous	| Imperfect GFX				|
+| garogun	|  	| Garogun Seroyang (Korea)				| 		| 2000	| Yun Sung	| Miscellaneous	| 					|
+| gemini	|  	| Gemini Wing						| 		| 1987	| Tecmo		| Miscellaneous	| 					|
+| genix		|  	| Genix Family						| 		| 1994	| NIX		| Miscellaneous	| 					|
+| gensitou	|  	| Genshi-Tou 1930's (Japan)				| prehisle	| 1989	| SNK		| Prehistoric Is| 					|
+| gtstarb1	|  	| Get Star (bootleg, set 1)				| getstar	| 1986	| Taito		| Early Toaplan	| 					|
+| gtstarb2	|  	| Get Star (bootleg, set 2)				| getstar	| 1986	| Taito		| Early Toaplan	| 					|
+| gngbl		|  	| Ghosts'n Goblins (bootleg with Cross)			| gng		| 1985	| bootleg	| Miscellaneous	| 					|
+| gngblita	|  	| Ghosts'n Goblins (Italian bootleg, harder)		| gng		| 1985	| bootleg	| Miscellaneous	| 					|
+| gngt		|  	| Ghosts'n Goblins (US)					| gng		| 1985	| Capcom (Taito | Miscellaneous	| 					|
+| gng		|  	| Ghosts'n Goblins (World? set 1)			| 		| 1985	| Capcom	| Miscellaneous	| 					|
+| gnga		|  	| Ghosts'n Goblins (World? set 2)			| gng		| 1985	| Capcom	| Miscellaneous	| 					|
+| gigandes	|  	| Gigandes						| 		| 1989	| East Technolog| Taito-X	| 					|
+| gigandsj	|  	| Gigandes (Japan)					| gigandes	| 1989	| East Technolog| Taito-X	| 					|
+| gorkans	|  	| Gorkans						| mrtnt		| 1983	| Techstar	| Pac-man	| 					|
+| gotcha	|  	| Got-cha Mini Game Festival				| 		| 1997	| Dongsung	| Miscellaneous	| 					|
+| powerinj	|  	| Gouketsuji Ichizoku (Japan)				| powerins	| 1993	| Atlus		| Miscellaneous	| 					|
+| gtmr2u	|  	| Great 1000 Miles Rally 2 USA (95/05/18)		| gtmr2		| 1995	| Kaneko	| Kaneko 16-bit	| 					|
+| gtmre		|  	| Great 1000 Miles Rally: Evolution Model!!! (94/09/06)	| gtmr		| 1994	| Kaneko	| Kaneko 16-bit	| 					|
+| gtmrusa	|  	| Great 1000 Miles Rally: U.S.A Version! (94/09/06)	| gtmr		| 1994	| Kaneko	| Kaneko 16-bit	| 					|
+| gberet	|  	| Green Beret						| 		| 1985	| Konami	| Miscellaneous	| 					|
+| gberetb	|  	| Green Beret (bootleg)					| gberet	| 1985	| bootleg	| Miscellaneous	| 					|
+| grindsta	|  	| Grind Stormer (older set)				| vfive		| 1992	| Toaplan GP9001| Toaplan	| No sound (sound MCU not dumped)	|
+| grindstm	|  	| Grind Stormer						| vfive		| 1992	| Toaplan	| Toaplan GP9001| No sound (sound MCU not dumped)	|
+| growlu	|  	| Growl (US)						| growl		| 1990	| Taito America | Taito-F2	| 					|
+| growl		|  	| Growl (World)						| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| gryzor	|  	| Gryzor (Set 1)					| contra	| 1987	| Konami	| hardware	| 					|
+| gryzora	|  	| Gryzor (Set 2)					| contra	| 1987	| Konami	| hardware	| 					|
+| grdians	|  	| Guardians\0Denjin Makai II				| 		| 1995	| Banpresto	| Newer Seta	| 					|
+| gumbo		|  	| Gumbo							| 		| 1994	| Min Corp.	| Miscellaneous	| 					|
+| gunfront	|  	| Gun & Frontier (World)				| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| gunfronj	|  	| Gun Frontier (Japan)					| gunfront	| 1990	| Taito Corporat| Taito-F2	| 					|
+| gunsmokj	|  	| Gun. Smoke (Japan)					| gunsmoke	| 1985	| Capcom	| Miscellaneous	| 					|
+| gunsmoku	|  	| Gun. Smoke (US set 1)					| gunsmoke	| 1985	| Capcom (Romsta| Miscellaneous	| 					|
+| gunsmoka	|  	| Gun. Smoke (US set 2)					| gunsmoke	| 1986	| Capcom (Romsta| Miscellaneous	| 					|
+| gunsmoke	|  	| Gun. Smoke (World)					| 		| 1985	| Capcom	| Miscellaneous	| 					|
+| gyrodinc	|  	| Gyrodine						| gyrodine	| 1984	| Crux		| Kyugo		| 					|
+| gyrodine	|  	| Gyrodine (Taito Corporation license)			| 		| 1984	| Crux (Taito Co| Kyugo		| 					|
+| hangly	|  	| Hangly-Man (set 1)					| puckman	| 1981	| hack		| Pac-man	| 					|
+| hangly2	|  	| Hangly-Man (set 2)					| puckman	| 1981	| hack		| Pac-man	| 					|
+| hangly3	|  	| Hangly-Man (set 3)					| puckman	| 1981	| hack		| Pac-man	| 					|
+| hthero	|  	| Hat Trick Hero (Japan)				| footchmp	| 1990	| Taito Corporat| Taito-F2	| 					|
+| htchctch	|  	| Hatch Catch						| 		| 1995	| SemiCom	| Miscellaneous	| 					|
+| hedpanic	|  	| Head Panic (ver. 0117, 17/01/2000)			| 		| 2000	| ESD		| Miscellaneous	| Story line & game instructions in Engl|
+| hedpanif	|  	| Head Panic (ver. 0315, 15/03/2000)			| hedpanic	| 2000	| ESD / Fuuki	| Miscellaneous	| Story line in Japanese, game instructi|
+| hellfir1	|  	| Hellfire (1P Ver.)					| hellfire	| 1989	| Toaplan (Taito| Toaplan BCU-2 | 					|
+| hellfire	|  	| Hellfire (2P Ver.)					| 		| 1989	| Toaplan (Taito| Toaplan BCU-2 | 					|
+| hellfir2	|  	| Hellfire (2P Ver., first edition)			| hellfire	| 1989	| Toaplan (Taito| Toaplan BCU-2 | 					|
+| buraiken	|  	| Hissatsu Buraiken (Japan)				| avengers	| 1987	| Capcom	| hardware	| 					|
+| honeydol	|  	| Honey Dolls						| 		| 1995	| Barko Corp	| Kaneko Pandora| 					|
+| hookj		| D	| Hook (Japan)						| hook		| 1992	| Irem		| Miscellaneous	| Preliminary driver			|
+| hooku		| D	| Hook (US)						| hook		| 1992	| Irem America	| Miscellaneous	| Preliminary driver			|
+| hook		| D	| Hook (World)						| 		| 1992	| Irem		| Miscellaneous	| Preliminary driver			|
+| hyperpac	|  	| Hyper Pacman						| 		| 1995	| SemiCom	| Kaneko Pandora| 					|
+| hyperpcb	|  	| Hyper Pacman (bootleg)				| hyperpac	| 1995	| SemiCom	| Kaneko Pandora| 					|
+| igmo		|  	| IGMO							| 		| 1984	| Epos Corporati| EPOS Tristar	| Missing color Prom (Incorrect Color)	|
+| ikari3nr	|  	| Ikari III - The Rescue (8-Way Joystick)		| ikari3	| 1989	| SNK		| Miscellaneous	| 					|
+| ikari3	|  	| Ikari III - The Rescue (Rotary Joystick)		| 		| 1989	| SNK		| Miscellaneous	| 					|
+| ikki		|  	| Ikki (Japan)						| 		| 1985	| Sun Electronic| Miscellaneous	| 					|
+| inthuntu	| D	| In The Hunt (US)					| inthunt	| 1993	| Irem America	| Miscellaneous	| Preliminary driver			|
+| inthunt	| D	| In The Hunt (World)					| 		| 1993	| Irem		| Miscellaneous	| Preliminary driver			|
+| jack		|  	| Jack the Giantkiller (set 1)				| 		| 1982	| Cinematronics	| Jack the Giant| 					|
+| jack2		|  	| Jack the Giantkiller (set 2)				| jack		| 1982	| Cinematronics	| Jack the Giant| 					|
+| jack3		|  	| Jack the Giantkiller (set 3)				| jack		| 1982	| Cinematronics	| Jack the Giant| 					|
+| joinem	|  	| Joinem						| 		| 1986	| Global Corpora| Jack the Giant| 					|
+| joyman	|  	| Joyman						| puckman	| 1982	| hack		| Pac-man	| 					|
+| jumpkids	|  	| Jump Kids						| 		| 1993	| Comad		| Miscellaneous	| 					|
+| jumpshot	|  	| Jump Shot						| 		| 1985	| Bally Midway	| Pac-man	| 					|
+| jumpshtp	|  	| Jump Shot Engineering Sample				| jumpshot	| 1985	| Bally Midway	| Pac-man	| 					|
+| jumping	|  	| Jumping						| rainbow	| 1989	| bootleg	| Taito Misc	| 					|
+| jumppop	|  	| Jumping Pop						| 		| 2001	| ESD		| Miscellaneous	| Missing Sounds			|
+| kaiteids	| D	| Kaitei Daisensou (Japan)				| inthunt	| 1993	| Irem		| Miscellaneous	| Preliminary driver			|
+| kangaroo	| D	| Kangaroo						| 		| 1982	| Sun Electronic| Kangaroo	| 					|
+| kangaroa	| D	| Kangaroo (Atari)					| kangaroo	| 1982	| [Sun Electroni| Kangaroo	| 					|
+| kangarob	| D	| Kangaroo (bootleg)					| kangaroo	| 1982	| Bootleg	| Kangaroo	| 					|
+| karatblj	|  	| Karate Blazers (Japan)				| karatblz	| 1991	| Video System C| Video System	| 					|
+| karatblu	|  	| Karate Blazers (US)					| karatblz	| 1991	| Video System C| Video System	| 					|
+| karatblz	|  	| Karate Blazers (World?)				| 		| 1991	| Video System C| Video System	| 					|
+| karianx	|  	| Karian Cross (Rev. 1.0)				| 		| 1996	| Deniam	| Deniam-16b Har| 					|
+| kingdmgp	|  	| Kingdom Grandprix (World)				| shippumd	| 1994	| Raizing / 8ing| Toaplan GP9001| 					|
+| kbash		|  	| Knuckle Bash						| 		| 1993	| Toaplan	| Toaplan GP9001| No sound (sound MCU not emulated)	|
+| korosuke	|  	| Korosuke Roller					| crush		| 1981	| Kural Electric| Pac-man	| 					|
+| myangel	|  	| Kosodate Quiz My Angel (Japan)			| 		| 1996	| Namco		| Newer Seta	| 					|
+| myangel2	|  	| Kosodate Quiz My Angel 2 (Japan)			| 		| 1996	| Namco		| Newer Seta	| 					|
+| lvgirl94	|  	| Las Vegas Girl (Girl '94)				| 		| 1994	| Comad		| Miscellaneous	| 					|
+| lstduelb	|  	| Last Duel (bootleg)					| lastduel	| 1988	| bootleg	| Miscellaneous	| 					|
+| lastduel	|  	| Last Duel (US set 1)					| 		| 1988	| Capcom	| Miscellaneous	| 					|
+| lstduela	|  	| Last Duel (US set 2)					| lastduel	| 1988	| Capcom	| Miscellaneous	| 					|
+| kyustrkr	|  	| Last Striker / Kyuukyoku no Striker			| 		| 1989	| East Technolog| Taito-X	| 					|
+| ledstorm	|  	| Led Storm (US)					| madgear	| 1988	| Capcom	| Miscellaneous	| 					|
+| ledstrm2	|  	| Led Storm Rally 2011 (US)				| madgear	| 1988	| Capcom	| Miscellaneous	| 					|
+| legend	|  	| Legend						| 		| 1986	| Sega / Corelan| Kyugo		| 					|
+| lwingsb	|  	| Legendary Wings (bootleg)				| lwings	| 1986	| bootleg	| hardware	| 					|
+| lwings	|  	| Legendary Wings (US set 1)				| 		| 1986	| Capcom	| hardware	| 					|
+| lwings2	|  	| Legendary Wings (US set 2)				| lwings	| 1986	| Capcom	| hardware	| 					|
+| liquidku	|  	| Liquid Kids (US)					| liquidk	| 1990	| Taito America | Taito-F2	| 					|
+| liquidk	|  	| Liquid Kids (World)					| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| livequiz	|  	| Live Quiz Show					| 		| 1999	| Andamiro Enter| Andamiro Midas| 					|
+| lizwiz	|  	| Lizard Wizard						| 		| 1985	| Techstar (Sunn| Pac-man	| 					|
+| logicpro	|  	| Logic Pro (Japan)					| 		| 1996	| Deniam	| Deniam-16b Har| 					|
+| logicpr2	|  	| Logic Pro 2 (Japan)					| 		| 1997	| Deniam	| Deniam-16c Har| 					|
+| loverboy	|  	| Lover Boy						| 		| 1983	| G.T Enterprise| Jack the Giant| 					|
+| mia2		|  	| M.I.A. - Missing in Action (version S)		| mia		| 1989	| Konami	| Konami	| 					|
+| mia		|  	| M.I.A. - Missing in Action (version T)		| 		| 1989	| Konami	| Konami	| 					|
+| madgearj	|  	| Mad Gear (Japan)					| madgear	| 1989	| Capcom	| Miscellaneous	| 					|
+| madgear	|  	| Mad Gear (US)						| 		| 1989	| Capcom	| Miscellaneous	| 					|
+| mbrush	|  	| Magic Brush						| crush		| 1981	| bootleg	| Pac-man	| 					|
+| mcatadv	|  	| Magical Cat Adventure					| 		| 1993	| Wintechno	| LINDA		| 					|
+| mcatadvj	|  	| Magical Cat Adventure (Japan)				| mcatadv	| 1993	| Wintechno	| LINDA		| 					|
+| mgcrystj	|  	| Magical Crystals (Japan, 92/01/13)			| mgcrystl	| 1991	| Kaneko (Atlus | Kaneko 16-bit	| 					|
+| mgcrysto	|  	| Magical Crystals (World, 91/12/10)			| mgcrystl	| 1991	| Kaneko	| Kaneko 16-bit	| 					|
+| mgcrystl	|  	| Magical Crystals (World, 92/01/10)			| 		| 1991	| Kaneko	| Kaneko 16-bit	| 					|
+| ttmahjng	|  	| Mahjong						| 		| 1980	| Taito		| Route 16	| 					|
+| mjnquest	|  	| Mahjong Quest (Japan)					| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| mjnquesb	|  	| Mahjong Quest (No Nudity)				| mjnquest	| 1990	| Taito Corporat| Taito-F2	| 					|
+| mahoudai	|  	| Mahou Daisakusen (Japan)				| 		| 1993	| Raizing	| Toaplan GP9001| 					|
+| majest12	|  	| Majestic Twelve - The Space Invaders Part IV (Japan)	| ssi		| 1990	| Taito Corporat| Taito-F2	| 					|
+| makaimuc	|  	| Makai-Mura (Japan revision C)				| gng		| 1985	| Capcom	| Miscellaneous	| 					|
+| makaimug	|  	| Makai-Mura (Japan revision G)				| gng		| 1985	| Capcom	| Miscellaneous	| 					|
+| makaimur	|  	| Makai-Mura (Japan)					| gng		| 1985	| Capcom	| Miscellaneous	| 					|
+| maketrax	|  	| Make Trax (set 1)					| crush		| 1981	| [Kural] (Willi| Pac-man	| 					|
+| maketrxb	|  	| Make Trax (set 2)					| crush		| 1981	| [Kural] (Willi| Pac-man	| 					|
+| maniacsp	| D	| Maniac Square (prototype)				| maniacsq	| 1996	| Gaelco	| Gaelco '91 - '| Missing GFXs				|
+| megabj	|  	| Mega Blast (Japan)					| megab		| 1989	| Taito Corporat| Taito-F2	| 					|
+| megab		|  	| Mega Blast (World)					| 		| 1989	| Taito Corporat| Taito-F2	| 					|
+| megadon	|  	| Megadon						| 		| 1982	| Epos Corporati| EPOS Tristar	| 					|
+| meijinsn	|  	| Meijinsen						| 		| 1986	| SNK Electronic| Miscellaneous	| 					|
+| metalbj	|  	| Metal Black (Japan)					| metalb	| 1991	| Taito Corporat| Taito-F2	| 					|
+| metalb	|  	| Metal Black (World)					| 		| 1991	| Taito Corporat| Taito-F2	| 					|
+| metlsavr	|  	| Metal Saver						| 		| 1994	| First Amusemen| Miscellaneous	| 					|
+| gtmr2a	|  	| Mille Miglia 2: Great 1000 Miles Rally (95/04/04)	| gtmr2		| 1995	| Kaneko	| Kaneko 16-bit	| 					|
+| gtmr2		|  	| Mille Miglia 2: Great 1000 Miles Rally (95/05/24)	| 		| 1995	| Kaneko	| Kaneko 16-bit	| 					|
+| minivadr	|  	| Minivader						| 		| 1990	| Taito Corporat| Minivader	| 					|
+| msbingo	|  	| Miss Bingo						| 		| 1994	| Min Corp.	| Miscellaneous	| 					|
+| missmw96	|  	| Miss Mister World '96 (Nude)				| missw96	| 1996	| Comad		| Miscellaneous	| 					|
+| mspuzzle	|  	| Miss Puzzle						| 		| 1994	| Min Corp.	| Miscellaneous	| 					|
+| mspuzzlg	|  	| Miss Puzzle (Clone of Gumbo)				| gumbo		| 1994	| Min Corp.	| Miscellaneous	| 					|
+| mspuzzlen	|   NW	| Miss Puzzle (Nudes)					| mspuzzle	| 1994	| Min Corp.	| Miscellaneous	| 					|
+| missw96	|  	| Miss World '96 (Nude)					| 		| 1996	| Comad		| Miscellaneous	| 					|
+| mizubaku	|  	| Mizubaku Daibouken (Japan)				| liquidk	| 1990	| Taito Corporat| Taito-F2	| 					|
+| mole		|  	| Mole Attack						| 		| 1982	| Yachiyo Electr| Miscellaneous	| 					|
+| moremore	|  	| More More						| 		| 1999	| SemiCom / Exit| Kaneko Pandora| 					|
+| moremorp	|  	| More More Plus					| 		| 1999	| SemiCom / Exit| Kaneko Pandora| 					|
+| mrdo		|  	| Mr. Do!						| 		| 1982	| Universal	| misc		| 					|
+| mrdofix	|  	| Mr. Do! (bugfixed)					| mrdo		| 1982	| Universal (Tai| misc		| 					|
+| mrdoy		|  	| Mr. Do! (prototype)					| mrdo		| 1982	| Universal	| misc		| 					|
+| mrdot		|  	| Mr. Do! (Taito license)				| mrdo		| 1982	| Universal (Tai| misc		| 					|
+| mrdu		|  	| Mr. Du!						| mrdo		| 1982	| Bootleg	| misc		| 					|
+| mrgoemon	|  	| Mr. Goemon (Japan)					| 		| 1986	| Konami	| Miscellaneous	| 					|
+| mrlo		|  	| Mr. Lo!						| mrdo		| 1982	| Bootleg	| misc		| 					|
+| mrtnt		|  	| Mr. TNT						| 		| 1982	| Telko		| Pac-man	| 					|
+| mspacman	|  	| MS Pacman						| 		| 1980	| Namco		| Pac-man	| 					|
+| mspacmab	|  	| MS Pacman (bootleg)					| mspacman	| 1981	| Namco		| Pac-man	| 					|
+| mspacmat	|  	| Ms. Pac Attack					| mspacman	| 1980	| hack		| Pac-man	| 					|
+| mspacmbe	|  	| Ms. Pac-Man (bootleg, (encrypted))			| mspacman	| 1981	| bootleg	| Pac-man	| 					|
+| mspacmnf	|  	| Ms. Pac-Man (with speedup hack)			| mspacman	| 1980	| Midway	| Pac-man	| 					|
+| mspacpls	|  	| Ms. Pac-Man Plus					| mspacman	| 1981	| hack		| Pac-man	| 					|
+| mschamp	|  	| Ms. Pacman Champion Edition / Super Zola Pac Gal	| mspacman	| 1995	| hack		| Pac-man	| 					|
+| rocktrv2	|  	| MTV Rock-N-Roll Trivia (Part 2)			| 		| 1986	| Triumph Softwa| Pac-man	| 					|
+| mugsmash	|  	| Mug Smashers						| 		| 1990?	| Electronic Dev| Miscellaneous	| 					|
+| semibase	|  	| MuHanSeungBu (SemiCom Baseball) (Korea)		| 		| 1997	| SemiCom	| Miscellaneous	| 					|
+| nmg5		|  	| Multi 5 / New Multi Game 5				| 		| 1998	| Yun Sung	| Miscellaneous	| 					|
+| nmg5e		|  	| Multi 5 / New Multi Game 5 (earlier)			| nmg5		| 1997	| Yun Sung	| Miscellaneous	| 					|
+| multchmk	|  	| Multi Champ (Korea)					| multchmp	| 1999	| ESD		| Miscellaneous	| 					|
+| multchmp	|  	| Multi Champ (World)					| 		| 1999	| ESD		| Miscellaneous	| 					|
+| mchampdx	|  	| Multi Champ Deluxe (ver. 0106, 06/01/2000)		| 		| 2000	| ESD		| Miscellaneous	| 					|
+| mchampda	|  	| Multi Champ Deluxe (ver. 1126, 26/11/1999)		| mchampdx	| 1999	| ESD		| Miscellaneous	| 					|
+| mystston	|  	| Mysterious Stones - Dr. John's Adventure		| 		| 1984	| Technos	| misc		| 					|
+| myststno	|  	| Mysterious Stones - Dr. Kick in Adventure		| mystston	| 1984	| Technos	| misc		| 					|
+| naname	| D	| Naname de Magic!					| 		| 1994	| Atlus		| Miscellaneous	| 					|
+| nmouse	|  	| Naughty Mouse (set 1)					| 		| 1981	| Amenip (Palcom| Pac-man	| 					|
+| nmouseb	|  	| Naughty Mouse (set 2)					| nmouse	| 1981	| Amenip Nova Ga| Pac-man	| 					|
+| kuniokub	|  	| Nekketsu Kouha Kunio-kun (Japan bootleg)		| renegade	| 1986	| bootleg	| Miscellaneous	| 					|
+| kuniokun	|  	| Nekketsu Kouha Kunio-kun (Japan)			| renegade	| 1986	| Technos	| Miscellaneous	| 					|
+| newfant	|  	| New Fantasia						| 		| 1995	| Comad / New Ja| Miscellaneous	| 					|
+| newpuckx	|  	| New Puck-X						| puckman	| 1980	| hack		| Pac-man	| 					|
+| newpuc2	|  	| Newpuc2						| puckman	| 1980	| hack		| Pac-man	| 					|
+| newpuc2b	|  	| Newpuc2b						| puckman	| 1980	| hack		| Pac-man	| 					|
+| news		|  	| News (set 1)						| 		| 1993	| Poby / Virus	| Miscellaneous	| 					|
+| newsa		|  	| News (set 2)						| news		| 1993	| Poby / Jeansol| Miscellaneous	| 					|
+| nghtstrj	|  	| Night Striker (Japan)					| nightstr	| 1989	| Taito Corporat| Taito-Z	| 					|
+| nghtstru	|  	| Night Striker (US)					| nightstr	| 1989	| Taito America | Taito-Z	| 					|
+| nightstr	|  	| Night Striker (World)					| 		| 1989	| Taito Corporat| Taito-Z	| 					|
+| gaiden	|  	| Ninja Gaiden (US)					| shadoww	| 1988	| Tecmo		| Miscellaneous	| 					|
+| ryukendn	|  	| Ninja Ryukenden (Japan, set 1)			| shadoww	| 1989	| Tecmo		| Miscellaneous	| 					|
+| ryukenda	|  	| Ninja Ryukenden (Japan, set 2)			| shadoww	| 1989	| Tecmo		| Miscellaneous	| 					|
+| nbbatman	| D	| Ninjia Baseball Batman (US)				| 		| 1993	| Irem America	| Miscellaneous	| Preliminary driver			|
+| nost		|  	| Nostradamus						| 		| 1993	| Face		| LINDA		| 					|
+| nostj		|  	| Nostradamus (Japan)					| nost		| 1993	| Face		| LINDA		| 					|
+| nostk		|  	| Nostradamus (Korea)					| nost		| 1993	| Face		| LINDA		| 					|
+| ohmygod	|  	| Oh My God!						| 		| 1993	| Atlus		| Miscellaneous	| 					|
+| opwolfb	|  	| Operation Bear					| opwolf	| 1987	| bootleg	| Taito Misc	| 					|
+| opwolfu	|  	| Operation Wolf (US)					| opwolf	| 1987	| Taito America | Taito Misc	| 					|
+| opwolf	|  	| Operation Wolf (World, set 1)				| 		| 1987	| Taito Corporat| Taito Misc	| 					|
+| opwolfa	|  	| Operation Wolf (World, set 2)				| opwolf	| 1987	| Taito Corporat| Taito Misc	| 					|
+| outzone	|  	| Out Zone (set 1)					| 		| 1990	| Toaplan	| Toaplan BCU-2 | 					|
+| outzonea	|  	| Out Zone (set 2)					| outzone	| 1990	| Toaplan	| Toaplan BCU-2 | 					|
+| outzoneb	|  	| Out Zone (set 3, prototype?)				| outzone	| 1990	| Toaplan	| Toaplan BCU-2 | 					|
+| outzonec	|  	| Out Zone (set 4)					| outzone	| 1990	| Toaplan	| Toaplan BCU-2 | 					|
+| pow		|  	| P.O.W. - Prisoners of War (US version 1)		| 		| 1988	| SNK		| Miscellaneous	| 					|
+| pacgal	|  	| Pac-Gal						| mspacman	| 1981	| hack		| Pac-man	| 					|
+| pacheart	|  	| Pac-Man (Hearts)					| puckman	| 1981	| hack		| Pac-man	| 					|
+| pacman	|  	| Pac-Man (Midway)					| puckman	| 1980	| [Namco] (Midwa| Pac-man	| 					|
+| pacmod	|  	| Pac-Man (Midway, harder)				| puckman	| 1981	| [Namco] (Midwa| Pac-man	| 					|
+| pacmanf	|  	| Pac-Man (Midway, with speedup hack)			| puckman	| 1980	| [Namco] (Midwa| Pac-man	| 					|
+| pacplus	|  	| Pac-Man Plus						| 		| 1982	| [Namco] (Midwa| Pac-man	| 					|
+| paddle2	|  	| Paddle 2 (bootleg on Block hardware)			| arkanoid	| 1986	| bootleg	| Arkanoid	| 					|
+| paintrlr	| D	| Paint Roller						| crush		| 1981	| bootleg	| Pac-man	| 					|
+| pangpang	|  	| Pang Pang						| 		| 1994	| Dong Gue La Mi| Miscellaneous	| 					|
+| ppchamp	|  	| Pasha Pasha Champ Mini Game Festival			| gotcha	| 1997	| Dongsung	| Miscellaneous	| 					|
+| penbros	|  	| Penguin Brothers (Japan)				| 		| 2000	| Subsino	| Newer Seta	| 					|
+| pkunwarj	|  	| Penguin-Kun Wars (Japan)				| pkunwar	| 1985	| UPL		| misc		| 					|
+| pkunwar	|  	| Penguin-Kun Wars (US)					| 		| 1985	| UPL		| misc		| 					|
+| piranha	|  	| Piranha						| puckman	| 1981	| GL (US Billiar| Pac-man	| 					|
+| piranhah	|  	| Piranha (hack)					| puckman	| 1981	| hack		| Pac-man	| 					|
+| piranhao	|  	| Piranha (older)					| puckman	| 1981	| GL (US Billiar| Pac-man	| 					|
+| higemaru	|  	| Pirate Ship Higemaru					| 		| 1984	| Capcom	| Misc		| 					|
+| pirates	|  	| Pirates						| 		| 1994	| NIX		| Miscellaneous	| 					|
+| ponpoko	|  	| Ponpoko						| 		| 1982	| Sigma Enterpri| Pac-man	| 					|
+| ponpokov	|  	| Ponpoko (Venture Line)				| ponpoko	| 1982	| Sigma Enterpri| Pac-man	| 					|
+| pootan	|  	| Pootan						| pooyan	| 1982	| bootleg	| Miscellaneous	| 					|
+| pooyan	|  	| Pooyan						| 		| 1982	| Konami	| Miscellaneous	| 					|
+| pooyans	|  	| Pooyan (Stern)					| pooyan	| 1982	| [Konami] (Ster| Miscellaneous	| 					|
+| powerins	|  	| Power Instinct (USA)					| 		| 1993	| Atlus		| Miscellaneous	| 					|
+| powerina	|  	| Power Instinct (USA, bootleg set 1)			| powerins	| 1993	| Atlus		| Miscellaneous	| 					|
+| powerinb	|  	| Power Instinct (USA, bootleg set 2)			| powerins	| 1993	| Atlus		| Miscellaneous	| 					|
+| pwheelsj	|  	| Power Wheels (Japan)					| dblaxle	| 1991	| Taito Corporat| Taito-Z	| 					|
+| prehislu	|  	| Prehistoric Isle in 1930 (US)				| prehisle	| 1989	| SNK of America| Prehistoric Is| 					|
+| prehisle	|  	| Prehistoric Isle in 1930 (World)			| 		| 1989	| SNK		| Prehistoric Is| 					|
+| puckmanh	|  	| Puckman (Falcom?)					| puckman	| 1981	| hack		| Pac-man	| 					|
+| puckmanf	|  	| PuckMan (Japan set 1 with speedup hack)		| puckman	| 1980	| Namco		| Pac-man	| 					|
+| puckman	|  	| PuckMan (Japan set 1, Probably Bootleg)		| 		| 1980	| Namco		| Pac-man	| 					|
+| puckmana	|  	| PuckMan (Japan set 2)					| puckman	| 1981	| Namco		| Pac-man	| 					|
+| puckmod	|  	| PuckMan (Japan set 3)					| puckman	| 1981	| Namco		| Pac-man	| 					|
+| pulirulj	|  	| PuLiRuLa (Japan)					| pulirula	| 1991	| Taito Corporat| Taito-F2	| Some priority problems		|
+| pulirula	|  	| PuLiRuLa (World)					| 		| 1991	| Taito Corporat| Taito-F2	| Some priority problems		|
+| pclubys	|  	| Puzzle Club (Yun Sung, set 1)				| 		| 2000	| Yun Sung	| Miscellaneous	| 					|
+| pclubysa	|  	| Puzzle Club (Yun Sung, set 2)				| pclubys	| 2000	| Yun Sung	| Miscellaneous	| 					|
+| pzlbowl	|  	| Puzzle De Bowling (Japan)				| 		| 1999	| Nihon System /| Newer Seta	| 					|
+| 4in1boot	|  	| Puzzle King						| 		| 2002	| K1 Soft	| Kaneko Pandora| 					|
+| qzchikyu	|  	| Quiz Chikyu Bouei Gun (Japan)				| 		| 1991	| Taito Corporat| Taito-F2	| 					|
+| qcrayon	|  	| Quiz Crayon Shinchan (Japan)				| 		| 1993	| Taito Corporat| Taito-F2	| 					|
+| quizhq	|  	| Quiz H.Q. (Japan)					| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| qjinsei	|  	| Quiz Jinsei Gekijoh (Japan)				| 		| 1992	| Taito Corporat| Taito-F2	| 					|
+| quizo		|  	| Quiz Olympic						| 		| 1985	| Seoul Coin Cor| Miscellaneous	| 					|
+| qzquest	|  	| Quiz Quest - Hime to Yuusha no Monogatari (Japan)	| 		| 1991	| Taito Corporat| Taito-F2	| 					|
+| qtorimon	|  	| Quiz Torimonochou (Japan)				| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| rtypelej	| D NW	| R-Type Leo (Japan)					| rtypeleo	| 1992	| Irem		| Miscellaneous	| Preliminary driver			|
+| rtypeleo	| D NW	| R-Type Leo (World)					| 		| 1992	| Irem		| Miscellaneous	| Preliminary driver			|
+| raiga		|  	| Raiga - Strato Fighter (Japan)			| stratof	| 1991	| Tecmo		| Miscellaneous	| 					|
+| stratof	|  	| Raiga - Strato Fighter (US)				| 		| 1991	| Tecmo		| Miscellaneous	| 					|
+| rainbowe	|  	| Rainbow Islands (Extra)				| rainbow	| 1988	| Taito Corporat| Taito Misc	| 					|
+| rainbow	|  	| Rainbow Islands (new version)				| 		| 1987	| Taito Corporat| Taito Misc	| 					|
+| rainbowo	|  	| Rainbow Islands (old version)				| rainbow	| 1987	| Taito Corporat| Taito Misc	| 					|
+| rastanu	|  	| Rastan (US set 1)					| rastan	| 1987	| Taito America | Taito Misc	| 					|
+| rastanu2	|  	| Rastan (US set 2)					| rastan	| 1987	| Taito America | Taito Misc	| 					|
+| rastan	|  	| Rastan (World)					| 		| 1987	| Taito Corporat| Taito Misc	| 					|
+| rastsag1	|  	| Rastan Saga (Japan Rev 1)				| rastan	| 1987	| Taito Corporat| Taito Misc	| 					|
+| rastsaga	|  	| Rastan Saga (Japan)					| rastan	| 1987	| Taito Corporat| Taito Misc	| 					|
+| renegade	|  	| Renegade (US)						| 		| 1986	| Technos (Taito| Miscellaneous	| 					|
+| repulse	|  	| Repulse						| sonofphx	| 1985	| Sega		| Kyugo		| 					|
+| revenger	| D NW	| Revenger						| 		| 1984	| Epos Corporati| EPOS Tristar	| Bad dump				|
+| riot		|  	| Riot							| 		| 1992	| NMK		| Miscellaneous	| 					|
+| robocopb	| D	| Robocop (World bootleg)				| robocop	| 1988	| bootleg	| DEC0		| 					|
+| robocop	| D	| Robocop (World revision 4)				| 		| 1988	| Data East Corp| DEC0		| 					|
+| rockduck	|  	| Rock Duck (prototype?)				| 		| 1983	| Datel SAS	| misc		| incorrect colors			|
+| route16	|  	| Route 16						| 		| 1981	| Tehkan/Sun (Ce| Route 16	| 					|
+| route16b	|  	| Route 16 (bootleg)					| route16	| 1981	| bootleg	| Route 16	| 					|
+| route16a	|  	| Route 16 (set 2)					| route16	| 1981	| Tehkan/Sun (Ce| Route 16	| 					|
+| routex	|  	| Route X (bootleg)					| route16	| 1981	| bootleg	| Route 16	| 					|
+| runark	|  	| Runark (Japan)					| growl		| 1990	| Taito Corporat| Taito-F2	| 					|
+| rushatck	|  	| Rush'n Attack (US)					| gberet	| 1985	| Konami	| Miscellaneous	| 					|
+| rygar		|  	| Rygar (US set 1)					| 		| 1986	| Tecmo		| Miscellaneous	| 					|
+| rygar2	|  	| Rygar (US set 2)					| rygar		| 1986	| Tecmo		| Miscellaneous	| 					|
+| rygar3	|  	| Rygar (US set 3, old version)				| rygar		| 1986	| Tecmo		| Miscellaneous	| 					|
+| srdmissn	|  	| S.R.D. Mission					| 		| 1986	| Taito Corporat| Kyugo		| 					|
+| sercharj	|  	| SAR - Search And Rescue (Japan)			| searchar	| 1989	| SNK		| Miscellaneous	| 					|
+| sercharu	|  	| SAR - Search And Rescue (US)				| searchar	| 1989	| SNK		| Miscellaneous	| 					|
+| searchar	|  	| SAR - Search And Rescue (World)			| 		| 1989	| SNK		| Miscellaneous	| 					|
+| savgbees	|  	| Savage Bees						| exedexes	| 1985	| Capcom (Memetr| Miscellaneous	| 					|
+| scregg	|  	| Scrambled Egg						| 		| 1983	| Technos	| misc		| 					|
+| sdfight	|  	| SD Fighters (Korea)					| 		| 1996	| SemiCom	| Miscellaneous	| 					|
+| searchey	|  	| Search Eye						| 		| 1999	| Yun Sung	| Miscellaneous	| 					|
+| searchp2	|  	| Search Eye Plus V2.0					| 		| 1999	| Yun Sung	| Miscellaneous	| 					|
+| sectionz	|  	| Section Z (set 1)					| 		| 1985	| Capcom	| hardware	| 					|
+| sctionza	|  	| Section Z (set 2)					| sectionz	| 1985	| Capcom	| hardware	| 					|
+| commandj	|  	| Senjou no Ookami					| commando	| 1985	| Capcom	| Miscellaneous	| 					|
+| shadfrcj	|  	| Shadow Force (Japan Version 2)			| shadfrce	| 1993	| Technos Japan	| misc		| 					|
+| shadfrce	|  	| Shadow Force (US Version 2)				| 		| 1993	| Technos Japan	| misc		| 					|
+| shadoww	|  	| Shadow Warriors (World, set 1)			| 		| 1988	| Tecmo		| Miscellaneous	| 					|
+| shadowwa	|  	| Shadow Warriors (World, set 2)			| shadoww	| 1988	| Tecmo		| Miscellaneous	| 					|
+| shippumd	|  	| Shippu Mahou Daisakusen - kingdom grandprix (Japan)	| 		| 1994	| Raizing / 8ing| Toaplan GP9001| 					|
+| shootbul	|  	| Shoot the Bull					| 		| 1985	| Bally Midway	| Pac-man	| 					|
+| silkworm	|  	| Silk Worm (set 1)					| 		| 1988	| Tecmo		| Miscellaneous	| 					|
+| silkwrm2	|  	| Silk Worm (set 2)					| silkworm	| 1988	| Tecmo		| Miscellaneous	| 					|
+| skyfox	|  	| Sky Fox						| 		| 1987	| Jaleco (Nichib| Miscellaneous	| 					|
+| skylancr	|  	| Sky Lancer						| 		| 1983	| Orca		| misc		| 					|
+| skylance	|  	| Sky Lancer (Esco Trading Co license)			| skylancr	| 1983	| Orca (Esco Tra| misc		| 					|
+| skywolf	|  	| Sky Wolf (set 1)					| airwolf	| 1987	| bootleg	| Kyugo		| 					|
+| skywolf2	|  	| Sky Wolf (set 2)					| airwolf	| 1987	| bootleg	| Kyugo		| 					|
+| slapfgtr	|  	| Slap Fight (bootleg)					| slapfigh	| 1986	| Taito		| Early Toaplan	| 					|
+| slapbtuk	|  	| Slap Fight (English bootleg)				| slapfigh	| 1986	| Taito		| Early Toaplan	| 					|
+| slapbtjp	|  	| Slap Fight (Japan bootleg)				| slapfigh	| 1986	| Taito		| Early Toaplan	| 					|
+| slapfigh	|   NW	| Slap Fight (set 1)					| 		| 1986	| Taito		| Early Toaplan	| Protection MCU not emulated		|
+| snowbrod	|  	| Snow Bros. - Nick & Tom (Dooyong license)		| snowbros	| 1990	| Toaplan (Dooyo| Kaneko Pandora| 					|
+| snowbroj	|  	| Snow Bros. - Nick & Tom (Japan)			| snowbros	| 1990	| Toaplan	| Kaneko Pandora| 					|
+| snowbros	|  	| Snow Bros. - Nick & Tom (set 1)			| 		| 1990	| Toaplan	| Kaneko Pandora| 					|
+| snowbroa	|  	| Snow Bros. - Nick & Tom (set 2)			| snowbros	| 1990	| Toaplan	| Kaneko Pandora| 					|
+| snowbrob	|  	| Snow Bros. - Nick & Tom (set 3)			| snowbros	| 1990	| Toaplan	| Kaneko Pandora| 					|
+| snowbroc	|  	| Snow Bros. - Nick & Tom (set 4)			| snowbros	| 1990	| Toaplan	| Kaneko Pandora| 					|
+| snowbro2	|  	| Snow Bros. 2 - with new elves				| 		| 1994	| [Toaplan] Hana| Toaplan GP9001| 					|
+| snowbro3	|  	| Snow Brothers 3 - Magical Adventure			| snowbros	| 2002	| bootleg	| Kaneko Pandora| 					|
+| solfigtr	|  	| Solitary Fighter (World)				| 		| 1991	| Taito Corporat| Taito-F2	| 					|
+| solomonj	|  	| Solomon's Key (Japan)					| solomon	| 1986	| Tecmo		| Miscellaneous	| 					|
+| solomon	|  	| Solomon's Key (US)					| 		| 1986	| Tecmo		| Miscellaneous	| 					|
+| sonofphx	|  	| Son of Phoenix					| 		| 1985	| Associated Ove| Kyugo		| 					|
+| sonson	|  	| Son Son						| 		| 1984	| Capcom	| Miscellaneous	| 					|
+| sonsonj	|  	| Son Son (Japan)					| sonson	| 1984	| Capcom	| Miscellaneous	| 					|
+| sonicwi	|  	| Sonic Wings (Japan)					| aerofgt	| 1992	| Video System C| Video System	| 					|
+| sstriker	|  	| Sorcer Striker (World)				| mahoudai	| 1993	| Raizing	| Toaplan GP9001| 					|
+| sstrikra	|  	| Sorcer Striker (World, alt)				| mahoudai	| 1993	| Raizing	| Toaplan GP9001| 					|
+| spacecho	|  	| Space Echo (bootleg)					| speakres	| 1980	| bootleg	| Route 16	| 					|
+| spacegun	|  	| Space Gun (World)					| 		| 1990	| Taito Corporat| Taito-Z	| 					|
+| sinvasnb	|  	| Space Invasion (bootleg)				| commando	| 1985	| bootleg	| Miscellaneous	| 					|
+| sinvasn	|  	| Space Invasion (Europe)				| commando	| 1985	| Capcom	| Miscellaneous	| 					|
+| speakres	|  	| Speak & Rescue					| 		| 1980	| Sun Electronic| Route 16	| 					|
+| scij		|  	| Special Criminal Investigation (Japan)		| sci		| 1989	| Taito Corporat| Taito-Z	| 					|
+| sciu		|  	| Special Criminal Investigation (US)			| sci		| 1989	| Taito America | Taito-Z	| 					|
+| sci		|  	| Special Criminal Investigation (World set 1)		| 		| 1989	| Taito Corporat| Taito-Z	| 					|
+| scia		|  	| Special Criminal Investigation (World set 2)		| sci		| 1989	| Taito Corporat| Taito-Z	| 					|
+| spinlbrj	|  	| Spinal Breakers (Japan)				| spinlbrk	| 1990	| V-System Co.	| V-System	| 					|
+| spinlbru	|  	| Spinal Breakers (US)					| spinlbrk	| 1990	| V-System Co.	| V-System	| 					|
+| spinlbrk	|  	| Spinal Breakers (World)				| 		| 1990	| V-System Co.	| V-System	| 					|
+| stratvox	|  	| Stratovox						| speakres	| 1980	| [Sun Electroni| Route 16	| 					|
+| stratvob	|  	| Stratovox (bootleg)					| speakres	| 1980	| bootleg	| Route 16	| 					|
+| sfjp		|  	| Street Fighter (Japan)				| sf		| 1987	| Capcom	| Misc		| 					|
+| sfp		|  	| Street Fighter (Prototype)				| sf		| 1987	| Capcom	| Misc		| 					|
+| sfus		|  	| Street Fighter (US)					| sf		| 1987	| Capcom	| Misc		| 					|
+| sf		|  	| Street Fighter (World)				| 		| 1987	| Capcom	| Misc		| 					|
+| streetsj	|  	| Street Smart (Japan version 1)			| streetsm	| 1989	| SNK		| Miscellaneous	| 					|
+| streets1	|  	| Street Smart (US version 1)				| streetsm	| 1989	| SNK		| Miscellaneous	| 					|
+| streetsm	|  	| Street Smart (US version 2)				| 		| 1989	| SNK		| Miscellaneous	| 					|
+| streetsw	|  	| Street Smart (World version 1)			| streetsm	| 1989	| SNK		| Miscellaneous	| 					|
+| sunaq		|  	| SunA Quiz 6000 Academy (940620-6)			| 		| 1994	| SunA		| Miscellaneous	| 					|
+| sucasino	|  	| Super Casino						| 		| 1984	| Data Amusement| Jack the Giant| 					|
+| suprglob	|  	| Super Glob						| 		| 1983	| Epos Corporati| EPOS Tristar	| 					|
+| sprglobp	|  	| Super Glob (Pac-Man hardware)				| suprglob	| 1983	| Epos Corporati| Pac-man	| 					|
+| sprglbpg	|  	| Super Glob (Pac-Man hardware) German			| suprglob	| 1983	| bootleg	| Pac-man	| 					|
+| supmodel	|  	| Super Model						| 		| 1994	| Comad / New Ja| Miscellaneous	| 					|
+| ssi		|  	| Super Space Invaders '91 (World)			| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| suprtrio	|  	| Super Trio						| 		| 1994	| Gameace	| Miscellaneous	| 					|
+| striv		|  	| Super Triv						| 		| 1985	| Hara Industrie| Jack the Giant| No sound				|
+| superman	|  	| Superman						| 		| 1988	| Taito Corporat| Taito-X	| 					|
+| suprmanj	|  	| Superman (Japan)					| superman	| 1988	| Taito Corporat| Taito-X	| 					|
+| swatpolc	|  	| SWAT Police						| 		| 2001	| ESD		| Miscellaneous	| 					|
+| tangtang	|  	| Tang Tang (ver. 0526, 26/05/2000)			| 		| 2000	| ESD		| Miscellaneous	| 					|
+| taotaido	|  	| Tao Taido (set 1)					| 		| 1993	| Video System C| hardware	| 					|
+| taotaida	|  	| Tao Taido (set 2)					| taotaido	| 1993	| Video System C| hardware	| 					|
+| trojanj	|  	| Tatakai no Banka (Japan)				| trojan	| 1986	| Capcom	| hardware	| 					|
+| tknight	|  	| Tecmo Knight						| wildfang	| 1989	| Tecmo		| Miscellaneous	| 					|
+| tmht2p	|  	| Teenage Mutant Hero Turtles (UK 2 Players, set 1)	| tmnt		| 1989	| Konami	| Konami	| 					|
+| tmht2pa	|  	| Teenage Mutant Hero Turtles (UK 2 Players, set 2)	| tmnt		| 1989	| Konami	| Konami	| 					|
+| tmht		|  	| Teenage Mutant Hero Turtles (UK 4 Players)		| tmnt		| 1989	| Konami	| Konami	| 					|
+| tmnt2pj	|  	| Teenage Mutant Ninja Turtles (Japan 2 Players)	| tmnt		| 1990	| Konami	| Konami	| 					|
+| tmntj		|  	| Teenage Mutant Ninja Turtles (Japan 4 Players)	| tmnt		| 1990	| Konami	| Konami	| 					|
+| tmnt2po	|  	| Teenage Mutant Ninja Turtles (Oceania 2 Players)	| tmnt		| 1989	| Konami	| Konami	| 					|
+| tmntu		|  	| Teenage Mutant Ninja Turtles (US 4 Players, set 1)	| tmnt		| 1989	| Konami	| Konami	| 					|
+| tmntua	|  	| Teenage Mutant Ninja Turtles (US 4 Players, set 2)	| tmnt		| 1989	| Konami	| Konami	| 					|
+| tmnt		|  	| Teenage Mutant Ninja Turtles (World 4 Players)	| 		| 1989	| Konami	| Konami	| 					|
+| tekipaki	|  	| Teki Paki						| 		| 1991	| Toaplan	| Toaplan GP9001| No sound (sound MCU not dumped)	|
+| tetrsark	| D	| Tetris (D.R. Korea)					| 		| 198?	| D.R. Korea	| Arkanoid	| Wrong colors				|
+| mrflea	|  	| The Amazing Adventures of Mr. F. Lea			| 		| 1982	| Pacific Novelt| misc		| 					|
+| berlwall	|  	| The Berlin Wall					| 		| 1991	| Kaneko	| Kaneko 16-bit	| 					|
+| berlwalt	|  	| The Berlin Wall (bootleg ?)				| berlwall	| 1991	| Kaneko	| Kaneko 16-bit	| 					|
+| ctribeb	|  	| The Combatribes (bootleg set 1)			| ctribe	| 1990	| bootleg	| Miscellaneous	| 					|
+| ctribb2	|  	| The Combatribes (bootleg set 2)			| ctribe	| 1990	| bootleg	| Miscellaneous	| 					|
+| ctribe	|  	| The Combatribes (US)					| 		| 1990	| Technos	| Miscellaneous	| 					|
+| ctribe1	|  	| The Combatribes (US) - Set 1?				| ctribe	| 1990	| Technos	| Miscellaneous	| 					|
+| dealer	| D NW	| The Dealer						| 		| 198?	| Epos Corporati| EPOS Tristar	| Bad dump				|
+| theglob	|  	| The Glob						| suprglob	| 1983	| Epos Corporati| EPOS Tristar	| 					|
+| theglob2	|  	| The Glob (earlier)					| suprglob	| 1983	| Epos Corporati| EPOS Tristar	| 					|
+| theglobp	|  	| The Glob (Pac-Man hardware)				| suprglob	| 1983	| Epos Corporati| Pac-man	| 					|
+| theglob3	|  	| The Glob (set 3)					| suprglob	| 1983	| Epos Corporati| EPOS Tristar	| 					|
+| lkage		|  	| The Legend of Kage					| 		| 1984	| Taito Corporat| hardware	| 					|
+| lkageb	|  	| The Legend of Kage (bootleg set 1)			| lkage		| 1984	| bootleg	| hardware	| 					|
+| lkageb2	|  	| The Legend of Kage (bootleg set 2)			| lkage		| 1984	| bootleg	| hardware	| 					|
+| lkageb3	|  	| The Legend of Kage (bootleg set 3)			| lkage		| 1984	| bootleg	| hardware	| 					|
+| lkageo	|  	| The Legend of Kage (older)				| lkage		| 1984	| Taito Corporat| hardware	| 					|
+| tnzsjn	|  	| The NewZealand Story (Japan, newer)			| tnzs		| 1988	| Taito Corporat| Misc		| 					|
+| tnzs		|  	| The NewZealand Story (World, newer)			| 		| 1988	| Taito Corporat| Misc		| 					|
+| ninjakj	|  	| The Ninja Kids (Japan)				| ninjak	| 1990	| Taito Corporat| Taito-F2	| 					|
+| ninjaku	|  	| The Ninja Kids (US)					| ninjak	| 1990	| Taito America | Taito-F2	| 					|
+| ninjak	|  	| The Ninja Kids (World)				| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| ninjawj	|  	| The Ninja Warriors (Japan)				| ninjaw	| 1987	| Taito Corporat| Taito-F2	| 					|
+| ninjaw	|  	| The Ninja Warriors (World)				| 		| 1987	| Taito Corporat| Taito-F2	| 					|
+| wintbob	|  	| The Winter Bobble (bootleg)				| snowbros	| 1990	| bootleg	| Kaneko Pandora| 					|
+| tigerhb1	|  	| Tiger Heli (bootleg, set 1)				| tigerh	| 1985	| Taito		| Early Toaplan	| 					|
+| tigerhb2	|  	| Tiger Heli (bootleg, set 2)				| tigerh	| 1985	| Taito		| Early Toaplan	| 					|
+| tigerhb3	|  	| Tiger Heli (bootleg, set 3)				| tigerh	| 1985	| Taito		| Early Toaplan	| 					|
+| tigerh	|   NW	| Tiger Heli (US)					| 		| 1985	| Taito		| Early Toaplan	| Protection MCU not emulated		|
+| tigerodb	|  	| Tiger Road (US bootleg)				| tigeroad	| 1987	| bootleg	| hardware	| 					|
+| tigeroad	|  	| Tiger Road (US)					| 		| 1987	| Capcom (Romsta| hardware	| 					|
+| topsecrt	|  	| Top Secret (Japan)					| bionicc	| 1987	| Capcom	| Misc		| 					|
+| toppyrap	|  	| Toppy & Rappy						| 		| 1996	| SemiCom	| Kaneko Pandora| 					|
+| toramich	|  	| Tora-he no Michi (Japan)				| tigeroad	| 1987	| Capcom	| hardware	| Sample Z80 unemulated			|
+| arkatour	| D NW	| Tournament Arkanoid (US)				| arkanoid	| 1987	| Taito America | Arkanoid	| Unsupported MCU			|
+| treahunt	|  	| Treasure Hunt (bootleg?)				| jack		| 1982	| Hara Industrie| Jack the Giant| 					|
+| tripool	|  	| Tri-Pool (Casino Tech)				| 		| 1981	| Noma (Casino T| Jack the Giant| 					|
+| tripoola	|  	| Tri-Pool (Costal Games)				| tripool	| 1981	| Noma (Costal G| Jack the Giant| 					|
+| trojanr	|  	| Trojan (Romstar)					| trojan	| 1986	| Capcom (Romsta| hardware	| 					|
+| trojan	|  	| Trojan (US)						| 		| 1986	| Capcom	| hardware	| 					|
+| truxton2	|  	| Truxton II\0Tatsujin Oh				| 		| 1992	| Toaplan	| Toaplan GP9001| 					|
+| truxton	|  	| Truxton\0Tatsujin					| 		| 1988	| [Toaplan] Tait| Toaplan BCU-2 | 					|
+| tumbleb	|  	| Tumble Pop (bootleg set 1)				| tumblep	| 1991	| bootleg	| Miscellaneous	| 					|
+| tumbleb2	|  	| Tumble Pop (bootleg set 2)				| tumblep	| 1991	| bootleg	| Miscellaneous	| 					|
+| turbofrc	|  	| Turbo Force						| 		| 1991	| Video System C| Video System	| 					|
+| twinadvk	|  	| Twin Adventure (Korea)				| twinadv	| 1995	| Barko Corp	| Kaneko Pandora| 					|
+| twinadv	|  	| Twin Adventure (World)				| 		| 1995	| Barko Corp	| Kaneko Pandora| 					|
+| twinhwku	|  	| Twin Hawk (US)					| twinhawk	| 1989	| Taito America | Taito-X	| 					|
+| twinhawk	|  	| Twin Hawk (World)					| 		| 1989	| Taito Corporat| Taito-X	| 					|
+| twinkle	|  	| Twinkle						| 		| 1997	| SemiCom	| Kaneko Pandora| 					|
+| uballoon	|  	| Ultra Balloon						| 		| 1996	| SunA		| Miscellaneous	| 					|
+| vfive		|  	| V-Five (Japan)					| 		| 1993	| Toaplan	| Toaplan GP9001| No sound (sound MCU not dumped)	|
+| vanvan	|  	| Van-Van Car						| 		| 1983	| Sanritsu	| Pac-man	| 					|
+| vanvank	|  	| Van-Van Car (Karateco)				| vanvan	| 1983	| Karateco	| Pac-man	| 					|
+| vanvanb	|  	| Van-Van Car (set 3)					| vanvan	| 1983	| Karateco	| Pac-man	| 					|
+| vulgusj	|  	| Vulgus (Japan?)					| vulgus	| 1984	| Capcom	| Misc		| 					|
+| vulgus	|  	| Vulgus (set 1)					| 		| 1984	| Capcom	| Misc		| 					|
+| vulgus2	|  	| Vulgus (set 2)					| vulgus	| 1984	| Capcom	| Misc		| 					|
+| mj4simai	|  	| Wakakusamonogatari Mahjong Yonshimai (Japan)		| 		| 1996	| Maboroshi Ware| Newer Seta	| 					|
+| wallc		|  	| Wall Crash (set 1)					| 		| 1984	| Midcoin	| Misc		| 					|
+| wallca	|  	| Wall Crash (set 2)					| wallc		| 1984	| Midcoin	| Misc		| 					|
+| wildfang	|  	| Wild Fang / Tecmo Knight				| 		| 1989	| Tecmo		| Miscellaneous	| 					|
+| wondl96	|  	| Wonder League '96 (Korea)				| 		| 1995	| SemiCom	| Miscellaneous	| 					|
+| wlstar	|  	| Wonder League Star - Sok-Magicball Fighting (Korea)	| 		| 1995	| Mijin		| Miscellaneous	| 					|
+| wondstck	|  	| Wonder Stick						| 		| ????	| Yun Sung	| Miscellaneous	| 					|
+| woodpek	|  	| Woodpecker (set 1)					| 		| 1981	| Amenip (Palcom| Pac-man	| 					|
+| woodpeka	| D NW	| Woodpecker (set 2)					| woodpek	| 1981	| Amenip (Palcom| Pac-man	| 					|
+| wc90		|  	| World Cup '90 (set 1)					| 		| 1989	| Tecmo		| Miscellaneous	| 					|
+| wc90a		|  	| World Cup '90 (set 2)					| wc90		| 1989	| Tecmo		| Miscellaneous	| 					|
+| wc90t		|  	| World Cup '90 (trackball)				| wc90		| 1989	| Tecmo		| Miscellaneous	| 					|
+| wwfwfstj	|  	| WWF WrestleFest (Japan)				| wwfwfest	| 1991	| Technos Japan	| Miscellaneous	| 					|
+| wwfwfstb	|  	| WWF WrestleFest (US bootleg)				| wwfwfest	| 1991	| bootleg	| Miscellaneous	| 					|
+| wwfwfest	|  	| WWF WrestleFest (US set 1)				| 		| 1991	| Technos Japan	| Miscellaneous	| 					|
+| wwfwfsta	|  	| WWF WrestleFest (US Tecmo)				| wwfwfest	| 1991	| Technos Japan | Miscellaneous	| 					|
+| 3in1semi	|  	| XESS - The New Revolution (SemiCom 3-in-1)		| 		| 1997	| SemiCom	| Kaneko Pandora| 					|
+| yankeedo	|  	| Yankee DO!						| mrdo		| 1982	| hack		| misc		| 					|
+| yesnoj	|  	| Yes/No Sinri Tokimeki Chart				| 		| 1992	| Taito Corporat| Taito-F2	| 					|
+| yuyugogo	|  	| Yuuyu no Quiz de GO!GO! (Japan)			| 		| 1990	| Taito Corporat| Taito-F2	| 					|
+| zeropnt	|  	| Zero Point (set 1)					| 		| 1998	| Unico		| Unico		| 					|
+| zeropnta	|  	| Zero Point (set 2)					| zeropnt	| 1998	| Unico		| Unico		| 					|
+| zeropnt2	|  	| Zero Point 2						| 		| 1999	| Unico		| Unico		| 					|
+| zerowing	|  	| Zero Wing						| 		| 1989	| Toaplan	| Toaplan BCU-2 | 					|
+| zerowng2	|  	| Zero Wing (2 player simultaneous ver.)		| zerowing	| 1989	| [Toaplan] Will| Toaplan BCU-2 | 					|
+| zerozone	|  	| Zero Zone						| 		| 1993	| Comad		| Miscellaneous	| 					|
+| zipzap	| D	| Zip & Zap						| 		| 1995	| Barko Corp	| Miscellaneous	| Imperfect GFXs, No Sound		|
+| zzyzzyxx	|  	| Zzyzzyxx (set 1)					| 		| 1982	| Cinematronics | Jack the Giant| 					|
+| zzyzzyx2	|  	| Zzyzzyxx (set 2)					| zzyzzyxx	| 1982	| Cinematronics | Jack the Giant| 					|
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+

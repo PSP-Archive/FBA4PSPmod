@@ -1,0 +1,229 @@
+This list contains all games supported by FB Alpha.
+
+222 games supported in total; X = excluded from build; D = included in debug build only; NW = not working
+
+  name		  status  full name						  parent	  year	  company	  hardware	  remarks
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
+| gprider	|   NW	| "gprider"						| 		| 1990	| X-Board	| 		| Sega					|
+| mwalk		|   NW	| "mwalk"						| 		| 1990	| System 18	| 		| Sega					|
+| 4dwarrio	|  	| 4-D Warriors (315-5162)				| 		| 1985	| Coreland / Seg| System 1	| 					|
+| abcop		|  	| A.B. Cop (FD1094 317-0169b)				| 		| 1990	| Sega		| X-Board	| 					|
+| aceattac	|   NW	| Ace Attacker (FD1094 317-0059)			| 		| 1988	| Sega		| System 16B	| 					|
+| aceattaa	|  	| Ace Attacker (Japan, System 16A, FD1094 317-0060)	| aceattac	| 1986	| Sega		| System 16A	| 					|
+| afighter	|  	| Action Fighter, FD1089A 317-0018			| 		| 1986	| Sega		| System 16A	| 					|
+| aburner	|  	| After Burner (Japan)					| aburner2	| 1987	| Sega		| X-Board	| 					|
+| aburner2	|  	| After Burner II					| 		| 1987	| Sega		| X-Board	| 					|
+| alexkid1	|  	| Alex Kidd: The Lost Stars (set 1, FD1089A 317-unknown)| alexkidd	| 1986	| Sega		| System 16A	| 					|
+| alexkidd	|  	| Alex Kidd: The Lost Stars (set 2, unprotected)	| 		| 1986	| Sega		| System 16A	| 					|
+| astormj	|  	| Alien Storm (set 1, Japan, 2 Players, FD1094 317-0146)| astorm	| 1990	| Sega		| System 18	| Incomplete Sound			|
+| astormu	|  	| Alien Storm (set 2, US, 3 Players, FD1094 317-0147)	| astorm	| 1990	| Sega		| System 18	| Incomplete Sound			|
+| astorm3	|  	| Alien Storm (set 3, World, 3 Players, FD1094 317-0148)| astorm	| 1990	| Sega		| System 18	| Incomplete Sound			|
+| astorm	|  	| Alien Storm (set 4, World, 2 Players, FD1094 317-0154)| 		| 1990	| Sega		| System 18	| Incomplete Sound			|
+| aliensy1	|  	| Alien Syndrome (set 1, System 16A, FD1089A 317-0033)	| aliensyn	| 1987	| Sega		| System 16A	| 					|
+| aliensy2	|  	| Alien Syndrome (set 2, System 16A, FD1089A 317-0033)	| aliensyn	| 1987	| Sega		| System 16A	| 					|
+| aliensy3	|  	| Alien Syndrome (set 3, System 16B, FD1089A 317-0033)	| aliensyn	| 1987	| Sega		| System 16B	| 					|
+| aliensyn	|  	| Alien Syndrome (set 4, System 16B, unprotected)	| 		| 1987	| Sega		| System 16B	| 					|
+| aliensy5	|  	| Alien Syndrome (set 5, System 16A, FD1089B 317-0037)	| aliensyn	| 1987	| Sega		| System 16A	| 					|
+| altbeas2	|  	| Altered Beast (set 2, MC-8123B 317-0066)		| altbeast	| 1988	| Sega		| System 16B	| 					|
+| altbeas4	|  	| Altered Beast (set 4, MC-8123B 317-0066)		| altbeast	| 1988	| Sega		| System 16B	| 					|
+| altbeas5	|  	| Altered Beast (set 5, 8751 317-0076)			| altbeast	| 1988	| Sega		| System 16B	| 					|
+| altbeast	|  	| Altered Beast (set 7, 8751 317-0078)			| 		| 1988	| Sega		| System 16B	| 					|
+| aurailj	|  	| Aurail (set 1, Japan, FD1089A 317-0167)		| aurail	| 1990	| Sega / Westone| System 16B	| 					|
+| aurail1	|  	| Aurail (set 2, World, FD1089B 317-0168)		| aurail	| 1990	| Sega / Westone| System 16B	| 					|
+| aurail	|  	| Aurail (set 3, US, unprotected)			| 		| 1990	| Sega / Westone| System 16B	| 					|
+| bayrout1	|  	| Bay Route (set 1, US, unprotected)			| bayroute	| 1989	| Sunsoft / Sega| System 16B	| No Sound, Missing Z80 Program ROM	|
+| bayroutj	|  	| Bay Route (set 2, Japan, FD1094 317-0115)		| bayroute	| 1989	| Sunsoft / Sega| System 16B	| 					|
+| bayroute	|  	| Bay Route (set 3, World, FD1094 317-0116)		| 		| 1989	| Sunsoft / Sega| System 16B	| 					|
+| blockgal	|  	| Block Gal (MC-8123B, 317-0029)			| 		| 1987	| Sega / Vic Tok| System 1	| 					|
+| bloxeed	| D	| Bloxeed (Japan, FD1094 317-0139)			| 		| 1990	| Sega		| System 18	| Incomplete Sound			|
+| bodyslam	|  	| Body Slam (8751 317-0015)				| 		| 1986	| Sega		| System 16A	| 					|
+| brain		|  	| Brain							| 		| 1986	| Coreland / Seg| System 1	| 					|
+| bullet	|  	| Bullet (FD1094 317-0041)				| 		| 1987	| Sega		| System 16B	| 					|
+| bullfgt	|  	| Bullfight (315-5065)					| 		| 1984	| Coreland / Seg| System 1	| 					|
+| cltchtrj	|  	| Clutch Hitter (set 1, Japan, FD1094 317-0175)		| cltchitr	| 1991	| Sega		| System 18	| Incomplete Sound			|
+| cltchitr	|  	| Clutch Hitter (set 2, US, FD1094 317-0176)		| 		| 1991	| Sega		| System 18	| Incomplete Sound			|
+| cottonj	|  	| Cotton (set 1, Japan, FD1094 317-0179a))		| cotton	| 1991	| Sega / Success| System 16B	| 					|
+| cottonu	|  	| Cotton (set 2, US, FD1094 317-0180)			| cotton	| 1991	| Sega / Success| System 16B	| 					|
+| cotton	|  	| Cotton (set 3, World, FD1094 317-0181a)		| 		| 1991	| Sega / Success| System 16B	| 					|
+| ddcrew1	|  	| D. D. Crew (set 1, World, 4 Player, FD1094 317-?)	| ddcrew	| 1991	| Sega		| System 18	| Incomplete Sound			|
+| ddcrew2	|  	| D. D. Crew (set 2, World, 2 Player, FD1094 317-0184)	| ddcrew	| 1991	| Sega		| System 18	| Incomplete Sound			|
+| ddcrewu	|  	| D. D. Crew (set 3, US, 4 Player, FD1094 317-0186)	| ddcrew	| 1991	| Sega		| System 18	| Incomplete Sound			|
+| ddcrew	|  	| D. D. Crew (set 4, World, 3 Player, FD1094 317-0190)	| 		| 1991	| Sega		| System 18	| Incomplete Sound			|
+| ddcrewj	|  	| D. D. Crew (set 5, Japan, 2 Player, FD1094 317-0182)	| ddcrew	| 1991	| Sega		| System 18	| Incomplete Sound			|
+| defense	|  	| Defense (System 16B, FD1089A 317-0028)		| sdi		| 1987	| Sega		| System 16B	| 					|
+| desertbr	|  	| Desert Breaker (FD1094 317-0196)			| 		| 1992	| Sega		| System 18	| Incomplete Sound			|
+| dumpmtmt	|  	| Dump Matsumoto (Japan, 8751 317-unknown)		| bodyslam	| 1986	| Sega		| System 16A	| 					|
+| dunkshot	|  	| Dunk Shot (FD1089 317-0022)				| 		| 1986	| Sega		| System 16B	| 					|
+| dduxbl	|  	| Dynamite Dux (bootleg)				| ddux		| 1989	| bootleg	| System 16B	| 					|
+| ddux1		|  	| Dynamite Dux (set 1, 8751 317-0095)			| ddux		| 1989	| Sega		| System 16B	| 					|
+| ddux		|  	| Dynamite Dux (set 2, FD1094 317-0096)			| 		| 1989	| Sega		| System 16B	| 					|
+| eswatbl	|  	| E-Swat - Cyber Police (bootleg)			| eswat		| 1989	| bootleg	| System 16B	| 					|
+| eswatj	|  	| E-Swat - Cyber Police (set 1, Japan, FD1094 317-0128)	| eswat		| 1989	| Sega		| System 16B	| 					|
+| eswatu	|  	| E-Swat - Cyber Police (set 2, US, FD1094 317-0129)	| eswat		| 1989	| Sega		| System 16B	| 					|
+| eswat		|  	| E-Swat - Cyber Police (set 3, World, FD1094 317-0130)	| 		| 1989	| Sega		| System 16B	| 					|
+| endurobl	|  	| Enduro Racer (bootleg set 1)				| enduror	| 1986	| bootleg	| Hang-On	| 					|
+| enduror	|  	| Enduro Racer (YM2151, FD1089B 317-0013A)		| 		| 1986	| Sega		| Hang-On	| 					|
+| enduror1	|  	| Enduro Racer (YM2203, FD1089B 317-0013A)		| enduror	| 1986	| Sega		| Hang-On	| 					|
+| exctleag	|  	| Excite League (FD1094 317-0079)			| 		| 1989	| Sega		| System 16B	| 					|
+| fantzon1	|  	| Fantasy Zone (set 1, unprotected)			| fantzone	| 1986	| Sega		| System 16A	| 					|
+| fantzone	|  	| Fantasy Zone (set 2, unprotected)			| 		| 1986	| Sega		| System 16A	| 					|
+| fpointbj	|  	| Flash Point (Japan, bootleg)				| fpoint	| 1989	| bootleg	| System 16B	| 					|
+| fpoint1	|  	| Flash Point (set 1, Japan, FD1094 317-0127A)		| fpoint	| 1989	| Sega		| System 16B	| 					|
+| fpoint	|  	| Flash Point (set 2, Japan, FD1094 317-0127A)		| 		| 1989	| Sega		| System 16B	| 					|
+| fpointbl	|  	| Flash Point (World, bootleg)				| fpoint	| 1989	| bootleg	| System 16B	| 					|
+| flicky	|  	| Flicky (128k Version, System 2, 315-5051)		| 		| 1984	| Sega		| System 1	| 					|
+| flicks2	|  	| Flicky (128k Version, System 2, not encrypted)	| flicky	| 1984	| Sega		| System 1	| 					|
+| flickyo	|  	| Flicky (64k Version, System 1, 315-5051, set 1)	| flicky	| 1984	| Sega		| System 1	| 					|
+| flicks1	|  	| Flicky (64k Version, System 1, 315-5051, set 2)	| flicky	| 1984	| Sega		| System 1	| 					|
+| gloc		|  	| G-LOC Air Battle (US)					| 		| 1990	| Sega		| Y-Board	| 					|
+| glocr360	|  	| G-LOC R360						| gloc		| 1990	| Sega		| Y-Board	| 					|
+| gforce2	|  	| Galaxy Force 2					| 		| 1988	| Sega		| Y-Board	| 					|
+| gforce2j	|  	| Galaxy Force 2 (Japan)				| gforce2	| 1988	| Sega		| Y-Board	| 					|
+| gardia	|  	| Gardia (317-0006)					| 		| 1986	| Sega / Corelan| System 1	| 					|
+| gardiab	| D NW	| Gardia (317-0007?, bootleg)				| gardia	| 1986	| Sega / Corelan| System 1	| 					|
+| goldnax1	|  	| Golden Axe (set 1, World, FD1094 317-0110)		| goldnaxe	| 1989	| Sega		| System 16B	| 					|
+| goldnax2	|  	| Golden Axe (set 2, US, 8751 317-0112)			| goldnaxe	| 1989	| Sega		| System 16B	| 					|
+| goldnax3	|  	| Golden Axe (set 3, World, FD1094 317-0120)		| goldnaxe	| 1989	| Sega		| System 16B	| 					|
+| goldnaxj	|  	| Golden Axe (set 4, Japan, FD1094 317-0121)		| goldnaxe	| 1989	| Sega		| System 16B	| 					|
+| goldnaxu	|  	| Golden Axe (set 5, US, FD1094 317-0122)		| goldnaxe	| 1989	| Sega		| System 16B	| 					|
+| goldnaxe	|  	| Golden Axe (set 6, US, 8751 317-123A)			| 		| 1989	| Sega		| System 16B	| 					|
+| imsorryj	|  	| Gonbee no I'm Sorry (315-5110, Japan)			| imsorry	| 1985	| Coreland / Seg| System 1	| 					|
+| gprider1	|  	| GP Rider (set 1, US, FD1094 317-0162)			| gprider	| 1990	| Sega		| X-Board	| 					|
+| hangon1	|  	| Hang-On						| hangon	| 1985	| Sega		| Hang-On	| 					|
+| hangon	|  	| Hang-On (rev A)					| 		| 1985	| Sega		| Hang-On	| 					|
+| hwchamp	|  	| Heavyweight Champ					| 		| 1987	| Sega		| System 16B	| 					|
+| imsorry	|  	| I'm Sorry (315-5110, US)				| 		| 1985	| Coreland / Seg| System 1	| 					|
+| altbeaj3	|  	| Juuouki (set 3, Japan, FD1094 317-0068)		| altbeast	| 1988	| Sega		| System 16B	| 					|
+| altbeasj	|  	| Juuouki (set 6, Japan, 8751 317-0077)			| altbeast	| 1988	| Sega		| System 16B	| 					|
+| lghostu	|  	| Laser Ghost (set 1, US, 317-0165)			| lghost	| 1990	| Sega		| System 18	| Incomplete Sound			|
+| lghost	|  	| Laser Ghost (set 2, World, 317-0166)			| 		| 1990	| Sega		| System 18	| Incomplete Sound			|
+| shangnle	|  	| Limited Edition Hang-On				| shangon	| 1991	| Sega		| Out Run	| 					|
+| loffirej	|  	| Line of Fire / Bakudan Yarou (Japan, FD1094 317-0134)	| loffire	| 1989	| Sega		| X-Board	| 					|
+| loffireu	|  	| Line of Fire / Bakudan Yarou (US, FD1094 317-0135)	| loffire	| 1989	| Sega		| X-Board	| 					|
+| loffire	|  	| Line of Fire / Bakudan Yarou (World, FD1094 317-0136)	| 		| 1989	| Sega		| X-Board	| 					|
+| mjleague	|  	| Major League						| 		| 1985	| Sega		| System 16A	| 					|
+| mwalkbl	|  	| Michael Jackson's Moonwalker (bootleg)		| mwalk		| 1990	| bootleg	| System 18	| Incomplete Sound			|
+| mrviking	|  	| Mister Viking (315-5041)				| 		| 1984	| Sega		| System 1	| 					|
+| mrvikngj	|  	| Mister Viking (315-5041, Japan)			| mrviking	| 1984	| Sega		| System 1	| 					|
+| mvpj		|  	| MVP (set 1, Japan, FD1094 317-0142)			| mvp		| 1989	| Sega		| System 16B	| 					|
+| mvp		|  	| MVP (set 2, US, FD1094 317-0143)			| 		| 1989	| Sega		| System 16B	| 					|
+| myherok	|  	| My Hero (Korea)					| myhero	| 1985	| Coreland / Seg| System 1	| 					|
+| myhero	|  	| My Hero (US, not encrypted)				| 		| 1985	| Sega		| System 1	| 					|
+| ninja		|  	| Ninja (315-5102)					| seganinj	| 1985	| Sega		| System 1	| 					|
+| nprinces	|  	| Ninja Princess (315-5051, 64k Ver. bootleg?)		| seganinj	| 1985	| bootleg?	| System 1	| 					|
+| nprincsb	|  	| Ninja Princess (315-5051?, 128k Ver. bootleg?)	| seganinj	| 1985	| bootleg?	| System 1	| 					|
+| nprincso	|  	| Ninja Princess (315-5098, 128k Ver.)			| seganinj	| 1985	| Sega		| System 1	| 					|
+| nprincsu	|  	| Ninja Princess (64k Ver. not encrypted)		| seganinj	| 1985	| Sega		| System 1	| 					|
+| noboranb	|  	| Noboranka (Japan)					| 		| 1986	| bootleg	| System 1	| 					|
+| outrunb	|  	| Out Run (bootleg)					| outrun	| 1986	| bootleg	| Out Run	| 					|
+| outrun1	|  	| Out Run (deluxe sitdown)				| outrun	| 1986	| Sega		| Out Run	| 					|
+| outrun2	|  	| Out Run (sitdown/upright, Rev A)			| outrun	| 1986	| Sega		| Out Run	| 					|
+| outrun	|  	| Out Run (sitdown/upright, Rev B)			| 		| 1986	| Sega		| Out Run	| 					|
+| passshtb	| D	| Passing Shot (bootleg, 2 Players)			| passsht	| 1988	| Sega		| System 16B	| 					|
+| passshtj	|  	| Passing Shot (Japan, 4 Players, FD1094 317-0070)	| passsht	| 1988	| Sega		| System 16B	| 					|
+| pshot16a	|  	| Passing Shot (Japan, 4 Players, System 16A, FD1094 317| passsht	| 1988	| Sega		| System 16A	| 					|
+| passsht	|  	| Passing Shot (World, 2 Players, FD1094 317-0080)	| 		| 1988	| Sega		| System 16B	| 					|
+| passshta	|  	| Passing Shot (World, 4 Players, FD1094 317-0074)	| passsht	| 1988	| Sega		| System 16B	| 					|
+| pitfall2	|  	| Pitfall II (315-5093)					| 		| 1985	| Sega		| System 1	| 					|
+| pitfalla	|  	| Pitfall II (315-5093, Flicky Conversion)		| pitfall2	| 1985	| Sega		| System 1	| 					|
+| pitfallu	|  	| Pitfall II (not encrypted)				| pitfall2	| 1985	| Sega		| System 1	| 					|
+| pdriftj	|  	| Power Drift (Japan)					| pdrift	| 1988	| Sega		| Y-Board	| 					|
+| pdrifta	|  	| Power Drift (World)					| pdrift	| 1988	| Sega		| Y-Board	| 					|
+| pdrifte	|  	| Power Drift (World, Earlier)				| pdrift	| 1988	| Sega		| Y-Board	| 					|
+| pdrift	|  	| Power Drift (World, Rev A)				| 		| 1988	| Sega		| Y-Board	| 					|
+| quartet1	|  	| Quartet (8751 315-5194)				| quartet	| 1986	| Sega		| System 16A	| 					|
+| quartet	|  	| Quartet (Rev A, 8751 317-unknown)			| 		| 1986	| Sega		| System 16A	| 					|
+| quart21	|  	| Quartet 2 (8751 317-0010)				| quartet	| 1986	| Sega		| System 16A	| 					|
+| quart2	|  	| Quartet 2 (unprotected)				| quartet	| 1986	| Sega		| System 16A	| 					|
+| rachero	|  	| Racing Hero (FD1094 317-0144)				| 		| 1989	| Sega		| X-Board	| 					|
+| raflesia	|  	| Rafflesia (315-5162)					| 		| 1986	| Coreland / Seg| System 1	| 					|
+| rchase	|  	| Rail Chase (Japan)					| 		| 1991	| Sega		| Y-Board	| 					|
+| reguluso	|  	| Regulus (315-5033)					| regulus	| 1983	| Sega		| System 1	| 					|
+| regulus	|  	| Regulus (315-5033, rev. A)				| 		| 1983	| Sega		| System 1	| 					|
+| regulusu	|  	| Regulus (not encrypted)				| regulus	| 1983	| Sega		| System 1	| 					|
+| riotcity	|  	| Riot City (Japan)					| 		| 1991	| Sega / Westone| System 16B	| 					|
+| rascot2	| D	| Royal Ascot 2						| 		| 19??	| ????		| X-Board	| 					|
+| ryukyu	|  	| RyuKyu (Japan, FD1094 317-5023)			| 		| 1990	| Success / Sega| System 16B	| 					|
+| ssanchan	|  	| Sanrin San Chan (Japan)				| spatter	| 1984	| Sega		| System 1	| 					|
+| sdibl		|  	| SDI - Strategic Defense Initiative (bootleg)		| sdi		| 1987	| Sega		| System 16B	| 					|
+| sdi		|  	| SDI - Strategic Defense Initiative (Europe, System 16A| 		| 1987	| Sega		| System 16A	| 					|
+| sdib		|  	| SDI - Strategic Defense Initiative (System 16B, FD1089| sdi		| 1987	| Sega		| System 16B	| 					|
+| seganinj	|  	| Sega Ninja (315-5102)					| 		| 1985	| Sega		| System 1	| 					|
+| seganinu	|  	| Sega Ninja (not encrypted)				| seganinj	| 1985	| Sega		| System 1	| 					|
+| sscandal	|  	| Seishun Scandal (315-5132, Japan)			| myhero	| 1985	| Coreland / Seg| System 1	| 					|
+| shdancbl	| D NW	| Shadow Dancer (bootleg)				| shdancer	| 1989	| bootleg	| System 18	| Incomplete Sound			|
+| shdance1	|  	| Shadow Dancer (set 1)					| shdancer	| 1989	| Sega		| System 18	| Incomplete Sound			|
+| shdancej	|  	| Shadow Dancer (set 2, Japan)				| shdancer	| 1989	| Sega		| System 18	| Incomplete Sound			|
+| shdancer	|  	| Shadow Dancer (set 3, US)				| 		| 1989	| Sega		| System 18	| Incomplete Sound			|
+| shinobi1	|  	| Shinobi (set 1, System 16A, FD1094 317-0050)		| shinobi	| 1987	| Sega		| System 16A	| 					|
+| shinobi2	|  	| Shinobi (set 2, System 16B, FD1094 317-0049)		| shinobi	| 1987	| Sega		| System 16B	| 					|
+| shinobi3	|  	| Shinobi (set 3, System 16B, MC-8123B 317-0054)	| shinobi	| 1987	| Sega		| System 16B	| 					|
+| shinobi4	|  	| Shinobi (set 4, System 16B, MC-8123B 317-0054)	| shinobi	| 1987	| Sega		| System 16B	| 					|
+| shinobi5	|  	| Shinobi (set 5, System 16B, unprotected)		| shinobi	| 1987	| Sega		| System 16B	| 					|
+| shinobi	|  	| Shinobi (set 6, System 16A, unprotected)		| 		| 1987	| Sega		| System 16A	| 					|
+| shinobls	|  	| Shinobi (Star bootleg, System 16A)			| shinobi	| 1987	| bootleg	| System 16A	| 					|
+| sonicbom	|  	| Sonic Boom (FD1094 317-0053)				| 		| 1987	| Sega		| System 16B	| 					|
+| sharrir1	|  	| Space Harrier (8751 315-5163)				| sharrier	| 1985	| Sega		| Hang-On	| 					|
+| sharrier	|  	| Space Harrier (Rev A, 8751 315-5163A)			| 		| 1985	| Sega		| Hang-On	| 					|
+| spatter	|  	| Spatter						| 		| 1984	| Sega		| System 1	| 					|
+| starjack	|  	| Star Jacker (Sega)					| 		| 1983	| Sega		| System 1	| 					|
+| starjacs	|  	| Star Jacker (Stern)					| starjack	| 1983	| Sega		| System 1	| 					|
+| strkfgtr	|  	| Strike Fighter (Japan)				| 		| 1991	| Sega		| Y-Board	| 					|
+| sjryuko1	|  	| Sukeban Jansi Ryuko (set 1, System 16A, FD1089B 317-50| sjryuko	| 1987	| White Board	| System 16A	| 					|
+| sjryuko	|  	| Sukeban Jansi Ryuko (set 2, System 16B, FD1089B 317-50| 		| 1987	| White Board	| System 16B	| 					|
+| shangupb	| D NW	| Super Hang-On (Hang-On upgrade, bootleg)		| shangon	| 1985	| bootleg	| Hang-On	| 					|
+| shangon2	|  	| Super Hang-On (mini ride-on, Rev A, FD1089B 317-0034)	| shangon	| 1987	| Sega		| Out Run	| 					|
+| shangon3	|  	| Super Hang-On (sitdown/upright, FD1089B 317-0034)	| shangon	| 1987	| Sega		| Out Run	| 					|
+| shangon	|  	| Super Hang-On (sitdown/upright, unprotected)		| 		| 1987	| Sega		| Out Run	| 					|
+| suprleag	|  	| Super League (FD1094 317-0045)			| 		| 1987	| Sega		| System 16B	| 					|
+| smgpja	|  	| Super Monaco GP (set 1, Japan, Rev A, FD1094 317-0124a| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgpj		|  	| Super Monaco GP (set 2, Japan, Rev B, FD1094 317-0124a| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgpu3	|  	| Super Monaco GP (set 3, US, FD1094 317-0125a)		| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgpu2	|  	| Super Monaco GP (set 4, US, Rev A, FD1094 317-0125a)	| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgpu1	|  	| Super Monaco GP (set 5, US, Rev B, FD1094 317-0125a)	| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgpu		|  	| Super Monaco GP (set 6, US, Rev C, FD1094 317-0125a)	| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgp5		|  	| Super Monaco GP (set 7, World, 'Air Drive Cabinet', FD| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgp6		|  	| Super Monaco GP (set 8, World, Rev A, FD1094 317-0126a| smgp		| 1989	| Sega		| X-Board	| 					|
+| smgp		|  	| Super Monaco GP (set 9, World, Rev B, 'Twin', FD1094 3| 		| 1989	| Sega		| X-Board	| 					|
+| swat		|  	| SWAT (315-5048)					| 		| 1984	| Coreland / Seg| System 1	| 					|
+| teddybb	|  	| TeddyBoy Blues (315-5115, New Ver.)			| 		| 1985	| Sega		| System 1	| 					|
+| teddybbo	|  	| TeddyBoy Blues (315-5115, Old Ver.)			| teddybb	| 1985	| Sega		| System 1	| 					|
+| tetrisbl	|  	| Tetris (bootleg)					| tetris	| 1988	| bootleg	| System 16B	| 					|
+| tetris1	|  	| Tetris (set 1, Japan, System 16B, FD1094 317-0091)	| tetris	| 1988	| Sega		| System 16B	| 					|
+| tetris2	|  	| Tetris (set 2, Japan, System 16B, FD1094 317-0092)	| tetris	| 1988	| Sega		| System 16B	| 					|
+| tetris3	|  	| Tetris (set 3, Japan, System 16A, FD1094 317-0093a)	| tetris	| 1988	| Sega		| System 16A	| 					|
+| tetris	|  	| Tetris (set 4, Japan, System 16A, FD1094 317-0093)	| 		| 1988	| Sega		| System 16A	| 					|
+| thetogyu	|  	| The Togyu (315-5065, Japan)				| bullfgt	| 1984	| Coreland / Seg| System 1	| 					|
+| thndrbd1	|  	| Thunder Blade (deluxe/standing, unprotected)		| thndrbld	| 1987	| Sega		| X-Board	| 					|
+| thndrbld	|  	| Thunder Blade (upright, FD1094 317-0056)		| 		| 1987	| Sega		| X-Board	| 					|
+| timesca1	|  	| Time Scanner (set 1, System 16A, FD1089B 317-0024)	| timescan	| 1987	| Sega		| System 16A	| 					|
+| timescan	|  	| Time Scanner (set 2, System 16B)			| 		| 1987	| Sega		| System 16B	| 					|
+| toryumon	|  	| Toryumon						| 		| 1994	| Sega / Westone| System 16B	| 					|
+| tturfu	|  	| Tough Turf (set 1, US, 8751 317-0099)			| tturf		| 1989	| Sega / Sunsoft| System 16B	| 					|
+| tturf		|  	| Tough Turf (set 2, Japan, 8751 317-0104)		| 		| 1989	| Sega / Sunsoft| System 16B	| No Sound, Missing Z80 Program		|
+| toutrun	|  	| Turbo Out Run (cockpit, FD1094 317-0109)		| 		| 1989	| Sega		| Out Run	| 					|
+| toutrunu	|  	| Turbo Out Run (Out Run upgrade, FD1094 317-0118)	| toutrun	| 1989	| Sega		| Out Run	| 					|
+| toutrun2	|  	| Turbo Out Run (upright, FD1094 317-unknown)		| toutrun	| 1989	| Sega		| Out Run	| 					|
+| upndown	|  	| Up'n Down (315-5030)					| 		| 1983	| Sega		| System 1	| 					|
+| upndownu	|  	| Up'n Down (not encrypted)				| upndown	| 1983	| Sega		| System 1	| 					|
+| wwallyja	|  	| Wally wo Sagase! (rev A, Japan, FD1094 317-0197A)	| wwallyj	| 1992	| Sega		| System 18	| Incomplete Sound			|
+| wwallyj	|  	| Wally wo Sagase! (rev B, Japan, FD1094 317-0197B)	| 		| 1992	| Sega		| System 18	| Incomplete Sound			|
+| wmatch	|  	| Water Match (315-5064)				| 		| 1984	| Sega		| System 1	| 					|
+| wboyu		|  	| Wonder Boy (not encrypted)				| wboy		| 1986	| Sega (Escape L| System 1	| 					|
+| wboyo		|  	| Wonder Boy (set 1, 315-5135)				| wboy		| 1986	| Sega (Escape L| System 1	| 					|
+| wboy		|  	| Wonder Boy (set 1, 315-5177)				| 		| 1986	| Sega (Escape L| System 1	| 					|
+| wboy2		|  	| Wonder Boy (set 2, 315-5178)				| wboy		| 1986	| Sega (Escape L| System 1	| 					|
+| wboy2u	|  	| Wonder Boy (set 2, not encrypted)			| wboy		| 1986	| Sega (Escape L| System 1	| 					|
+| wboy3		|  	| Wonder Boy (set 3, 315-5135)				| wboy		| 1986	| Sega (Escape L| System 1	| 					|
+| wboy4		|  	| Wonder Boy (set 4, 315-5162)				| wboy		| 1986	| Sega (Escape L| System 1	| 					|
+| wbdeluxe	|  	| Wonder Boy Deluxe					| wboy		| 1986	| Sega (Escape L| System 1	| 					|
+| wb3bbl	| D	| Wonder Boy III - Monster Lair (bootleg)		| wb3		| 1988	| bootleg	| System 16B	| 					|
+| wb31		|  	| Wonder Boy III - Monster Lair (set 1, System 16A, FD10| wb3		| 1988	| Sega / Westone| System 16A	| 					|
+| wb32		|  	| Wonder Boy III - Monster Lair (set 2, Japan, System 16| wb3		| 1988	| Sega / Westone| System 16B	| 					|
+| wb33		|  	| Wonder Boy III - Monster Lair (set 3, World, System 16| wb3		| 1988	| Sega / Westone| System 16B	| 					|
+| wb34		|  	| Wonder Boy III - Monster Lair (set 4, Japan, System 16| wb3		| 1988	| Sega / Westone| System 16B	| 					|
+| wb3		|  	| Wonder Boy III - Monster Lair (set 5, World, System 16| 		| 1988	| Sega / Westone| System 16B	| 					|
+| wrestwa1	|  	| Wrestle War (set 1, Japan, FD1094 317-0090)		| wrestwar	| 1988	| Sega		| System 16B	| 					|
+| wrestwa2	|  	| Wrestle War (set 2, World, FD1094 317-0102)		| wrestwar	| 1988	| Sega		| System 16B	| 					|
+| wrestwar	|  	| Wrestle War (set 3, World, 8751 317-0103)		| 		| 1988	| Sega		| System 16B	| 					|
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+

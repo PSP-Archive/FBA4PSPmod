@@ -1,0 +1,62 @@
+This list contains all games supported by FB Alpha.
+
+55 games supported in total; X = excluded from build; D = included in debug build only; NW = not working
+
+  name		  status  full name						  parent	  year	  company	  hardware	  remarks
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
+| agallet	|  	| Air Gallet (Europe)					| 		| 1996	| BanPresto / Ga| Cave		| 					|
+| agalleth	|  	| Air Gallet (Hong Kong)				| agallet	| 1996	| BanPresto / Ga| Cave		| 					|
+| agalletj	|  	| Air Gallet (Japan)					| agallet	| 1996	| BanPresto / Ga| Cave		| 					|
+| agalletk	|  	| Air Gallet (Korea)					| agallet	| 1996	| BanPresto / Ga| Cave		| 					|
+| agallett	|  	| Air Gallet (Taiwan)					| agallet	| 1996	| BanPresto / Ga| Cave		| 					|
+| agalletu	|  	| Air Gallet (USA)					| agallet	| 1996	| BanPresto / Ga| Cave		| 					|
+| ddp2100	|  	| Bee Storm - DoDonPachi II (ver. 100)			| ddp2		| 2001	| IGS		| PGM		| Not working				|
+| ddp2101	|  	| Bee Storm - DoDonPachi II (ver. 101)			| ddp2		| 2001	| IGS		| PGM		| Not working				|
+| ddp2		|  	| Bee Storm - DoDonPachi II (ver. 102)			| 		| 2001	| IGS		| PGM		| Not working				|
+| dfeveron	|  	| Dangun Feveron (Japan, Ver. 98/09/17)			| feversos	| 1998	| Cave (Nihon Sy| Cave		| 					|
+| ddonpach	|  	| DoDonPachi (International, Master Ver. 97/02/05)	| 		| 1997	| Cave (Atlus li| Cave		| 					|
+| ddonpachj	|  	| DoDonPachi (Japan, Master Ver. 97/02/05)		| ddonpach	| 1997	| Cave (Atlus li| Cave		| 					|
+| ddp3blk	|  	| DoDonPachi Dai-Ou-Jou (Black Label)			| ddp3		| 2002	| Cave		| PGM		| 					|
+| ddp3b		|  	| DoDonPachi Dai-Ou-Jou (V100, first revision)		| ddp3		| 2002	| Cave		| PGM		| 					|
+| ddp3a		|  	| DoDonPachi Dai-Ou-Jou (V100, second revision)		| ddp3		| 2002	| Cave		| PGM		| 					|
+| ddp3		|  	| DoDonPachi Dai-Ou-Jou (V101)				| 		| 2002	| Cave		| PGM		| 					|
+| donpachihk	|  	| DonPachi (Hong Kong)					| donpachi	| 1995	| Cave (Atlus li| Cave		| 					|
+| donpachij	|  	| DonPachi (Japan)					| donpachi	| 1995	| Cave (Atlus li| Cave		| 					|
+| donpachikr	|  	| DonPachi (Korea)					| donpachi	| 1995	| Cave (Atlus li| Cave		| 					|
+| donpachi	|  	| DonPachi (US)						| 		| 1995	| Cave (Atlus li| Cave		| 					|
+| esprade	|  	| ESP Ra.De. (International, Ver. 98/04/22)		| 		| 1998	| Cave (Atlus li| Cave		| 					|
+| espradejo	|  	| ESP Ra.De. (Japan, Ver. 98/04/14)			| esprade	| 1998	| Cave (Atlus li| Cave		| 					|
+| espradej	|  	| ESP Ra.De. (Japan, Ver. 98/04/21)			| esprade	| 1998	| Cave (Atlus li| Cave		| 					|
+| espgal	|  	| EspGaluda (V100, first revision)			| 		| 2003	| Cave		| PGM		| 					|
+| feversos	|  	| Fever SOS (International, Ver. 98/09/25)		| 		| 1998	| Cave (Nihon Sy| Cave		| 					|
+| gaia		|  	| Gaia Crusaders					| 		| 1999	| Noise Factory	| Cave		| 					|
+| pwrinst2j	|  	| Gouketsuji Ichizoku 2 (Japan, Ver. 94/04/08)		| pwrinst2	| 1994	| Atlus		| Cave		| 					|
+| plegendsj	|  	| Gouketsuji Ichizoku Saikyou Densetsu (Japan, Ver. 95/0| plegends	| 1995	| Atlus		| Cave		| 					|
+| guwange	|  	| Guwange (Japan, Master Ver. 99/06/24)			| 		| 1999	| Cave (Atlus li| Cave		| 					|
+| hotdogst	|  	| Hotdog Storm (International)				| 		| 1996	| Marble	| Cave		| 					|
+| ketb		|  	| Ketsui: Kizuna Jigoku Tachi (V100, first revision)	| ket		| 2002	| Cave		| PGM		| 					|
+| keta		|  	| Ketsui: Kizuna Jigoku Tachi (V100, second revision)	| ket		| 2002	| Cave		| PGM		| 					|
+| ket		|  	| Ketsui: Kizuna Jigoku Tachi (V100, third revision)	| 		| 2002	| Cave		| PGM		| 					|
+| mazingerj	|  	| Mazinger Z (Japan)					| mazinger	| 1994	| Banpresto/Dyna| Cave		| 					|
+| mazinger	|  	| Mazinger Z (World)					| 		| 1994	| Banpresto/Dyna| Cave		| 					|
+| metmqstr	|  	| Metamoqester (International)				| 		| 1995	| Banpresto / Pa| Cave		| 					|
+| nmaster	|  	| Oni - The Ninja Master (Japan)			| metmqstr	| 1995	| Banpresto / Pa| Cave		| 					|
+| pgm		|   NW	| PGM (Polygame Master) System BIOS			| 		| 1997	| IGS		| PGM		| BIOS only				|
+| pwrinst2	|  	| Power Instinct 2 (US, Ver. 94/04/08)			| 		| 1994	| Atlus		| Cave		| 					|
+| plegends	|  	| Power Instinct Legends (US, Ver. 95/06/20)		| 		| 1995	| Atlus		| Cave		| 					|
+| sailormno	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22, Europe)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnoh	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22, Hong Kong)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnoj	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22, Japan)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnok	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22, Korea)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnot	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22, Taiwan)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnou	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22, USA)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormn	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22B, Europe)	| 		| 1995	| BanPresto	| Cave		| 					|
+| sailormnh	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22B, Hong Kong)| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnj	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22B, Japan)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnk	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22B, Korea)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnt	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22B, Taiwan)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| sailormnu	|  	| Pretty Soldier Sailor Moon (Ver. 95/03/22B, USA)	| sailormn	| 1995	| BanPresto	| Cave		| 					|
+| uopoko	|  	| Puzzle Uo Poko (International)			| 		| 1999	| Cave (Jaleco l| Cave		| 					|
+| uopokoj	|  	| Puzzle Uo Poko (Japan)				| uopoko	| 1999	| Cave (Jaleco l| Cave		| 					|
+| theroes	|  	| Thunder Heroes					| 		| 2001	| Primetek Inves| Cave		| 					|
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+

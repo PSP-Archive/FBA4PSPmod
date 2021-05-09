@@ -1,0 +1,20 @@
+This list contains all games supported by FB Alpha.
+
+13 games supported in total; X = excluded from build; D = included in debug build only; NW = not working
+
+  name		  status  full name						  parent	  year	  company	  hardware	  remarks
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
+| btlkroad	|  	| Battle K-Road						| 		| 1994	| Psikyo	| Psikyo 68EC020| 					|
+| gunbirdj	|  	| Gunbird (Japan)					| gunbird	| 1994	| Psikyo	| Psikyo 68EC020| 					|
+| gunbirdk	|  	| Gunbird (Korea)					| gunbird	| 1994	| Psikyo	| Psikyo 68EC020| 					|
+| gunbird	|  	| Gunbird (World)					| 		| 1994	| Psikyo	| Psikyo 68EC020| 					|
+| samuraia	|  	| Samurai Aces (World)					| 		| 1993	| Psikyo / Banpr| Psikyo 68EC020| 					|
+| sngkace	|  	| Sengoku Ace (Japan)					| samuraia	| 1993	| Psikyo / Banpr| Psikyo 68EC020| 					|
+| s1945		|  	| Strikers 1945						| 		| 1995	| Psikyo	| Psikyo 68EC020| 					|
+| s1945a	|  	| Strikers 1945 (Alt)					| s1945		| 1995	| Psikyo	| Psikyo 68EC020| 					|
+| s1945j	|  	| Strikers 1945 (Japan)					| s1945		| 1995	| Psikyo	| Psikyo 68EC020| 					|
+| s1945jn	|  	| Strikers 1945 (Japan, unprotected)			| s1945		| 1995	| Psikyo	| Psikyo 68EC020| 					|
+| s1945k	|  	| Strikers 1945 (Korea)					| s1945		| 1995	| Psikyo	| Psikyo 68EC020| 					|
+| tengai	|  	| Tengai (world)					| 		| 1996	| Psikyo	| Psikyo 68EC020| 					|
+| tengaij	|  	| Tengai\0Sengoku Blade - sengoku ace episode II	| tengai	| 1996	| Psikyo	| Psikyo 68EC020| 					|
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+

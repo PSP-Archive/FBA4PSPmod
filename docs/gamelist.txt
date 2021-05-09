@@ -1,0 +1,651 @@
+This list contains all games supported by FB Alpha.
+
+644 games supported in total; X = excluded from build; D = included in debug build only; NW = not working
+
+  name		  status  full name						  parent	  year	  company	  hardware	  remarks
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
+| 4play		| X	| * 4 player input test					| 		| ???	| SNK		| Neo Geo	| 4 player  input test cartridge	|
+| 1941j		|  	| 1941 - Counter Attack (Japan)				| 1941		| 1990	| Capcom	| CPS1		| 					|
+| 1941		|  	| 1941 - Counter Attack (World)				| 		| 1990	| Capcom	| CPS1		| 					|
+| 1944j		|  	| 1944 - the loop master (000620 Japan)			| 1944		| 2000	| Capcom / 8ing | CPS2		| 					|
+| 1944		|  	| 1944 - the loop master (000620 USA)			| 		| 2000	| Capcom / 8ing | CPS2		| 					|
+| 1945kiii	|  	| 1945k III						| 		| 2000	| Oriental	| misc		| 					|
+| 19xxa		|  	| 19XX - the war against destiny (951207 Asia)		| 19xx		| 1995	| Capcom	| CPS2		| 					|
+| 19xxjr1	|  	| 19XX - the war against destiny (951207 Japan)		| 19xx		| 1995	| Capcom	| CPS2		| 					|
+| 19xx		|  	| 19XX - the war against destiny (951207 USA)		| 		| 1995	| Capcom	| CPS2		| 					|
+| 19xxb		|  	| 19XX - the war against destiny (951218 Brazil)	| 19xx		| 1995	| Capcom	| CPS2		| 					|
+| 19xxh		|  	| 19XX - the war against destiny (951218 Hispanic)	| 19xx		| 1995	| Capcom	| CPS2		| 					|
+| 19xxj		|  	| 19XX - the war against destiny (951225 Japan)		| 19xx		| 1995	| Capcom	| CPS2		| 					|
+| 2020bb	|  	| 2020 Super Baseball (set 1)				| 		| 1991	| SNK / Pallas	| Neo Geo	| 					|
+| 2020bba	|  	| 2020 Super Baseball (set 2)				| 2020bb	| 1991	| SNK / Pallas	| Neo Geo	| 					|
+| 2020bbh	|  	| 2020 Super Baseball (set 3)				| 2020bb	| 1991	| SNK / Pallas	| Neo Geo	| 					|
+| 3countb	|  	| 3 Count Bout\0Fire Suplex				| 		| 1993	| SNK		| Neo Geo	| 					|
+| aerofgt	|  	| Aero Fighters						| 		| 1992	| Video System C| Video System	| 					|
+| aerofgtb	|  	| Aero Fighters (Turbo Force hardware set 1)		| aerofgt	| 1992	| Video System C| Video System	| 					|
+| aerofgtc	|  	| Aero Fighters (Turbo Force hardware set 2)		| aerofgt	| 1992	| Video System C| Video System	| 					|
+| sonicwi2	|  	| Aero Fighters 2\0Sonic Wings 2			| 		| 1994	| Video System C| Neo Geo	| 					|
+| sonicwi3	|  	| Aero Fighters 3\0Sonic Wings 3			| 		| 1995	| Video System C| Neo Geo	| 					|
+| aodk		|  	| Aggressors of Dark Kombat\0Tsuukai GANGAN Koushinkyoku| 		| 1994	| ADK / SNK	| Neo Geo	| 					|
+| agallet	|  	| Air Gallet						| 		| 1996	| BanPresto / Ga| Cave		| 					|
+| avspa		|  	| Alien vs Predator (940520 Asia)			| avsp		| 1994	| Capcom	| CPS2		| 					|
+| avsp		|  	| Alien vs Predator (940520 Euro)			| 		| 1994	| Capcom	| CPS2		| 					|
+| avsph		|  	| Alien vs Predator (940520 Hispanic)			| avsp		| 1994	| Capcom	| CPS2		| 					|
+| avspj		|  	| Alien vs Predator (940520 Japan)			| avsp		| 1994	| Capcom	| CPS2		| 					|
+| avspu		|  	| Alien vs Predator (940520 USA)			| avsp		| 1994	| Capcom	| CPS2		| 					|
+| alpham2	|  	| Alpha Mission II\0ASO II - last guardian		| 		| 1991	| SNK		| Neo Geo	| 					|
+| androdun	|  	| Andro Dunos						| 		| 1992	| Visco		| Neo Geo	| 					|
+| area88	|  	| Area 88 (Japan)					| unsquad	| 1989	| Daipro / Capco| CPS1		| 					|
+| armwara	|  	| Armored Warriors (940920 Asia)			| armwar	| 1994	| Capcom	| CPS2		| 					|
+| armwarr1	|  	| Armored Warriors (941011 Europe)			| armwar	| 1994	| Capcom	| CPS2		| 					|
+| armwar	|  	| Armored Warriors (941024 Europe)			| 		| 1994	| Capcom	| CPS2		| 					|
+| armwaru	|  	| Armored Warriors (941024 USA)				| armwar	| 1994	| Capcom	| CPS2		| 					|
+| aof2		|  	| Art of Fighting 2 (set 1)\0Ryuuko no Ken 2		| 		| 1994	| SNK		| Neo Geo	| 					|
+| aof2a		|  	| Art of Fighting 2 (set 2)\0Ryuuko no Ken 2		| aof2		| 1994	| SNK		| Neo Geo	| 					|
+| aof3k		|  	| Art of Fighting 3 - the path of the warrior (korean re| aof3		| 1996	| SNK		| Neo Geo	| 					|
+| aof3		|  	| Art of Fighting 3 - the path of the warrior\0Art of Fi| 		| 1996	| SNK		| Neo Geo	| 					|
+| aof		|  	| Art of Fighting\0Ryuuko no Ken			| 		| 1992	| SNK		| Neo Geo	| 					|
+| bakatono	|  	| Bakatonosama Mahjong Manyuki				| 		| 1991	| Monolith Corp.| Neo Geo	| 					|
+| bangbead	|  	| Bang Bead						| 		| 2000	| Visco		| Neo Geo	| 					|
+| bstars2	|  	| Baseball Stars 2					| 		| 1992	| SNK		| Neo Geo	| 					|
+| bstars	|  	| Baseball Stars Professional				| 		| 1990	| SNK		| Neo Geo	| 					|
+| batcira	|  	| Battle Circuit (970319 Asia)				| batcir	| 1997	| Capcom	| CPS2		| 					|
+| batcir	|  	| Battle Circuit (970319 Euro)				| 		| 1997	| Capcom	| CPS2		| 					|
+| batcirj	|  	| Battle Circuit (970319 Japan)				| batcir	| 1997	| Capcom	| CPS2		| 					|
+| flipshot	|  	| Battle Flip Shot					| 		| 1998	| Visco		| Neo Geo	| 					|
+| ddp2		| D NW	| Bee Storm - DoDonPachi II (V100)			| 		| 2001	| IGS		| PGM		| 					|
+| blazstar	|  	| Blazing Star						| 		| 1998	| Yumekobo	| Neo Geo	| 					|
+| bjourney	|  	| Blue's Journey\0Raguy					| 		| 1990	| Alpha Denshi C| Neo Geo	| 					|
+| breakers	|  	| Breakers						| 		| 1996	| Visco		| Neo Geo	| 					|
+| breakrev	|  	| Breakers Revenge					| breakers	| 1998	| Visco		| Neo Geo	| 					|
+| burningf	|  	| Burning Fight (set 1)					| 		| 1991	| SNK		| Neo Geo	| 					|
+| burningh	|  	| Burning Fight (set 2)					| burningf	| 1991	| SNK		| Neo Geo	| 					|
+| dino		|  	| Cadillacs & Dinosaurs (930201 etc)			| 		| 1993	| Capcom	| CPS1 / QSound	| 					|
+| dinou		|  	| Cadillacs & Dinosaurs (930201 USA)			| dino		| 1993	| Capcom	| CPS1 / QSound	| 					|
+| dinoj		|  	| Cadillacs Kyouryuu-Shinseiki (Cadillacs 930201 Japan)	| dino		| 1993	| Capcom	| CPS1, QSound	| 					|
+| cscluba	|  	| Capcom Sports Club (970722 Asia)			| csclub	| 1997	| Capcom	| CPS2		| 					|
+| csclub	|  	| Capcom Sports Club (970722 Euro)			| 		| 1997	| Capcom	| CPS2		| 					|
+| csclubh	|  	| Capcom Sports Club (970722 Hispanic)			| csclub	| 1997	| Capcom	| CPS2		| 					|
+| csclubj	|  	| Capcom Sports Club (970722 Japan)			| csclub	| 1997	| Capcom	| CPS2		| 					|
+| csclubjr	|  	| Capcom Sports Club (970722 Japan, Rent version)	| csclub	| 1997	| Capcom	| CPS2		| 					|
+| cworld2j	|  	| Capcom World 2 (920611 Japan)				| 		| 1992	| Capcom	| CPS1		| 					|
+| captcomu	|  	| Captain Commando (910928 USA)				| captcomm	| 1991	| Capcom	| CPS1		| 					|
+| captcomm	|  	| Captain Commando (911014 other country)		| 		| 1991	| Capcom	| CPS1		| 					|
+| captcomj	|  	| Captain Commando (911202 Japan)			| captcomm	| 1991	| Capcom	| CPS1		| 					|
+| ctomaday	|  	| Captain Tomaday					| 		| 1999	| Visco		| Neo Geo	| 					|
+| cawingr1	|  	| Carrier Air Wing (U.S. navy 901009 etc)		| cawing	| 1990	| Capcom	| CPS1		| 					|
+| cawing	|  	| Carrier Air Wing (U.S. navy 901012 etc)		| 		| 1990	| Capcom	| CPS1		| 					|
+| cawingu	|  	| Carrier Air Wing (U.S. navy 901012 USA)		| cawing	| 1990	| Capcom	| CPS1		| 					|
+| marukodq	|  	| Chibi Marukochan Deluxe Quiz				| 		| 1995	| Takara	| Neo Geo	| 					|
+| chikij	|  	| Chiki Chiki Boys (900619 Japan)			| mtwins	| 1990	| Capcom	| CPS1		| 					|
+| choko		|  	| Choko (010820 Japan)					| 		| 2001	| Mitchell	| CPS2		| 					|
+| drgw2j	|  	| Chuugokuryuu II (V100J, Japan)			| drgw2		| 1997	| IGS		| PGM		| Unemulated protection			|
+| crsword	|  	| Crossed Swords					| 		| 1991	| Alpha Denshi C| Neo Geo	| 					|
+| cthd2003	|  	| Crouching Tiger Hidden Dragon 2003 (bootleg)		| kof2001	| 2003	| Phenixsoft	| Neo Geo	| Hack of \"The King of Fighters 2001\"	|
+| ct2k3sa	|  	| Crouching Tiger Hidden Dragon 2003 Super Plus (alt, bo| cthd2003	| 2003	| Phenixsoft	| Neo Geo	| Hack of \"The King of Fighters 2001\"	|
+| ct2k3sp	|  	| Crouching Tiger Hidden Dragon 2003 Super Plus (bootleg| cthd2003	| 2003	| Phenixsoft	| Neo Geo	| Hack of \"The King of Fighters 2001\"	|
+| cyberlip	|  	| Cyber-Lip						| 		| 1990	| SNK		| Neo Geo	| 					|
+| cybotsj	|  	| Cyberbots - fullmetal madness (950420 Japan)		| cybots	| 1995	| Capcom	| CPS2		| 					|
+| cybots	|  	| Cyberbots - fullmetal madness (950424 Euro)		| 		| 1995	| Capcom	| CPS2		| 					|
+| cybotsu	|  	| Cyberbots - fullmetal madness (950424 USA)		| cybots	| 1995	| Capcom	| CPS2		| 					|
+| daimakai	|  	| Dai Makai-Mura (Japan)				| ghouls	| 1988	| Capcom	| CPS1		| 					|
+| daimakb	| D	| Dai Makai-Mura (Japan, bootleg)			| ghouls	| 1988	| Capcom	| CPS1		| 					|
+| dfeveron	|  	| Dangun Feveron (Japan ver. Thu Sep 17 1998)		| feversos	| 1998	| Cave / Nihon S| Cave		| 					|
+| dstlka	|  	| Darkstalkers - the night warriors (940705 Asia)	| dstlk		| 1994	| Capcom	| CPS2		| 					|
+| dstlk		|  	| Darkstalkers - the night warriors (940705 Euro)	| 		| 1994	| Capcom	| CPS2		| 					|
+| dstlkur1	|  	| Darkstalkers - the night warriors (940705 USA)	| dstlk		| 1994	| Capcom	| CPS2		| 					|
+| dstlku	|  	| Darkstalkers - the night warriors (940818 USA)	| dstlk		| 1994	| Capcom	| CPS2		| 					|
+| dmnfrnt	| D NW	| Demon Front (V102)					| 		| 2002	| IGS		| PGM		| 					|
+| dmnfrnta	| D NW	| Demon Front (V105)					| dmnfrnt	| 2002	| IGS		| PGM		| 					|
+| diggerma	|  	| Digger Man						| 		| 1994 / 2000| Face		| Neo Geo	| 					|
+| dimahoo	|  	| Dimahoo (000121 Euro)					| 		| 2000	| 8ing / Raizing| CPS2		| 					|
+| dimahoou	|  	| Dimahoo (000121 USA)					| dimahoo	| 2000	| 8ing / Raizing| CPS2		| 					|
+| ddonpach	|  	| DoDonPachi (1997 2/5 master ver, international)	| 		| 1997	| Atlus / Cave	| Cave		| 					|
+| ddonpchj	|  	| DoDonPachi (1997 2/5 master ver, Japan)		| ddonpach	| 1997	| Atlus / Cave	| Cave		| 					|
+| donpacjp	|  	| DonPachi (ver. 1.01 1995/05/11, Japan)		| donpachi	| 1995	| Atlus / Cave	| Cave		| 					|
+| donpachi	|  	| DonPachi (ver. 1.01 1995/05/11, U.S.A)		| 		| 1995	| Atlus / Cave	| Cave		| 					|
+| donpachk	|  	| DonPachi (ver. 1.12 1995/05/2x, Hong Kong)		| donpachi	| 1995	| Atlus / Cave	| Cave		| 					|
+| donpackr	|  	| DonPachi (ver. 1.12 1995/05/2x, Korea)		| donpachi	| 1995	| Atlus / Cave	| Cave		| 					|
+| doubledr	|  	| Double Dragon						| 		| 1995	| Technos	| Neo Geo	| 					|
+| drgw3		| D NW	| Dragon World 3 (V100J)				| 		| 1998	| IGS		| PGM		| 					|
+| drgw3k	| D NW	| Dragon World 3 (V106, Korean Board)			| drgw3		| 1998	| IGS		| PGM		| 					|
+| drgw2		|  	| Dragon World II (V110X, Export)			| 		| 1997	| IGS		| PGM		| Unemulated protection			|
+| ddsomjr1	|  	| Dungeons & Dragons - shadow over mystara (960206 Japan| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsomr3	|  	| Dungeons & Dragons - shadow over mystara (960208 Euro)| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsomr2	|  	| Dungeons & Dragons - shadow over mystara (960209 Euro)| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsomur1	|  	| Dungeons & Dragons - shadow over mystara (960209 USA)	| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsomb	|  	| Dungeons & Dragons - shadow over mystara (960223 Brazi| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsomr1	|  	| Dungeons & Dragons - shadow over mystara (960223 Euro)| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsoma	|  	| Dungeons & Dragons - shadow over mystara (960619 Asia)| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsom		|  	| Dungeons & Dragons - shadow over mystara (960619 Euro)| 		| 1996	| Capcom	| CPS2		| 					|
+| ddsomj	|  	| Dungeons & Dragons - shadow over mystara (960619 Japan| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddsomu	|  	| Dungeons & Dragons - shadow over mystara (960619 USA)	| ddsom		| 1996	| Capcom	| CPS2		| 					|
+| ddtoda	|  	| Dungeons & Dragons - tower of doom (940113 Asia)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| ddtodr1	|  	| Dungeons & Dragons - tower of doom (940113 Euro)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| ddtodjr2	|  	| Dungeons & Dragons - tower of doom (940113 Japan)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| ddtodur1	|  	| Dungeons & Dragons - tower of doom (940113 USA)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| ddtodh	|  	| Dungeons & Dragons - tower of doom (940125 Hispanic)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| ddtodjr1	|  	| Dungeons & Dragons - tower of doom (940125 Japan)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| ddtodu	|  	| Dungeons & Dragons - tower of doom (940125 USA)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| ddtod		|  	| Dungeons & Dragons - tower of doom (940412 Euro)	| 		| 1994	| Capcom	| CPS2		| 					|
+| ddtodj	|  	| Dungeons & Dragons - tower of doom (940412 Japan)	| ddtod		| 1994	| Capcom	| CPS2		| 					|
+| dynwar	|  	| Dynasty Wars (US set 1)				| 		| 1989	| Capcom	| CPS1		| 					|
+| dynwaru	|  	| Dynasty Wars (US set 2)				| dynwar	| 1989	| Capcom	| CPS1		| 					|
+| ecofghta	|  	| Eco Fighters (931203 Asia)				| ecofghtr	| 1993	| Capcom	| CPS2		| 					|
+| ecofghtr	|  	| Eco Fighters (931203 etc)				| 		| 1993	| Capcom	| CPS2		| 					|
+| ecofgtu1	|  	| Eco Fighters (931203 USA)				| ecofghtr	| 1993	| Capcom	| CPS2		| 					|
+| ecofghtu	|  	| Eco Fighters (940215 USA)				| ecofghtr	| 1993	| Capcom	| CPS2		| 					|
+| eightman	|  	| Eight Man						| 		| 1991	| SNK / Pallas	| Neo Geo	| 					|
+| esprade	|  	| ESP Ra.De. (1998 4/22 international ver.)		| 		| 1998	| Atlus / Cave	| Cave		| 					|
+| espradeo	|  	| ESP Ra.De. (Japan, 1998 4/14 master ver.)		| esprade	| 1998	| Atlus / Cave	| Cave		| 					|
+| espradej	|  	| ESP Ra.De. (Japan, 1998 4/21 master ver.)		| esprade	| 1998	| Atlus / Cave	| Cave		| 					|
+| fatfury1	|  	| Fatal Fury - king of fighters\0Garou Denetsu - shukume| 		| 1992	| SNK		| Neo Geo	| 					|
+| fatfury2	|  	| Fatal Fury 2\0Garou Densetsu 2 - arata-naru tatakai	| 		| 1992	| SNK		| Neo Geo	| 					|
+| fatfury3	|  	| Fatal Fury 3 - road to the final victory\0Garou Denset| 		| 1995	| SNK		| Neo Geo	| 					|
+| fatfursp	|  	| Fatal Fury Special (set 1)\0Garou Densetsu Special	| 		| 1993	| SNK		| Neo Geo	| 					|
+| fatfursa	|  	| Fatal Fury Special (set 2)\0Garou Densetsu Special	| fatfursp	| 1993	| SNK		| Neo Geo	| 					|
+| feversos	|  	| Fever SOS (International ver. Fri Sep 25 1998)	| 		| 1998	| Cave / Nihon S| Cave		| 					|
+| fightfev	|  	| Fight Fever (set 1)\0Wang Jung Wang			| 		| 1994	| Viccom	| Neo Geo	| 					|
+| fightfva	|  	| Fight Fever (set 2)\0Wang Jung Wang			| fightfev	| 1994	| Viccom	| Neo Geo	| 					|
+| fswords	|  	| Fighters Swords (bootleg)				| samsho3	| 1995	| SNK		| Neo Geo	| Korean version of \"Samurai Shodown II|
+| ffightj2	|  	| Final Fight (900112 Japan)				| ffight	| 1989	| Capcom	| CPS1		| 					|
+| ffightua	|  	| Final Fight (900112 USA)				| ffight	| 1989	| Capcom	| CPS1		| 					|
+| ffightj1	|  	| Final Fight (900305 Japan)				| ffight	| 1989	| Capcom	| CPS1		| 					|
+| ffightub	|  	| Final Fight (900613 USA)				| ffight	| 1989	| Capcom	| CPS1		| 					|
+| ffightj	|  	| Final Fight (Japan)					| ffight	| 1989	| Capcom	| CPS1		| 					|
+| ffightu	|  	| Final Fight (USA)					| ffight	| 1989	| Capcom	| CPS1		| 					|
+| ffight	|  	| Final Fight (World)					| 		| 1989	| Capcom	| CPS1		| 					|
+| fbfrenzy	|  	| Football Frenzy					| 		| 1992	| SNK		| Neo Geo	| 					|
+| forgottn	|  	| Forgotten Worlds (US)					| 		| 1988	| Capcom	| CPS1		| 					|
+| forgott1	| D NW	| Forgotten Worlds (World?)				| forgottn	| 1988	| Capcom	| CPS1		| 					|
+| gaia		|  	| Gaia Crusaders					| 		| 1999	| Noise Factory	| Cave		| 					|
+| galaxyfg	|  	| Galaxy Fight - universal warriors			| 		| 1995	| Sunsoft	| Neo Geo	| 					|
+| ganryu	|  	| Ganryu\0Musashi Ganryuki				| 		| 1999	| Visco		| Neo Geo	| 					|
+| garoubl	|  	| Garou - mark of the wolves (bootleg)			| garou		| 1999	| bootleg	| Neo Geo	| 					|
+| garoup	|  	| Garou - mark of the wolves (prototype)		| garou		| 1999	| SNK		| Neo Geo	| 					|
+| garou		|  	| Garou - mark of the wolves (set 1)			| 		| 1999	| SNK		| Neo Geo	| 					|
+| garouo	|  	| Garou - mark of the wolves (set 2)			| garou		| 1999	| SNK		| Neo Geo	| 					|
+| gpilots	|  	| Ghost Pilots (set 1)					| 		| 1991	| SNK		| Neo Geo	| 					|
+| gpilotsh	|  	| Ghost Pilots (set 2)					| gpilots	| 1991	| SNK		| Neo Geo	| 					|
+| ghostlop	|  	| Ghostlop						| 		| 1994	| Data East Corp| Neo Geo	| 					|
+| ghoulsu	|  	| Ghouls'n Ghosts (US)					| ghouls	| 1988	| Capcom	| CPS1		| 					|
+| ghouls	|  	| Ghouls'n Ghosts (World)				| 		| 1988	| Capcom	| CPS1		| 					|
+| gwinga	|  	| Giga Wing (990222 Asia)				| gigawing	| 1999	| Capcom	| CPS2		| 					|
+| gigawing	|  	| Giga Wing (990222 USA)				| 		| 1999	| Capcom	| CPS2		| 					|
+| gwingj	|  	| Giga Wing (990223 Japan)				| gigawing	| 1999	| Capcom	| CPS2		| 					|
+| goalx3	|  	| Goal! Goal! Goal!					| 		| 1995	| Visco		| Neo Geo	| 					|
+| pwrins2j	|  	| Gouketsuji Ichizoku 2 (Japan, Ver. 94/04/08)		| pwrinst2	| 1994	| Atlus/Cave	| Cave		| 					|
+| plegendj	|  	| Gouketsuji Ichizoku Saikyou Densetsu (Japan, Ver. 95/0| plegends	| 1995	| Atlus/Cave	| Cave		| 					|
+| gmahou	|  	| Great Mahou Daisakusen (000121 Japan)			| dimahoo	| 2000	| 8ing / Raizing| CPS2		| 					|
+| grdians	|  	| Guardians\0Denjin Makai II				| 		| 1995	| Banpresto	| Newer Seta	| 					|
+| gururin	|  	| Gururin						| 		| 1994	| Face		| Neo Geo	| 					|
+| guwange	|  	| Guwange (Japan, 1999 6/24 master ver.)		| 		| 1999	| Atlus / Cave	| Cave		| 					|
+| hotdogst	|  	| Hotdog Storm (International)				| 		| 1996	| Marble	| Cave		| 					|
+| hsf2j		|  	| Hyper Street Fighter 2: The Anniversary Edition (03122| hsf2		| 2004	| Capcom	| CPS2		| 					|
+| hsf2		|  	| Hyper Street Fighter 2: The Anniversary Edition (04020| 		| 2004	| Capcom	| CPS2		| 					|
+| jockeygp	|  	| Jockey Grand Prix					| 		| 2001	| Sun Amazement | Neo Geo	| 					|
+| jyangoku	|  	| Jyangokushi  -Haoh no Saihai- (990527 Japan)		| 		| 1999	| Mitchell	| CPS2		| 					|
+| janshin	|  	| Jyanshin Densetsu - quest of jongmaster		| 		| 1994	| Aicom		| Neo Geo	| 					|
+| kabukikl	|  	| Kabuki Klash - far east of eden\0tengai makyou - Shind| 		| 1995	| Hudson Soft	| Neo Geo	| 					|
+| karatblj	|  	| Karate Blazers (Japan)				| karatblz	| 1991	| Video System C| Video System	| 					|
+| karatblu	|  	| Karate Blazers (US)					| karatblz	| 1991	| Video System C| Video System	| 					|
+| karatblz	|  	| Karate Blazers (World?)				| 		| 1991	| Video System C| Video System	| 					|
+| karnovr	|  	| Karnov's Revenge\0Fighter's History Dynamite		| 		| 1994	| Data East Corp| Neo Geo	| 					|
+| kog		|  	| King of Gladiator (bootleg)				| kof97		| 1997	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters '97\|
+| kotm		|  	| King of the Monsters (set 1)				| 		| 1991	| SNK		| Neo Geo	| 					|
+| kotmh		|  	| King of the Monsters (set 2)				| kotm		| 1991	| SNK		| Neo Geo	| 					|
+| kotm2		|  	| King of the Monsters 2 - the next thing		| 		| 1992	| SNK		| Neo Geo	| 					|
+| kizuna	|  	| Kizuna Encounter - super tag battle\0Fu'un Super Tag B| 		| 1996	| SNK		| Neo Geo	| 					|
+| knights	|  	| Knights of the Round (911127 etc)			| 		| 1991	| Capcom	| CPS1		| 					|
+| knightsj	|  	| Knights of the Round (911127 Japan)			| knights	| 1991	| Capcom	| CPS1		| 					|
+| knightsu	|  	| Knights of the Round (911127 USA)			| knights	| 1991	| Capcom	| CPS1		| 					|
+| kovj		|  	| Knights of Valour - Sangoku Senki (V100, Japanese Boar| kov		| 1999	| IGS		| PGM		| 					|
+| kov115	|  	| Knights of Valour - Sangoku Senki (V115)		| kov		| 1999	| IGS		| PGM		| 					|
+| kov		|  	| Knights of Valour - Sangoku Senki (V117)		| 		| 1999	| IGS		| PGM		| 					|
+| kov2106	| D NW	| Knights of Valour 2 (V106)				| kov2		| 2000	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| kov2		| D NW	| Knights of Valour 2					| 		| 2000	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| kov2p		| D NW	| Knights of Valour 2 Plus - Nine Dragons (VM204XX)	| kov2		| 2000	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| kovplusa	|  	| Knights of Valour Plus - Sangoku Senki Plus (V119 alt)| kov		| 1999	| IGS		| PGM		| 					|
+| kovplus	|  	| Knights of Valour Plus - Sangoku Senki Plus (V119)	| kov		| 1999	| IGS		| PGM		| 					|
+| kovsh		| D NW	| Knights of Valour Superheroes\0Sangoku Senki Superhero| kov		| 1999	| IGS		| PGM		| 					|
+| myangel	|  	| Kosodate Quiz My Angel (Japan)			| 		| 1996	| Namco		| Newer Seta	| 					|
+| myangel2	|  	| Kosodate Quiz My Angel 2 (Japan)			| 		| 1996	| Namco		| Newer Seta	| 					|
+| lans2004	|  	| Lansquenet 2004 (bootleg)				| shocktr2	| 1998	| bootleg	| Neo Geo	| bootleg of \"Shock Troopers - 2nd squa|
+| lresort	|  	| Last Resort						| 		| 1992	| SNK		| Neo Geo	| 					|
+| lbowling	|  	| League Bowling					| 		| 1990	| SNK		| Neo Geo	| 					|
+| legendos	|  	| Legend of Success Joe\0Ashitano Joe Densetsu		| 		| 1991	| SNK		| Neo Geo	| 					|
+| lostwrld	|  	| Lost Worlds (Japan)					| forgottn	| 1988	| Capcom	| CPS1		| 					|
+| mswordj	|  	| Magic Sword (23.06.1990 Japan)			| msword	| 1990	| Capcom	| CPS1		| 					|
+| mswordr1	|  	| Magic Sword - heroic fantasy (23.06.1990 other country| msword	| 1990	| Capcom	| CPS1		| 					|
+| msword	|  	| Magic Sword - heroic fantasy (25.07.1990 other country| 		| 1990	| Capcom	| CPS1		| 					|
+| mswordu	|  	| Magic Sword - heroic fantasy (25.07.1990 USA)		| msword	| 1990	| Capcom	| CPS1		| 					|
+| magdrop2	|  	| Magical Drop II					| 		| 1996	| Data East Corp| Neo Geo	| 					|
+| magdrop3	|  	| Magical Drop III					| 		| 1997	| Data East Corp| Neo Geo	| 					|
+| maglord	|  	| Magician Lord (set 1)					| 		| 1990	| Alpha Denshi C| Neo Geo	| 					|
+| maglordh	|  	| Magician Lord (set 2)					| maglord	| 1990	| Alpha Denshi C| Neo Geo	| 					|
+| mahretsu	|  	| Mahjong Kyoretsuden - real mah-jong game		| 		| 1990	| SNK		| Neo Geo	| 					|
+| mmatrixj	|  	| Mars Matrix (000412 Japan)				| mmatrix	| 2000	| Capcom / Takum| CPS2		| 					|
+| mmatrix	|  	| Mars Matrix (000412 USA)				| 		| 2000	| Capcom / Takum| CPS2		| 					|
+| martmast	| D NW	| Martial Masters (V104)				| 		| 2001	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| msha		|  	| Marvel Super Heroes (951024 Asia)			| msh		| 1995	| Capcom	| CPS2		| 					|
+| msh		|  	| Marvel Super Heroes (951024 Euro)			| 		| 1995	| Capcom	| CPS2		| 					|
+| mshjr1	|  	| Marvel Super Heroes (951024 Japan)			| msh		| 1995	| Capcom	| CPS2		| 					|
+| mshu		|  	| Marvel Super Heroes (951024 USA)			| msh		| 1995	| Capcom	| CPS2		| 					|
+| mshb		|  	| Marvel Super Heroes (951117 Brazil)			| msh		| 1995	| Capcom	| CPS2		| 					|
+| mshh		|  	| Marvel Super Heroes (951117 Hispanic)			| msh		| 1995	| Capcom	| CPS2		| 					|
+| mshj		|  	| Marvel Super Heroes (951117 Japan)			| msh		| 1995	| Capcom	| CPS2		| 					|
+| mshvsfa1	|  	| Marvel Super Heroes vs Street Fighter (970620 Asia)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfa	|  	| Marvel Super Heroes vs Street Fighter (970625 Asia)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfb1	|  	| Marvel Super Heroes vs Street Fighter (970625 Brazil)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsf	|  	| Marvel Super Heroes vs Street Fighter (970625 Euro)	| 		| 1997	| Capcom	| CPS2		| 					|
+| mshvsfh	|  	| Marvel Super Heroes vs Street Fighter (970625 Hispanic| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfj2	|  	| Marvel Super Heroes vs Street Fighter (970625 Japan)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfu1	|  	| Marvel Super Heroes vs Street Fighter (970625 USA)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfj1	|  	| Marvel Super Heroes vs Street Fighter (970702 Japan)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfj	|  	| Marvel Super Heroes vs Street Fighter (970707 Japan)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfb	|  	| Marvel Super Heroes vs Street Fighter (970827 Brazil)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mshvsfu	|  	| Marvel Super Heroes vs Street Fighter (970827 USA)	| mshvsf	| 1997	| Capcom	| CPS2		| 					|
+| mvscar1	|  	| Marvel vs Capcom - clash of super heroes (980112 Asia)| mvsc		| 1998	| Capcom	| CPS2		| 					|
+| mvsc		|  	| Marvel vs Capcom - clash of super heroes (980112 Euro)| 		| 1998	| Capcom	| CPS2		| 					|
+| mvscjr1	|  	| Marvel vs Capcom - clash of super heroes (980112 Japan| mvsc		| 1998	| Capcom	| CPS2		| 					|
+| mvsca		|  	| Marvel vs Capcom - clash of super heroes (980123 Asia)| mvsc		| 1998	| Capcom	| CPS2		| 					|
+| mvscb		|  	| Marvel vs Capcom - clash of super heroes (980123 Brazi| mvsc		| 1998	| Capcom	| CPS2		| 					|
+| mvsch		|  	| Marvel vs Capcom - clash of super heroes (980123 Hispa| mvsc		| 1998	| Capcom	| CPS2		| 					|
+| mvscj		|  	| Marvel vs Capcom - clash of super heroes (980123 Japan| mvsc		| 1998	| Capcom	| CPS2		| 					|
+| mvscu		|  	| Marvel vs Capcom - clash of super heroes (980123 USA)	| mvsc		| 1998	| Capcom	| CPS2		| 					|
+| mazinger	|  	| Mazinger Z (International/Japan)			| 		| 1994	| Banpresto/Dyna| Cave		| 					|
+| megaman	|  	| Mega Man - the power battle (951006 Asia)		| 		| 1995	| Capcom	| CPS1		| 					|
+| mmancp2u	|  	| Mega Man - The Power Battle (951006 USA, SAMPLE Versio| megaman	| 1999	| Capcom	| CPS2		| 					|
+| megamn2a	|  	| Mega Man 2 - the power fighters (960708 Asia)		| megaman2	| 1996	| Capcom	| CPS2		| 					|
+| megaman2	|  	| Mega Man 2 - the power fighters (960708 USA)		| 		| 1996	| Capcom	| CPS2		| 					|
+| mtwins	|  	| Mega Twins (chiki chiki boys 900619 etc)		| 		| 1990	| Capcom	| CPS1		| 					|
+| mercs		|  	| Mercs (900302 etc)					| 		| 1990	| Capcom	| CPS1		| 					|
+| mercsu	|  	| Mercs (900302 USA)					| mercs		| 1990	| Capcom	| CPS1		| 					|
+| mercsua	|  	| Mercs (900608 USA)					| mercs		| 1990	| Capcom	| CPS1		| 					|
+| mslug		|  	| Metal Slug - super vehicle-001			| 		| 1996	| Nazca		| Neo Geo	| 					|
+| mslug2	|  	| Metal Slug 2 - super vehicle-001/II			| 		| 1998	| SNK		| Neo Geo	| 					|
+| mslug3	|  	| Metal Slug 3						| 		| 2000	| SNK		| Neo Geo	| 					|
+| mslug3h	|  	| Metal Slug 3 (not encrypted)				| mslug3	| 2000	| SNK		| Neo Geo	| 					|
+| mslug4	|  	| Metal Slug 4						| 		| 2002	| Playmore Corpo| Neo Geo	| 					|
+| ms4plus	|  	| Metal Slug 4 Plus (bootleg)				| mslug4	| 2002	| bootleg	| Neo Geo	| bootleg of \"Metal Slug 4\"		|
+| mslug5	|  	| Metal Slug 5						| 		| 2003	| SNK Playmore	| Neo Geo	| 					|
+| mslug5h	|  	| Metal Slug 5 (AES Cart)				| mslug5	| 2003	| SNK Playmore	| Neo Geo	| 					|
+| ms5pcb	|  	| Metal Slug 5 (JAMMA PCB)				| 		| 2003	| SNK Playmore	| Neo Geo	| 					|
+| ms5plus	|  	| Metal Slug 5 Plus (bootleg)				| mslug5	| 2003	| bootleg	| Neo Geo	| bootleg of \"Metal Slug 5\"		|
+| mslug3b6	|  	| Metal Slug 6						| mslug3	| 2000	| bootleg	| Neo Geo	| bootleg of \"Metal Slug 3\"		|
+| mslugx	|  	| Metal Slug X - super vehicle-001			| 		| 1999	| SNK		| Neo Geo	| 					|
+| metmqstr	|  	| Metamoqester (International)				| 		| 1995	| Banpresto/Pand| Cave		| 					|
+| mpang		|  	| Mighty! Pang (001010 Euro)				| 		| 2000	| Mitchell	| CPS2		| 					|
+| mpangu	|  	| Mighty! Pang (001010 USA)				| mpang		| 2000	| Mitchell	| CPS2		| 					|
+| mpangj	|  	| Mighty! Pang (001011 Japan)				| mpang		| 2000	| Mitchell	| CPS2		| 					|
+| minasan	|  	| Minnasanno Okagesamadesu				| 		| 1990	| Monolith Corp.| Neo Geo	| 					|
+| miexchng	|  	| Money Puzzle Exchanger\0Money Idol Exchanger		| 		| 1997	| Face		| Neo Geo	| 					|
+| mbomberj	|  	| Muscle Bomber - the body explosion (930713 Japan)	| slammast	| 1993	| Capcom	| CPS1		| 					|
+| mbombrdj	|  	| Muscle Bomber Duo - heat up warriors (931206 Japan)	| mbombrd	| 1993	| Capcom	| CPS1		| 					|
+| mbombrd	|  	| Muscle Bomber Duo - ultimate team battle (931206 etc)	| 		| 1993	| Capcom	| CPS1		| 					|
+| mutnat	|  	| Mutation Nation					| 		| 1992	| SNK		| Neo Geo	| 					|
+| nam1975	|  	| NAM - 1975						| 		| 1990	| SNK		| Neo Geo	| 					|
+| nemoj		|  	| Nemo (90 11 20 Japan)					| nemo		| 1990	| Capcom	| CPS1		| 					|
+| nemo		|  	| Nemo (90 11 30 etc)					| 		| 1990	| Capcom	| CPS1		| 					|
+| neobombe	|  	| Neo Bomberman						| 		| 1997	| Hudson Soft	| Neo Geo	| 					|
+| neodrift	|  	| Neo Drift Out - new technology			| 		| 1996	| Visco		| Neo Geo	| 					|
+| neogeo	|   NW	| Neo Geo						| 		| 1990	| SNK		| Neo Geo	| BIOS only				|
+| neomrdo	|  	| Neo Mr. Do!						| 		| 1996	| Visco		| Neo Geo	| 					|
+| turfmast	|  	| Neo Turf Masters\0Big Tournament Golf			| 		| 1996	| Nazca		| Neo Geo	| 					|
+| neocup98	|  	| Neo-Geo Cup '98 - the road to the victory		| 		| 1998	| SNK		| Neo Geo	| 					|
+| nwarr		|  	| Night Warriors - darkstalkers' revenge (950316 Euro)	| 		| 1995	| Capcom	| CPS2		| 					|
+| nwarrb	|  	| Night Warriors - darkstalkers' revenge (950403 Brazil)| nwarr		| 1995	| Capcom	| CPS2		| 					|
+| nwarrh	|  	| Night Warriors - darkstalkers' revenge (950403 Hispani| nwarr		| 1995	| Capcom	| CPS2		| 					|
+| nwarru	|  	| Night Warriors - darkstalkers' revenge (950406 USA)	| nwarr		| 1995	| Capcom	| CPS2		| 					|
+| nitd		|  	| Nightmare in the Dark					| 		| 2000	| Eleven / Gavak| Neo Geo	| 					|
+| nitdbl	|  	| Nightmare in the Dark (bootleg)			| nitd		| 2000	| bootleg	| Neo Geo	| 					|
+| ncombat	|  	| Ninja Combat (set 1)					| 		| 1990	| Alpha Denshi C| Neo Geo	| 					|
+| ncombath	|  	| Ninja Combat (set 2)					| ncombat	| 1990	| Alpha Denshi C| Neo Geo	| 					|
+| ncommand	|  	| Ninja Commando					| 		| 1992	| Alpha Denshi C| Neo Geo	| 					|
+| ninjamas	|  	| Ninja Master's haoh ninpo cho				| 		| 1996	| ADK / SNK	| Neo Geo	| 					|
+| nmaster	|  	| Oni - The Ninja Master (Japan)			| metmqstr	| 1995	| Banpresto/Pand| Cave		| 					|
+| ragnagrd	|  	| Operation Ragnagard\0Shin-Oh-Ken			| 		| 1996	| Saurus	| Neo Geo	| 					|
+| orld105k	|  	| Oriental Legend (V105, Korean Board)			| orlegend	| 1997	| IGS		| PGM		| 					|
+| orld111c	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V111, Chinese| orlegend	| 1997	| IGS		| PGM		| 					|
+| orlegnde	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V112)	| orlegend	| 1997	| IGS		| PGM		| 					|
+| orlegndc	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V112, Chinese| orlegend	| 1997	| IGS		| PGM		| 					|
+| orlegend	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V126)	| 		| 1997	| IGS		| PGM		| 					|
+| olds		| D NW	| Oriental Legend Special (V101, Korea)			| 		| 1999	| IGS		| PGM		| 					|
+| olds100a	| D NW	| Oriental Legend Special - Xi Yo Gi Shi Re Zuang Super | olds		| 1999	| IGS		| PGM		| 					|
+| olds100	| D NW	| Oriental Legend Special - Xi Yo Gi Shi Re Zuang Super | olds		| 1999	| IGS		| PGM		| 					|
+| overtop	|  	| OverTop						| 		| 1996	| ADK		| Neo Geo	| 					|
+| pang3		|  	| Pang! 3 (950511 Euro)					| 		| 1995	| Mitchell	| CPS1		| 					|
+| pang3j	|  	| Pang! 3 (950511 Japan)				| pang3		| 1995	| Mitchell	| CPS1		| 					|
+| panicbom	|  	| Panic Bomber						| 		| 1994	| Hudson Soft	| Neo Geo	| 					|
+| penbros	|  	| Penguin Brothers (Japan)				| 		| 2000	| Subsino	| Newer Seta	| 					|
+| pgm		|   NW	| PGM (Polygame Master) System BIOS			| 		| 1997	| IGS		| PGM		| BIOS only				|
+| photoy2k	|  	| Photo Y2K\0Real and Fake (V104)			| 		| 1999	| IGS		| PGM		| 					|
+| pgoal		|  	| Pleasure Goal - 5 on 5 mini soccer\0Futsal		| 		| 1996	| Saurus	| Neo Geo	| 					|
+| pnickj	|  	| Pnickies (940608 Japan)				| 		| 1994	| Compile (Capco| CPS1		| 					|
+| pnyaa		|  	| Pochi and Nyaa					| 		| 2003	| Aiky / Taito	| Neo Geo	| 					|
+| pfghtj	|  	| Pocket Fighter (970904 Japan)				| sgemf		| 1997	| Capcom	| CPS2		| 					|
+| popbounc	|  	| Pop 'n Bounce\0Gapporin				| 		| 1997	| Video System C| Neo Geo	| 					|
+| pwrinst2	|  	| Power Instinct 2 (US, Ver. 94/04/08)			| 		| 1994	| Atlus/Cave	| Cave		| Bad Music from first MSM6295		|
+| plegends	|  	| Power Instinct Legends (US, Ver. 95/06/20)		| 		| 1995	| Atlus/Cave	| Cave		| 					|
+| pspikes2	|  	| Power Spikes II					| 		| 1994	| Video System C| Neo Geo	| 					|
+| pgearr1	|  	| Powered Gear - strategic variant armor equipment (9409| armwar	| 1994	| Capcom	| CPS2		| 					|
+| pgear		|  	| Powered Gear - strategic variant armor equipment (9410| armwar	| 1994	| Capcom	| CPS2		| 					|
+| preisle2	|  	| Prehistoric Isle 2					| 		| 1999	| Yumekobo / Sau| Neo Geo	| 					|
+| sailormo	|  	| Pretty Soldier Sailor Moon (version 95/03/22)		| sailormn	| 1995	| BanPresto / Ga| Cave		| 					|
+| sailormn	|  	| Pretty Soldier Sailor Moon (version 95/03/22B)	| 		| 1995	| BanPresto / Ga| Cave		| 					|
+| progeara	|  	| Progear (010117 Asia)					| progear	| 2001	| Capcom / Cave	| CPS2		| 					|
+| progear	|  	| Progear (010117 USA)					| 		| 2001	| Capcom / Cave	| CPS2		| 					|
+| progearj	|  	| Progear No Arashi (010117 Japan)			| progear	| 2001	| Capcom / Cave	| CPS2		| 					|
+| pulstar	|  	| Pulstar						| 		| 1995	| Aicom		| Neo Geo	| 					|
+| pzloop2j	|  	| Puzz Loop 2 (010205 Japan)				| pzloop2	| 2001	| Mitchell, dist| CPS2		| 					|
+| pzloop2	|  	| Puzz Loop 2 (010302 Euro)				| 		| 2001	| Mitchell, dist| CPS2		| 					|
+| pbobblen	|  	| Puzzle Bobble (set 1)\0Bust-A-Move			| 		| 1994	| Taito		| Neo Geo	| 					|
+| pbobblna	|  	| Puzzle Bobble (set 2)\0Bust-A-Move			| pbobblen	| 1994	| Taito		| Neo Geo	| 					|
+| pbobbl2n	|  	| Puzzle Bobble 2\0Bust-A-Move Again			| 		| 1999	| Taito		| Neo Geo	| 					|
+| pzlbowl	|  	| Puzzle De Bowling (Japan)				| 		| 1999	| Nihon System /| Newer Seta	| 					|
+| puzzledp	|  	| Puzzle De Pon						| 		| 1995	| Taito (Visco l| Neo Geo	| 					|
+| puzzldpr	|  	| Puzzle De Pon R					| puzzledp	| 1997	| Taito (Visco l| Neo Geo	| 					|
+| puzlstar	|  	| Puzzle Star (V100MG)					| 		| 1999	| IGS		| PGM		| Unemulated protection			|
+| uopoko	|  	| Puzzle Uo Poko (International)			| 		| 1999	| Cave / Jaleco	| Cave		| 					|
+| joyjoy	|  	| Puzzled\0Joy Joy Kid					| 		| 1990	| SNK		| Neo Geo	| 					|
+| puzzli2	| D NW	| Puzzli 2 Super (V200)					| 		| 2001	| IGS		| PGM		| 					|
+| qadj		|  	| Quiz & Dragons (940921 Japan)				| qad		| 1992	| Capcom	| CPS1		| 					|
+| qad		|  	| Quiz & Dragons (capcom quiz game 920701 USA)		| 		| 1992	| Capcom	| CPS1		| 					|
+| quizdais	|  	| Quiz Daisousa Sen - the last count down		| 		| 1991	| SNK		| Neo Geo	| 					|
+| quizkof	|  	| Quiz King of Fighters					| 		| 1995	| Saurus	| Neo Geo	| 					|
+| quizdai2	|  	| Quiz Meintantei Neo Geo - quiz daisousa sen part 2	| 		| 1992	| SNK		| Neo Geo	| 					|
+| qndream	|  	| Quiz Nanairo Dreams - nijiirochou no kiseki (nanairo d| 		| 1996	| Capcom	| CPS2		| 					|
+| qtono2	|  	| Quiz Tonosama no Yabou 2 Zenkoku-ban (tonosama 2 95012| 		| 1995	| Capcom	| CPS1		| 					|
+| rotd		|  	| Rage of the Dragons					| 		| 2002	| Evoga / Playmo| Neo Geo	| 					|
+| raf102j	|  	| Real and Fake\0Photo Y2K (V102, Japanese Board)	| photoy2k	| 1999	| IGS		| PGM		| 					|
+| rbff1		|  	| Real Bout Fatal Fury - Real Bout Garou Densetsu	| 		| 1995	| SNK		| Neo Geo	| 					|
+| rbff1a	|  	| Real Bout Fatal Fury - Real Bout Garou Densetsu (bug f| rbff1		| 1995	| SNK		| Neo Geo	| 					|
+| rbff2k	|  	| Real Bout Fatal Fury 2 - the newcomers (Korean Release| rbff2		| 1998	| SNK		| Neo Geo	| 					|
+| rbff2		|  	| Real Bout Fatal Fury 2 - the newcomers (set 1)\0Real B| 		| 1998	| SNK		| Neo Geo	| 					|
+| rbff2h	|  	| Real Bout Fatal Fury 2 - the newcomers (set 2)\0Real B| rbff2		| 1998	| SNK		| Neo Geo	| 					|
+| rbffspec	|  	| Real Bout Fatal Fury Special\0Real Bout Special	| 		| 1996	| SNK		| Neo Geo	| 					|
+| ridhero	|  	| Riding Hero (set 1)					| 		| 1990	| SNK		| Neo Geo	| 					|
+| ridheroh	|  	| Riding Hero (set 2)					| ridhero	| 1990	| SNK		| Neo Geo	| 					|
+| ringdest	|  	| Ring of Destruction - slammasters II (940902 Euro)	| 		| 1994	| Capcom	| CPS2		| 					|
+| roboarmy	|  	| Robo Army (set 1)					| 		| 1991	| SNK		| Neo Geo	| 					|
+| rockmanj	|  	| Rockman - the power battle (950922 Japan)		| megaman	| 1995	| Capcom	| CPS1		| 					|
+| rckman2j	|  	| Rockman 2 - the power fighters (960708 Japan)		| megaman2	| 1996	| Capcom	| CPS2		| 					|
+| rmancp2j	|  	| Rockman: The Power Battle (950922 Japan)		| mmancp2u	| 1999	| Capcom	| CPS2		| 					|
+| samsho	|  	| Samurai Shodown - Samurai Spirits (set 1)		| 		| 1993	| SNK		| Neo Geo	| 					|
+| samshoh	|  	| Samurai Shodown - Samurai Spirits (set 2)		| samsho	| 1993	| SNK		| Neo Geo	| 					|
+| samsho2	|  	| Samurai Shodown II\0Shin Samurai Spirits - Haohmaru ji| 		| 1994	| SNK		| Neo Geo	| 					|
+| samsho3	|  	| Samurai Shodown III (set 1)\0Samurai Spirits - Zankuro| 		| 1995	| SNK		| Neo Geo	| 					|
+| samsho3a	|  	| Samurai Shodown III (set 2)\0Samurai Spirits - Zankuro| samsho3	| 1995	| SNK		| Neo Geo	| 					|
+| samsho4	|  	| Samurai Shodown IV - Amakusa's revenge\0Samurai Spirit| 		| 1996	| SNK		| Neo Geo	| 					|
+| samsho5b	|  	| Samurai Shodown V (bootleg)\0Samurai Spirits Zero	| samsho5	| 2003	| bootleg	| Neo Geo	| 					|
+| samsho5	|  	| Samurai Shodown V (set 1)\0Samurai Spirits Zero	| 		| 2003	| Yuki Enterpris| Neo Geo	| 					|
+| samsho5h	|  	| Samurai Shodown V (set 2)\0Samurai Spirits Zero	| samsho5	| 2003	| Yuki Enterpris| Neo Geo	| 					|
+| samsh5sp	|  	| Samurai Shodown V Special (set 1, uncensored)\0Samurai| 		| 2003	| Yuki Enterpris| Neo Geo	| 					|
+| samsh5sh	|  	| Samurai Shodown V Special (set 2, censored)\0Samurai S| samsh5sp	| 2003	| Yuki Enterpris| Neo Geo	| 					|
+| samsh5sn	|  	| Samurai Shodown V Special (set 3, less censored)\0Samu| samsh5sp	| 2003	| Yuki Enterpris| Neo Geo	| 					|
+| wofa		|  	| Sangokushi II (921005 Asia)				| wof		| 1992	| Capcom	| CPS1 / QSound	| 					|
+| slammast	|  	| Saturday Night Slam Masters (Slam Masters 930713 etc)	| 		| 1993	| Capcom	| CPS1		| 					|
+| slammasu	|  	| Saturday Night Slam Masters (slam masters 930713 USA)	| slammast	| 1993	| Capcom	| CPS1		| 					|
+| savagere	|  	| Savage Reign\0Fu'un Mokushiroku - kakutou sousei	| 		| 1995	| SNK		| Neo Geo	| 					|
+| sengoku	|  	| Sengoku (set 1)\0Sengoku Denshou			| 		| 1991	| SNK		| Neo Geo	| 					|
+| sengokh	|  	| Sengoku (set 2)\0Sengoku Denshou			| sengoku	| 1991	| SNK		| Neo Geo	| 					|
+| sengoku2	|  	| Sengoku 2\0Sengoku Denshou 2				| 		| 1993	| SNK		| Neo Geo	| 					|
+| sengoku3	|  	| Sengoku 3\0Sengoku Denshou 2001			| 		| 2001	| SNK		| Neo Geo	| 					|
+| mercsj	|  	| Senjo no Ookami II (Ookami 2 900302 Japan)		| mercs		| 1990	| Capcom	| CPS1		| 					|
+| shadfrcj	|  	| Shadow Force (Japan Version 2)			| shadfrce	| 1993	| Technos Japan	| misc		| 					|
+| shadfrce	|  	| Shadow Force (US Version 2)				| 		| 1993	| Technos Japan	| misc		| 					|
+| matrim	|  	| Shin gouketsuzi ichizoku - Toukon\0Matrimelee		| 		| 2002	| Playmore / Noi| Neo Geo	| 					|
+| shocktro	|  	| Shock Troopers (set 1)				| 		| 1997	| Saurus	| Neo Geo	| 					|
+| shocktra	|  	| Shock Troopers (set 2)				| shocktro	| 1997	| Saurus	| Neo Geo	| 					|
+| shocktr2	|  	| Shock Troopers - 2nd squad				| 		| 1998	| Saurus	| Neo Geo	| 					|
+| socbrawl	|  	| Soccer Brawl (set 1)					| 		| 1991	| SNK		| Neo Geo	| 					|
+| socbrala	|  	| Soccer Brawl (set 2)					| socbrawl	| 1991	| SNK		| Neo Geo	| 					|
+| sonicwi	|  	| Sonic Wings (Japan)					| aerofgt	| 1992	| Video System C| Video System	| 					|
+| spinmast	|  	| Spin Master\0Miracle Adventure			| 		| 1993	| Data East Corp| Neo Geo	| 					|
+| spinlbrj	|  	| Spinal Breakers (Japan)				| spinlbrk	| 1990	| V-System Co.	| V-System	| 					|
+| spinlbru	|  	| Spinal Breakers (US)					| spinlbrk	| 1990	| V-System Co.	| V-System	| 					|
+| spinlbrk	|  	| Spinal Breakers (World)				| 		| 1990	| V-System Co.	| V-System	| 					|
+| stakwin	|  	| Stakes Winner						| 		| 1995	| Saurus	| Neo Geo	| 					|
+| stakwin2	|  	| Stakes Winner 2					| 		| 1996	| Saurus	| Neo Geo	| 					|
+| sfach		|  	| Street Fighter Alpha (950727 CPS Changer)		| sfzch		| 1995	| Capcom	| CPS Changer	| 					|
+| sfar3		|  	| Street Fighter Alpha - warriors' dreams (950605 Euro)	| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfar2		|  	| Street Fighter Alpha - warriors' dreams (950627 Euro)	| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfau		|  	| Street Fighter Alpha - warriors' dreams (950627 USA)	| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfar1		|  	| Street Fighter Alpha - warriors' dreams (950718 Euro)	| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfa		|  	| Street Fighter Alpha - warriors' dreams (950727 Euro)	| 		| 1995	| Capcom	| CPS2		| 					|
+| sfa2		|  	| Street Fighter Alpha 2 (960229 Euro)			| 		| 1996	| Capcom	| CPS2		| 					|
+| sfa2u		|  	| Street Fighter Alpha 2 (960306 USA)			| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfa3b		|  	| Street Fighter Alpha 3 (980629 Brazil)		| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| sfa3ur1	|  	| Street Fighter Alpha 3 (980629 USA)			| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| sfa3		|  	| Street Fighter Alpha 3 (980904 Euro)			| 		| 1998	| Capcom	| CPS2		| 					|
+| sfa3u		|  	| Street Fighter Alpha 3 (980904 USA)			| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| sf2ua		|  	| Street Fighter II - the world warrior (910206 USA)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2eb		|  	| Street Fighter II - the world warrior (910214 etc)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2ja		|  	| Street Fighter II - the world warrior (910214 Japan)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2ub		|  	| Street Fighter II - the world warrior (910214 USA)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2ue		|  	| Street Fighter II - the world warrior (910228 USA)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2jc		|  	| Street Fighter II - the world warrior (910306 Japan)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2ud		|  	| Street Fighter II - the world warrior (910318 USA)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2uf		|  	| Street Fighter II - the world warrior (910411 USA)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2		|  	| Street Fighter II - the world warrior (910522 etc)	| 		| 1991	| Capcom	| CPS1		| 					|
+| sf2ui		|  	| Street Fighter II - the world warrior (910522 USA)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2uk		|  	| Street Fighter II - the world warrior (911101 USA)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2j		|  	| Street Fighter II - the world warrior (911210 Japan)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2b		| D	| Street Fighter II - the world warrior (bootleg)	| sf2		| 1991	| Capcom	| CPS1		| 					|
+| sf2th		| D	| Street Fighter II' - (Turbo Hack)			| sf2hf		| 1992	| Capcom	| CPS1		| 					|
+| sf2accp2	|  	| Street Fighter II' - champion edition (Hack - Accelera| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2koryu	|  	| Street Fighter II' - champion edition (Hack - kouryu)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2m1		| D NW	| Street Fighter II' - champion edition (Hack - M-1)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2m2		|  	| Street Fighter II' - champion edition (Hack - M-2)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2m3		| D NW	| Street Fighter II' - champion edition (Hack - M-3)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2m4		|  	| Street Fighter II' - champion edition (Hack - M-4)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2m5		|  	| Street Fighter II' - champion edition (Hack - M-5)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2m6		|  	| Street Fighter II' - champion edition (Hack - M-6)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2m7		|  	| Street Fighter II' - champion edition (Hack - M-7)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2rb		|  	| Street Fighter II' - champion edition (Hack - Rainbow | sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2rb2	|  	| Street Fighter II' - champion edition (Hack - Rainbow | sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2red	|  	| Street Fighter II' - champion edition (Hack - Red Wave| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2v004	|  	| Street Fighter II' - champion edition (Hack - V004)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2yyc	|  	| Street Fighter II' - champion edition (Hack - YYC)	| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2ce		|  	| Street Fighter II' - champion edition (street fighter | 		| 1992	| Capcom	| CPS1		| 					|
+| sf2ceua	|  	| Street Fighter II' - champion edition (street fighter | sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2cej	|  	| Street Fighter II' - champion edition (street fighter | sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2ceub	|  	| Street Fighter II' - champion edition (street fighter | sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2ceuc	|  	| Street Fighter II' - champion edition (street fighter | sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2hf		|  	| Street Fighter II' - hyper fighting (street fighter 2'| sf2ce		| 1992	| Capcom	| CPS1		| 					|
+| sf2t		|  	| Street Fighter II' - hyper fighting (street fighter 2'| sf2hf		| 1992	| Capcom	| CPS1		| 					|
+| sf2tj		|  	| Street Fighter II' Turbo - hyper fighting (street figh| sf2hf		| 1992	| Capcom	| CPS1		| 					|
+| sfzjr2	|  	| Street Fighter Zero (950605 Japan)			| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfza		|  	| Street Fighter Zero (950627 Asia)			| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfzh		|  	| Street Fighter Zero (950627 Hispanic)			| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfzjr1	|  	| Street Fighter Zero (950627 Japan)			| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfzbr1	|  	| Street Fighter Zero (950727 Brazil)			| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfzj		|  	| Street Fighter Zero (950727 Japan)			| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfzch		|  	| Street Fighter Zero (951020 CPS Changer)		| 		| 1995	| Capcom	| CPS Changer	| 					|
+| sfzb		|  	| Street Fighter Zero (951109 Brazil)			| sfa		| 1995	| Capcom	| CPS2		| 					|
+| sfz2a		|  	| Street Fighter Zero 2 (960227 Asia)			| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfz2j		|  	| Street Fighter Zero 2 (960227 Japan)			| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfz2n		|  	| Street Fighter Zero 2 (960229 Oceania)		| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfz2br1	|  	| Street Fighter Zero 2 (960304 Brazil)			| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfz2h		|  	| Street Fighter Zero 2 (960304 Hispanic)		| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfz2b		|  	| Street Fighter Zero 2 (960531 Brazil)			| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfz2aj	|  	| Street Fighter Zero 2 Alpha (960805 Japan)		| sfz2aa	| 1996	| Capcom	| CPS2		| 					|
+| sfz2ab	|  	| Street Fighter Zero 2 Alpha (960813 Brazil)		| sfz2aa	| 1996	| Capcom	| CPS2		| 					|
+| sfz2ah	|  	| Street Fighter Zero 2 Alpha (960813 Hispanic)		| sfz2aa	| 1996	| Capcom	| CPS2		| 					|
+| sfz2aa	|  	| Street Fighter Zero 2 Alpha (960826 Asia)		| sfa2		| 1996	| Capcom	| CPS2		| 					|
+| sfz3jr2	|  	| Street Fighter Zero 3 (980629 Japan)			| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| sfz3ar1	|  	| Street Fighter Zero 3 (980701 Asia)			| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| sfz3jr1	|  	| Street Fighter Zero 3 (980727 Japan)			| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| sfz3a		|  	| Street Fighter Zero 3 (980904 Asia)			| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| sfz3j		|  	| Street Fighter Zero 3 (980904 Japan)			| sfa3		| 1998	| Capcom	| CPS2		| 					|
+| strhoop	|  	| Street Hoop\0Street Slam\0Dunk Dream			| 		| 1994	| Data East Corp| Neo Geo	| 					|
+| strider	|  	| Strider (US set 1)					| 		| 1989	| Capcom	| CPS1		| 					|
+| stridrua	|  	| Strider (US set 2)					| strider	| 1989	| Capcom	| CPS1		| 					|
+| striderj	|  	| Strider Hiryu (Japan set 1)				| strider	| 1989	| Capcom	| CPS1		| 					|
+| stridrja	|  	| Strider Hiryu (Japan set 2)				| strider	| 1989	| Capcom	| CPS1		| 					|
+| s1945p	|  	| Strikers 1945 plus					| 		| 1999	| Psikyo	| Neo Geo	| 					|
+| sdodgeb	|  	| Super Dodge Ball\0Kunio no Nekketsu Toukyuu Densetsu	| 		| 1996	| Technos	| Neo Geo	| 					|
+| sgemfa	|  	| Super Gem Fighter Mini Mix (970904 Asia)		| sgemf		| 1997	| Capcom	| CPS2		| 					|
+| sgemfh	|  	| Super Gem Fighter Mini Mix (970904 Hispanic)		| sgemf		| 1997	| Capcom	| CPS2		| 					|
+| sgemf		|  	| Super Gem Fighter Mini Mix (970904 USA)		| 		| 1997	| Capcom	| CPS2		| 					|
+| smbombr1	|  	| Super Muscle Bomber - the international blowout (94080| ringdest	| 1994	| Capcom	| CPS2		| 					|
+| smbomb	|  	| Super Muscle Bomber - the international blowout (94083| ringdest	| 1994	| Capcom	| CPS2		| 					|
+| spf2ta	|  	| Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 | spf2t		| 1996	| Capcom	| CPS2		| 					|
+| spf2t		|  	| Super Puzzle Fighter II Turbo (Super Puzzle Fighter 2 | 		| 1996	| Capcom	| CPS2		| 					|
+| spf2xj	|  	| Super Puzzle Fighter II X (Super Puzzle Fighter 2 X 96| spf2t		| 1996	| Capcom	| CPS2		| 					|
+| ssideki2	|  	| Super Sidekicks 2 - the world championship\0Tokuten Ou| 		| 1994	| SNK		| Neo Geo	| 					|
+| ssideki3	|  	| Super Sidekicks 3 - the next glory\0Tokuten Ou 3 - eik| 		| 1995	| SNK		| Neo Geo	| 					|
+| ssideki	|  	| Super Sidekicks\0Tokuten Ou				| 		| 1992	| SNK		| Neo Geo	| 					|
+| ssf2jr2	|  	| Super Street Fighter II - the new challengers (super s| ssf2		| 1993	| Capcom	| CPS2		| 					|
+| ssf2		|  	| Super Street Fighter II - the new challengers (super s| 		| 1993	| Capcom	| CPS2		| 					|
+| ssf2jr1	|  	| Super Street Fighter II - the new challengers (super s| ssf2		| 1993	| Capcom	| CPS2		| 					|
+| ssf2u		|  	| Super Street Fighter II - the new challengers (super s| ssf2		| 1993	| Capcom	| CPS2		| 					|
+| ssf2ar1	|  	| Super Street Fighter II - the new challengers (super s| ssf2		| 1993	| Capcom	| CPS2		| 					|
+| ssf2a		|  	| Super Street Fighter II - the new challengers (super s| ssf2		| 1993	| Capcom	| CPS2		| 					|
+| ssf2j		|  	| Super Street Fighter II - the new challengers (super s| ssf2		| 1993	| Capcom	| CPS2		| 					|
+| ssf2tbr1	|  	| Super Street Fighter II - the tournament battle (93091| ssf2		| 1993	| Capcom	| CPS2		| Linkup feature not implemented	|
+| ssf2tbj	|  	| Super Street Fighter II - the tournament battle (93091| ssf2		| 1993	| Capcom	| CPS2		| Linkup feature not implemented	|
+| ssf2tb	|  	| Super Street Fighter II - the tournament battle (93111| ssf2		| 1993	| Capcom	| CPS2		| Linkup feature not implemented	|
+| ssf2ta	|  	| Super Street Fighter II Turbo (super street fighter 2 | ssf2t		| 1994	| Capcom	| CPS2		| 					|
+| ssf2t		|  	| Super Street Fighter II Turbo (super street fighter 2 | ssf2		| 1994	| Capcom	| CPS2		| 					|
+| ssf2tur1	|  	| Super Street Fighter II Turbo (super street fighter 2 | ssf2t		| 1994	| Capcom	| CPS2		| 					|
+| ssf2tu	|  	| Super Street Fighter II Turbo (super street fighter 2 | ssf2t		| 1994	| Capcom	| CPS2		| 					|
+| ssf2xj	|  	| Super Street Fighter II X - grand master challenge (su| ssf2t		| 1994	| Capcom	| CPS2		| 					|
+| svcpcb	|  	| SvC Chaos - SNK vs Capcom (JAMMA PCB, set 1)		| 		| 2003	| SNK Playmore	| Neo Geo	| 					|
+| svcpcba	|  	| SvC Chaos - SNK vs Capcom (JAMMA PCB, set 2)		| svcpcb	| 2003	| SNK Playmore	| Neo Geo	| 					|
+| svc		|  	| SvC Chaos - SNK vs Capcom (MVS)			| 		| 2003	| SNK Playmore	| Neo Geo	| 					|
+| svcboot	|  	| SvC Chaos - SNK vs Capcom (MVS, bootleg)		| svc		| 2003	| bootleg	| Neo Geo	| bootleg of \"SvC Chaos - SNK vs Capcom|
+| svcplus	|  	| SvC Chaos - SNK vs Capcom Plus (bootleg, set 1)	| svc		| 2003	| bootleg	| Neo Geo	| bootleg of \"SvC Chaos - SNK vs Capcom|
+| svcplusa	|  	| SvC Chaos - SNK vs Capcom Plus (bootleg, set 2)	| svcplus	| 2003	| bootleg	| Neo Geo	| bootleg of \"SvC Chaos - SNK vs Capcom|
+| svcsplus	|  	| SvC Chaos - SNK vs Capcom Super Plus (bootleg)	| svc		| 2003	| bootleg	| Neo Geo	| bootleg of \"SvC Chaos - SNK vs Capcom|
+| mosyougi	|  	| Syougi No Tatsujin - master of syougi			| 		| 1990	| ADK / SNK	| Neo Geo	| 					|
+| tws96		|  	| Tecmo World Soccer '96				| 		| 1996	| Tecmo		| Neo Geo	| 					|
+| dynwarj	|  	| Tenchi wo Kurau (Japan)				| dynwar	| 1989	| Capcom	| CPS1		| 					|
+| wofj		|  	| Tenchi wo Kurau II - Sekiheki no Tatakai (921031 Japan| wof		| 1992	| Capcom	| CPS1 / QSound	| 					|
+| theglad	| D NW	| The Gladiator\0Shen Jian (V100)			| 		| 2001	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| irrmaze	|  	| The Irritating Maze\0Ultra Denryu Iraira Bou		| 		| 1997	| SNK / Saurus	| Neo Geo	| 					|
+| killbld	|   NW	| The Killing Blade (V104)				| 		| 1998	| IGS		| PGM		| Not working				|
+| killbldt	|  	| The Killing Blade (V109, Chinese Board)		| killbld	| 1998	| IGS		| PGM		| Unemulated protection			|
+| kod		|  	| The King of Dragons (910711 etc)			| 		| 1991	| Capcom	| CPS1		| 					|
+| kodb		| D NW	| The King of Dragons (bootleg)				| kod		| 1991	| Capcom	| CPS1		| No Sprites				|
+| kodj		|  	| The King of Dragons (Japan 910805)			| kod		| 1991	| Capcom	| CPS1		| 					|
+| kodu		|  	| The King of Dragons (US 910910)			| kod		| 1991	| Capcom	| CPS1		| 					|
+| kof94		|  	| The King of Fighters '94				| 		| 1994	| SNK		| Neo Geo	| 					|
+| kof95		|  	| The King of Fighters '95 (set 1)			| 		| 1995	| SNK		| Neo Geo	| 					|
+| kof95a	|  	| The King of Fighters '95 (set 2)			| kof95		| 1995	| SNK		| Neo Geo	| 					|
+| kof96		|  	| The King of Fighters '96 (set 1)			| 		| 1996	| SNK		| Neo Geo	| 					|
+| kof96h	|  	| The King of Fighters '96 (set 2)			| kof96		| 1996	| SNK		| Neo Geo	| 					|
+| kof97		|  	| The King of Fighters '97 (set 1)			| 		| 1997	| SNK		| Neo Geo	| 					|
+| kof97a	|  	| The King of Fighters '97 (set 2)			| kof97		| 1997	| SNK		| Neo Geo	| 					|
+| kof97pls	|  	| The King of Fighters '97 Plus (bootleg)		| kof97		| 1997	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters '97\|
+| kof98k	|  	| The King of Fighters '98 - the slugfest (korean releas| kof98		| 1998	| SNK		| Neo Geo	| 					|
+| kof98n	|  	| The King of Fighters '98 - the slugfest (not encrypted| kof98		| 1998	| SNK		| Neo Geo	| 					|
+| kof98		|  	| The King of Fighters '98 - the slugfest\0King of Fight| 		| 1998	| SNK		| Neo Geo	| 					|
+| kof98a	| X	| The King of Fighters '98 - the slugfest\0King of Fight| kof98		| 1998	| SNK		| Neo Geo	| Alternate version			|
+| kof99e	|  	| The King of Fighters '99 - millennium battle (earlier)| kof99		| 1999	| SNK		| Neo Geo	| 					|
+| kof99n	|  	| The King of Fighters '99 - millennium battle (not encr| kof99		| 1999	| SNK		| Neo Geo	| 					|
+| kof99p	|  	| The King of Fighters '99 - millennium battle (prototyp| kof99		| 1999	| SNK		| Neo Geo	| 					|
+| kof99		|  	| The King of Fighters '99 - millennium battle (set 1)	| 		| 1999	| SNK		| Neo Geo	| 					|
+| kof99a	|  	| The King of Fighters '99 - millennium battle (set 2)	| kof99		| 1999	| SNK		| Neo Geo	| 					|
+| kof10th	|  	| The King of Fighters 10th Anniversary (bootleg)	| kof2002	| 2002	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| kf2k5uni	|  	| The King of Fighters 10th Anniversary 2005 Unique (boo| kof10th	| 2004	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| kf10thep	|  	| The King of Fighters 10th Anniversary Extra Plus (boot| kof10th	| 2005	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| kof2000	|  	| The King of Fighters 2000				| 		| 2000	| SNK		| Neo Geo	| 					|
+| kof2000n	|  	| The King of Fighters 2000 (not encrypted)		| kof2000	| 2000	| SNK		| Neo Geo	| 					|
+| kof2001	|  	| The King of Fighters 2001 (set 1)			| 		| 2001	| SNK / Eolith	| Neo Geo	| 					|
+| kof2001h	|  	| The King of Fighters 2001 (set 2)			| kof2001	| 2001	| SNK / Eolith	| Neo Geo	| 					|
+| kof2002	|  	| The King of Fighters 2002 - challenge to ultimate batt| 		| 2002	| Eolith / Playm| Neo Geo	| 					|
+| kf2k2mp	|  	| The King of Fighters 2002 Magic Plus (bootleg)	| kof2002	| 2002	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| kf2k2mp2	|  	| The King of Fighters 2002 Magic Plus II (bootleg)	| kf2k2mp	| 2002	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| kf2k2pls	|  	| The King of Fighters 2002 Plus (bootleg, set 1)	| kof2002	| 2002	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| kf2k2pla	|  	| The King of Fighters 2002 Plus (bootleg, set 2)	| kf2k2pls	| 2002	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| kf2k3bl	|  	| The King of Fighters 2003 (bootleg, set 1)		| kof2003	| 2003	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2003|
+| kf2k3bla	|  	| The King of Fighters 2003 (bootleg, set 2)		| kof2003	| 2003	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2003|
+| kf2k3pcb	|  	| The King of Fighters 2003 (Japan, JAMMA PCB)		| 		| 2003	| SNK Playmore	| Neo Geo	| 					|
+| kof2003	|  	| The King of Fighters 2003 (MVS)			| 		| 2003	| SNK Playmore	| Neo Geo	| 					|
+| kf2k3pl	|  	| The King of Fighters 2004 Plus / Hero (bootleg)	| kof2003	| 2003	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2003|
+| kf2k3upl	|  	| The King of Fighters 2004 Ultra Plus (bootleg)	| kf2k3pl	| 2003	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2003|
+| kof2k4se	|  	| The King of Fighters Special Edition 2004 (bootleg)	| kof2002	| 2004	| bootleg	| Neo Geo	| bootleg of \"The King of Fighters 2002|
+| lastblad	|  	| The Last Blade (set 1)\0Bakumatsu Roman Gekka No Kensh| 		| 1997	| SNK		| Neo Geo	| 					|
+| lastbldh	|  	| The Last Blade (set 2)\0Bakumatsu Roman Gekka No Kensh| lastblad	| 1997	| SNK		| Neo Geo	| 					|
+| lastbld2	|  	| The Last Blade 2\0Bakumatsu Roman Dai Ni Maku - Gekka | 		| 1998	| SNK		| Neo Geo	| 					|
+| lastsold	|  	| The Last Soldier					| lastblad	| 1997	| SNK		| Neo Geo	| Korean version of \"The Last Blade\"	|
+| punisher	|  	| The Punisher (930422 etc)				| 		| 1993	| Capcom	| CPS1 / QSound	| 					|
+| punishrj	|  	| The Punisher (930422 Japan)				| punisher	| 1993	| Capcom	| CPS1 / QSound	| 					|
+| punishru	|  	| The Punisher (930422 USA)				| punisher	| 1993	| Capcom	| CPS1 / QSound	| 					|
+| superspy	|  	| The Super Spy						| 		| 1990	| SNK		| Neo Geo	| 					|
+| ssideki4	|  	| The Ultimate 11 - SNK football championship\0Tokuten O| 		| 1996	| SNK		| Neo Geo	| 					|
+| trally	|  	| Thrash Rally						| 		| 1991	| Alpha Denshi C| Neo Geo	| 					|
+| 3wonders	|  	| Three Wonders (wonder 3 910520 etc)			| 		| 1991	| Capcom	| CPS1		| 					|
+| 3wonderu	|  	| Three Wonders (wonder 3 910520 USA)			| 3wonders	| 1991	| Capcom	| CPS1		| 					|
+| theroes	|  	| Thunder Heroes					| 		| 2001	| Primetek Inves| Cave		| 					|
+| tophuntr	|  	| Top Hunter - Roddy & Cathy (set 1)			| 		| 1994	| SNK		| Neo Geo	| 					|
+| tophunta	|  	| Top Hunter - Roddy & Cathy (set 2)			| tophuntr	| 1994	| SNK		| Neo Geo	| 					|
+| tpgolf	|  	| Top Player's Golf					| 		| 1990	| SNK		| Neo Geo	| 					|
+| turbofrc	|  	| Turbo Force						| 		| 1991	| Video System C| Video System	| 					|
+| twinspri	|  	| Twinklestar Sprites					| 		| 1996	| ADK		| Neo Geo	| 					|
+| unsquad	|  	| U.N. Squadron (US)					| 		| 1989	| Daipro / Capco| CPS1		| 					|
+| cawingj	|  	| U.S. Navy (901012 Japan)				| cawing	| 1990	| Capcom	| CPS1		| 					|
+| uecology	|  	| Ultimate Ecology (931203 Japan)			| ecofghtr	| 1993	| Capcom	| CPS2		| 					|
+| uopokoj	|  	| Uo Poko (Japan, ver. 1998 Feb 06)			| uopoko	| 1999	| Cave / Jaleco	| Cave		| 					|
+| vliner	|  	| V-Liner (set 1)					| 		| 2001	| Dyna / Brezzas| Neo Geo	| 					|
+| vlinero	|  	| V-Liner (set 2)					| vliner	| 2001	| Dyna / Brezzas| Neo Geo	| 					|
+| vampjr1	|  	| Vampire - the night warriors (940630 Japan)		| dstlk		| 1994	| Capcom	| CPS2		| 					|
+| vampj		|  	| Vampire - the night warriors (940705 Japan)		| dstlk		| 1994	| Capcom	| CPS2		| 					|
+| vampja	|  	| Vampire - the night warriors (940705 Japan, alt)	| dstlk		| 1994	| Capcom	| CPS2		| 					|
+| vhuntjr2	|  	| Vampire Hunter - darkstalkers' revenge (950302 Japan)	| nwarr		| 1995	| Capcom	| CPS2		| 					|
+| vhuntjr1	|  	| Vampire Hunter - darkstalkers' revenge (950307 Japan)	| nwarr		| 1995	| Capcom	| CPS2		| 					|
+| vhuntj	|  	| Vampire Hunter - darkstalkers' revenge (950316 Japan)	| nwarr		| 1995	| Capcom	| CPS2		| 					|
+| vhunt2r1	|  	| Vampire Hunter 2 - darkstalkers revenge (970913 Japan)| vhunt2	| 1997	| Capcom	| CPS2		| 					|
+| vhunt2	|  	| Vampire Hunter 2 - darkstalkers revenge (970929 Japan)| 		| 1997	| Capcom	| CPS2		| 					|
+| vsava		|  	| Vampire Savior - the lord of vampire (970519 Asia)	| vsav		| 1997	| Capcom	| CPS2		| 					|
+| vsav		|  	| Vampire Savior - the lord of vampire (970519 Euro)	| 		| 1997	| Capcom	| CPS2		| 					|
+| vsavh		|  	| Vampire Savior - the lord of vampire (970519 Hispanic)| vsav		| 1997	| Capcom	| CPS2		| 					|
+| vsavj		|  	| Vampire Savior - the lord of vampire (970519 Japan)	| vsav		| 1997	| Capcom	| CPS2		| 					|
+| vsavu		|  	| Vampire Savior - the lord of vampire (970519 USA)	| vsav		| 1997	| Capcom	| CPS2		| 					|
+| vsav2		|  	| Vampire Savior 2 - the lord of vampire (970913 Japan)	| 		| 1997	| Capcom	| CPS2		| 					|
+| varthr1	|  	| Varth - operation thunderstorm (920612 etc)		| varth		| 1992	| Capcom	| CPS1		| 					|
+| varthu	|  	| Varth - operation thunderstorm (920612 USA)		| varth		| 1992	| Capcom (Romsta| CPS1		| 					|
+| varth		|  	| Varth - operation thunderstorm (920714 etc)		| 		| 1992	| Capcom	| CPS1		| 					|
+| varthj	|  	| Varth - operation thunderstorm (920714 Japan)		| varth		| 1992	| Capcom	| CPS1		| 					|
+| viewpoin	|  	| Viewpoint						| 		| 1992	| Sammy		| Neo Geo	| 					|
+| gowcaizr	|  	| Voltage Fighter - Gowcaizer\0Choujin Gakuen Gowcaizer	| 		| 1996	| Technos	| Neo Geo	| 					|
+| mj4simai	|  	| Wakakusamonogatari Mahjong Yonshimai (Japan)		| 		| 1996	| Maboroshi Ware| Newer Seta	| 					|
+| wakuwak7	|  	| Waku Waku 7						| 		| 1996	| Sunsoft	| Neo Geo	| 					|
+| wof		|  	| Warriors of Fate (921002 etc)				| 		| 1992	| Capcom	| CPS1 / QSound	| 					|
+| wofu		|  	| Warriors of Fate (921031 USA)				| wof		| 1992	| Capcom	| CPS1 / QSound	| 					|
+| willowje	|  	| Willow (Japan, English)				| willow	| 1989	| Capcom	| CPS1		| 					|
+| willowj	|  	| Willow (Japan, Japanese)				| willow	| 1989	| Capcom	| CPS1		| 					|
+| willow	|  	| Willow (US)						| 		| 1989	| Capcom	| CPS1		| 					|
+| wjammers	|  	| Windjammers - flying disc game\0Flying Power Disc	| 		| 1994	| Data East Corp| Neo Geo	| 					|
+| wonder3	|  	| Wonder 3 (910520 Japan)				| 3wonders	| 1991	| Capcom	| CPS1		| 					|
+| wh1		|  	| World Heroes (set 1)					| 		| 1992	| Alpha Denshi C| Neo Geo	| 					|
+| wh1h		|  	| World Heroes (set 2)					| wh1		| 1992	| Alpha Denshi C| Neo Geo	| 					|
+| wh1ha		|  	| World Heroes (set 3)					| wh1		| 1992	| Alpha Denshi C| Neo Geo	| 					|
+| wh2		|  	| World Heroes 2					| 		| 1993	| ADK		| Neo Geo	| 					|
+| wh2j		|  	| World Heroes 2 Jet (set 1)				| 		| 1994	| ADK / SNK	| Neo Geo	| 					|
+| wh2jh		|  	| World Heroes 2 Jet (set 2)				| wh2j		| 1994	| ADK / SNK	| Neo Geo	| 					|
+| whp		|  	| World Heroes Perfect					| 		| 1995	| ADK / SNK	| Neo Geo	| 					|
+| xmcotajr	|  	| X-Men - children of the atom (941208 Japan, rent versi| xmcota	| 1994	| Capcom	| CPS2		| 					|
+| xmcotaa	|  	| X-Men - children of the atom (941217 Asia)		| xmcota	| 1995	| Capcom	| CPS2		| 					|
+| xmcotaj2	|  	| X-Men - children of the atom (941217 Japan)		| xmcota	| 1994	| Capcom	| CPS2		| 					|
+| xmcotaj1	|  	| X-Men - children of the atom (941219 Japan)		| xmcota	| 1994	| Capcom	| CPS2		| 					|
+| xmcotaj	|  	| X-Men - children of the atom (941222 Japan)		| xmcota	| 1994	| Capcom	| CPS2		| 					|
+| xmcota	|  	| X-Men - children of the atom (950105 Euro)		| 		| 1995	| Capcom	| CPS2		| 					|
+| xmcotau	|  	| X-Men - children of the atom (950105 USA)		| xmcota	| 1995	| Capcom	| CPS2		| 					|
+| xmcotah	|  	| X-Men - children of the atom (950331 Hispanic)	| xmcota	| 1995	| Capcom	| CPS2		| 					|
+| xmvsfjr2	|  	| X-Men vs Street Fighter (960909 Japan)		| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfr1	|  	| X-Men vs Street Fighter (960910 Euro)			| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfjr1	|  	| X-Men vs Street Fighter (960910 Japan)		| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfar1	|  	| X-Men vs Street Fighter (960919 Asia)			| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsf		|  	| X-Men vs Street Fighter (961004 Euro)			| 		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfh	|  	| X-Men vs Street Fighter (961004 Hispanic)		| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfj	|  	| X-Men vs Street Fighter (961004 Japan)		| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfur1	|  	| X-Men vs Street Fighter (961004 USA)			| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfa	|  	| X-Men vs Street Fighter (961023 Asia)			| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfb	|  	| X-Men vs Street Fighter (961023 Brazil)		| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| xmvsfu	|  	| X-Men vs Street Fighter (961023 USA)			| xmvsf		| 1996	| Capcom	| CPS2		| 					|
+| zedblade	|  	| Zed Blade\0Operation Ragnarok				| 		| 1994	| NMK		| Neo Geo	| 					|
+| drgw2c	|  	| Zhong Guo Long II (V100C, China)			| drgw2		| 1997	| IGS		| PGM		| 					|
+| zintrckb	|  	| Zintrick (hack / bootleg)\0Oshidashi Zentri		| 		| 1996	| ADK / SNK	| Neo Geo	| 					|
+| zupapa	|  	| Zupapa!						| 		| 2001	| SNK		| Neo Geo	| 					|
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+

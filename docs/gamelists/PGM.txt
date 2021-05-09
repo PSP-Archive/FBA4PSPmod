@@ -1,0 +1,43 @@
+This list contains all games supported by FB Alpha.
+
+36 games supported in total; X = excluded from build; D = included in debug build only; NW = not working
+
+  name		  status  full name						  parent	  year	  company	  hardware	  remarks
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
+| ddp2		| D NW	| Bee Storm - DoDonPachi II (V100)			| 		| 2001	| IGS		| PGM		| 					|
+| drgw2j	|  	| Chuugokuryuu II (V100J, Japan)			| drgw2		| 1997	| IGS		| PGM		| Unemulated protection			|
+| dmnfrnt	| D NW	| Demon Front (V102)					| 		| 2002	| IGS		| PGM		| 					|
+| dmnfrnta	| D NW	| Demon Front (V105)					| dmnfrnt	| 2002	| IGS		| PGM		| 					|
+| drgw3		| D NW	| Dragon World 3 (V100J)				| 		| 1998	| IGS		| PGM		| 					|
+| drgw3k	| D NW	| Dragon World 3 (V106, Korean Board)			| drgw3		| 1998	| IGS		| PGM		| 					|
+| drgw2		|  	| Dragon World II (V110X, Export)			| 		| 1997	| IGS		| PGM		| Unemulated protection			|
+| kovj		|  	| Knights of Valour - Sangoku Senki (V100, Japanese Boar| kov		| 1999	| IGS		| PGM		| 					|
+| kov115	|  	| Knights of Valour - Sangoku Senki (V115)		| kov		| 1999	| IGS		| PGM		| 					|
+| kov		|  	| Knights of Valour - Sangoku Senki (V117)		| 		| 1999	| IGS		| PGM		| 					|
+| kov2106	| D	| Knights of Valour 2 (V106)				| kov2		| 2000	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| kov2		| D	| Knights of Valour 2					| 		| 2000	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| kov2p		| D	| Knights of Valour 2 Plus - Nine Dragons (VM204XX)	| kov2		| 2000	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| kov2p205	| D	| Knights of Valour 2 Plus - Nine Dragons (VM205XX)	| kov2		| 2002	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| kovplusa	|  	| Knights of Valour Plus - Sangoku Senki Plus (V119 alt)| kov		| 1999	| IGS		| PGM		| 					|
+| kovplus	|  	| Knights of Valour Plus - Sangoku Senki Plus (V119)	| kov		| 1999	| IGS		| PGM		| 					|
+| kovsh		| D NW	| Knights of Valour Superheroes\0Sangoku Senki Superhero| kov		| 1999	| IGS		| PGM		| 					|
+| martmasc	|  	| Martial Masters (China, V101)				| martmast	| 2001	| IGS		| PGM		| 					|
+| martmast	|  	| Martial Masters (USA, V104)				| 		| 2001	| IGS		| PGM		| 					|
+| orld105k	|  	| Oriental Legend (V105, Korean Board)			| orlegend	| 1997	| IGS		| PGM		| 					|
+| orld111c	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V111, Chinese| orlegend	| 1997	| IGS		| PGM		| 					|
+| orlegnde	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V112)	| orlegend	| 1997	| IGS		| PGM		| 					|
+| orlegndc	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V112, Chinese| orlegend	| 1997	| IGS		| PGM		| 					|
+| orlegend	|  	| Oriental Legend - Xi Yo Gi Shi Re Zuang (V126)	| 		| 1997	| IGS		| PGM		| 					|
+| olds		|   NW	| Oriental Legend Special (ver. 101, Korean Board)	| 		| 1999	| IGS		| PGM		| Not working				|
+| olds100a	|  	| Oriental Legend Special\0Xi Yo Gi Shi Re Zuang Super (| olds		| 1999	| IGS		| PGM		| Not working				|
+| olds100	|   NW	| Oriental Legend Special\0Xi Yo Gi Shi Re Zuang Super (| olds		| 1999	| IGS		| PGM		| Not working				|
+| pgm		|   NW	| PGM (Polygame Master) System BIOS			| 		| 1997	| IGS		| PGM		| BIOS only				|
+| photoy2k	|  	| Photo Y2K\0Real and Fake (V104)			| 		| 1999	| IGS		| PGM		| 					|
+| puzlstar	|  	| Puzzle Star (V100MG)					| 		| 1999	| IGS		| PGM		| Unemulated protection			|
+| puzzli2	| D NW	| Puzzli 2 Super (V200)					| 		| 2001	| IGS		| PGM		| 					|
+| raf102j	|  	| Real and Fake\0Photo Y2K (V102, Japanese Board)	| photoy2k	| 1999	| IGS		| PGM		| 					|
+| theglad	| D NW	| The Gladiator\0Shen Jian (V100)			| 		| 2001	| IGS		| PGM		| Needs second CPU emulated (ARM7)	|
+| killbld	|   NW	| The Killing Blade (V104)				| 		| 1998	| IGS		| PGM		| Not working				|
+| killbldt	|  	| The Killing Blade (V109, Chinese Board)		| killbld	| 1998	| IGS		| PGM		| Unemulated protection			|
+| drgw2c	|  	| Zhong Guo Long II (V100C, China)			| drgw2		| 1997	| IGS		| PGM		| 					|
++---------------+-------+-------------------------------------------------------+---------------+-------+---------------+---------------+---------------------------------------+
