@@ -8,17 +8,17 @@ FBA4PSP comes in several different builds, each optimised for a specific set of 
 
 In total, there is support for 1755 games (including clones).
 
-| Build                                                                 | Version | Romset | Supported Games                        | Dat File                                                                               |
-|-----------------------------------------------------------------------|---------|--------|----------------------------------------|----------------------------------------------------------------------------------------|
-| [All](https://archive.org/details/fba-4-psp.-7z)                      | 12.5.4  | 0.130  | 1708 ([list](docs/gamelists/All.txt))  | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-All.dat)    |
-| [Cave](https://archive.org/details/cave.7z)                           | 12.5.4  | 0.130  | 27 ([list](docs/gamelists/Cave.txt))   | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-Cave.dat)   |
-| [CPS3](https://archive.org/details/cps3.7z)                           | 12.4.0  | 0.130  | 434 ([list](docs/gamelists/CPS3.txt))  | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-CPS3.dat)   |
-| [LB](https://archive.org/details/fba.-7z)                             | ?       | 0.141  | 55 ([list](docs/gamelists/LB.txt))     | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-LB.dat)     |
-| [Mid](https://archive.org/details/mid.7z)                             | 12.4.0  | 0.130  | 741 ([list](docs/gamelists/Mid.txt))   | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-Mid.dat)    |
-| [PGM](https://archive.org/details/pgm.7z)                             | 12.4.0  | 0.130  | 36 ([list](docs/gamelists/PGM.txt))    | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-PGM.dat)    |
-| [Psikyo](https://archive.org/details/fba-4-psp-psikyocorenocache.-7z) | 12.5.4  | 0.130  | 13 ([list](docs/gamelists/Psikyo.txt)) | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-Psikyo.dat) |
-| [Sega](https://archive.org/details/sega.7z)                           | 12.4.0  | 0.130  | 222 ([list](docs/gamelists/Sega.txt))  | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-Sega.dat)   |
-| [Small](https://archive.org/details/small.7z)                         | 12.4.0  | 0.130  | 678 ([list](docs/gamelists/Small.txt)) | [Link](https://github.com/PSP-Archive/FBA4PSP/blob/master/docs/dat/FBA4PSP-Small.dat)  |
+| Build                                                                 | Version | Romset | Supported Games                        |
+|-----------------------------------------------------------------------|---------|--------|----------------------------------------|
+| [All](https://archive.org/details/fba-4-psp.-7z)                      | 12.5.4  | 0.130  | 1708 ([list](docs/gamelists/All.txt))  |
+| [Cave](https://archive.org/details/cave.7z)                           | 12.5.4  | 0.130  | 27 ([list](docs/gamelists/Cave.txt))   |
+| [CPS3](https://archive.org/details/cps3.7z)                           | 12.4.0  | 0.130  | 434 ([list](docs/gamelists/CPS3.txt))  |
+| [LB](https://archive.org/details/fba.-7z)                             | ?       | 0.141  | 55 ([list](docs/gamelists/LB.txt))     |
+| [Mid](https://archive.org/details/mid.7z)                             | 12.4.0  | 0.130  | 741 ([list](docs/gamelists/Mid.txt))   |
+| [PGM](https://archive.org/details/pgm.7z)                             | 12.4.0  | 0.130  | 36 ([list](docs/gamelists/PGM.txt))    |
+| [Psikyo](https://archive.org/details/fba-4-psp-psikyocorenocache.-7z) | 12.5.4  | 0.130  | 13 ([list](docs/gamelists/Psikyo.txt)) |
+| [Sega](https://archive.org/details/sega.7z)                           | 12.4.0  | 0.130  | 222 ([list](docs/gamelists/Sega.txt))  |
+| [Small](https://archive.org/details/small.7z)                         | 12.4.0  | 0.130  | 678 ([list](docs/gamelists/Small.txt)) |
 
 [Full list of supported games](docs/gamelists/full-gamelist.md)
 
@@ -28,7 +28,7 @@ The LB build was created by an unrelated, anonymous developer, and is quite diff
 
 ## Romset
 
-Dat files are included above, to use with ClrMamePro or RomCenter. The MAME 0.130 romset is a guess, based on the list of roms included in the build. It may or may not correspond to the one actually used by the developers.
+Dat files are included in the builds above, to use with ClrMamePro or RomCenter. The MAME 0.130 romset is a guess, based on the list of roms included in the build. It may or may not correspond to the one actually used by the developers.
 
 ## Adding the right ROMS
 
