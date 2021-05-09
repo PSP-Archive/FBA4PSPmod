@@ -14,11 +14,11 @@
 #include "UniCache.h"
 #include "burner.h"
 #include "pspadhoc.h"
-
+#include "me.h"
 
 #define find_rom_list_cnt	10
 
-short gameSpeedCtrl = 1;
+short gameSpeedCtrl = 0;
 unsigned int hotButtons = (PSP_CTRL_SQUARE|PSP_CTRL_CIRCLE|PSP_CTRL_CROSS);
 
 short screenMode=0;
@@ -26,7 +26,7 @@ short wifiStatus=0;
 short saveIndex=0;
 short gameScreenWidth=SCREEN_WIDTH, gameScreenHeight=SCREEN_HEIGHT;
 bool enableJoyStick=true;
-char LBVer[]="FinalBurn Alpha for PSP "SUB_VERSION" (ver: LB_V12.5.4)";
+char LBVer[]="FinalBurn Alpha for PSP "SUB_VERSION" (ver: LB_V12.5.5)";
 static int find_rom_count = 0;
 static int find_rom_select = 0;
 static int find_rom_top = 0;
@@ -120,28 +120,28 @@ static void loadImage(const unsigned char* imgBuf, const char* filename, unsigne
         info_ptr = png_create_info_struct(png_ptr);
         if (info_ptr == NULL) {
                 fclose(fp);
-                png_destroy_read_struct(&png_ptr, png_infopp_NULL, png_infopp_NULL);
+                png_destroy_read_struct(&png_ptr, NULL, NULL);
                 return;
         }
         png_init_io(png_ptr, fp);
         png_set_sig_bytes(png_ptr, sig_read);
         png_read_info(png_ptr, info_ptr);
-        png_get_IHDR(png_ptr, info_ptr, (png_uint_32*)previewWidth, (png_uint_32*)previewHeight, &bit_depth, &color_type, &interlace_type, int_p_NULL, int_p_NULL);
+        png_get_IHDR(png_ptr, info_ptr, (png_uint_32*)previewWidth, (png_uint_32*)previewHeight, &bit_depth, &color_type, &interlace_type, NULL, NULL);
         png_set_strip_16(png_ptr);
         png_set_packing(png_ptr);
         if (color_type == PNG_COLOR_TYPE_PALETTE) png_set_palette_to_rgb(png_ptr);
-        if (color_type == PNG_COLOR_TYPE_GRAY && bit_depth < 8) png_set_gray_1_2_4_to_8(png_ptr);
+        if (color_type == PNG_COLOR_TYPE_GRAY && bit_depth < 8) png_set_expand_gray_1_2_4_to_8(png_ptr);
         if (png_get_valid(png_ptr, info_ptr, PNG_INFO_tRNS)) png_set_tRNS_to_alpha(png_ptr);
         png_set_filler(png_ptr, 0xff, PNG_FILLER_AFTER);
         line = (u32*)tmpBuf; 
         if (!line) {
                 fclose(fp);
-                png_destroy_read_struct(&png_ptr, png_infopp_NULL, png_infopp_NULL);
+                png_destroy_read_struct(&png_ptr, NULL, NULL);
                 return;
         }
         vram16 = (u16*)imgBuf;
         for (y = 0; y < *previewHeight; y++) {
-                png_read_row(png_ptr, (u8*) line, png_bytep_NULL);
+                png_read_row(png_ptr, (u8*) line, NULL);
                 for (x = 0; x < *previewWidth; x++) {
                         u32 color32 = line[x];
                         u16 color16;
@@ -154,7 +154,7 @@ static void loadImage(const unsigned char* imgBuf, const char* filename, unsigne
         }
 
         png_read_end(png_ptr, info_ptr);
-        png_destroy_read_struct(&png_ptr, &info_ptr, png_infopp_NULL);
+        png_destroy_read_struct(&png_ptr, &info_ptr, NULL);
         fclose(fp);
 }
 void processScreenMode()
@@ -264,7 +264,8 @@ void draw_ui_main()
 	char buf[320];
 	if(bgIndex!=1)
 	{
-		if(access("bg1.png",0)==0)
+		//if(access("bg1.png",0)==0)
+		if (true)
 		{
 			loadImage(bgBuf,"bg1.png", &bgW, &bgH);
 			bgIndex=1;				
@@ -373,7 +374,8 @@ void draw_ui_main()
 		sprintf(buf+300,"_%1u.png",saveIndex);	
 		strcat(buf,buf+300);
 		
-		if(access(buf,0)==0)
+		//if(access(buf,0)==0)
+		if (true)
 		{
 			unsigned int imgW,imgH;
 			loadImage(previewBuf,buf, &imgW, &imgH);
@@ -390,7 +392,8 @@ void draw_ui_browse(bool rebuiltlist)
 	char buf[1024];
 	if(bgIndex!=2)
 	{
-		if(access("bg2.png",0)==0)
+		//if(access("bg2.png",0)==0)
+		if(true)
 		{
 			loadImage(bgBuf,"bg2.png", &bgW, &bgH);
 			bgIndex=2;				
@@ -470,7 +473,8 @@ void draw_ui_browse(bool rebuiltlist)
 		strcat(buf,BurnDrvGetTextA(DRV_NAME));
 		strcat(buf,".png");
 		int i=-1;
-		if(access(buf,0)!=0)
+		//if(access(buf,0)!=0)
+		if(true)
 		{
 			for(i=0;i<10;i++)
 			{
@@ -478,7 +482,8 @@ void draw_ui_browse(bool rebuiltlist)
 				strcat(buf,BurnDrvGetTextA(DRV_NAME));
 				sprintf(buf+512,"_%1u.png",i);	
 				strcat(buf,buf+512);
-				if(access(buf,0)==0)
+				//if(access(buf,0)==0)
+				if(true)
 					break;
 			}
 		}
@@ -503,10 +508,10 @@ static void return_to_game()
 			adhocTerm();
 		if(wifiStatus!=2)
 		{
-				scePowerSetClockFrequency(
+				/*scePowerSetClockFrequency(
 								cpu_speeds[cpu_speeds_select].cpu, 
 								cpu_speeds[cpu_speeds_select].cpu, 
-								cpu_speeds[cpu_speeds_select].bus );				
+								cpu_speeds[cpu_speeds_select].bus );				*/
 				sound_continue();
 		}			
 		setGameStage(0);
@@ -586,12 +591,13 @@ static void process_key( int key, int down, int repeat )
 				}	
 				draw_ui_main();					
 				break;
-			case CPU_SPEED:
+	/*		case CPU_SPEED:
 				if ( cpu_speeds_select > 0 ) {
 					cpu_speeds_select--;
 					draw_ui_main();
 				}
 				break;
+	*/
 			case JOYSTICK:
 				enableJoyStick=!enableJoyStick;
 				draw_ui_main();
@@ -672,12 +678,13 @@ static void process_key( int key, int down, int repeat )
 				}	
 				draw_ui_main();					
 				break;
-			case CPU_SPEED:
+	/*		case CPU_SPEED:
 				if ( cpu_speeds_select < 3 ) {
 					cpu_speeds_select++;
 					draw_ui_main();
 				}
 				break;
+				*/
 			case JOYSTICK:
 				enableJoyStick=!enableJoyStick;
 				draw_ui_main();
@@ -726,10 +733,10 @@ static void process_key( int key, int down, int repeat )
 									
 					if(!BurnStateLoad(ui_current_path,1,&DrvInitCallback))
 					{
-						scePowerSetClockFrequency(
+					/*	scePowerSetClockFrequency(
 									cpu_speeds[cpu_speeds_select].cpu, 
 									cpu_speeds[cpu_speeds_select].cpu, 
-									cpu_speeds[cpu_speeds_select].bus );
+									cpu_speeds[cpu_speeds_select].bus );*/
 						setGameStage(0);
 						sound_continue();
 					}
@@ -749,10 +756,10 @@ static void process_key( int key, int down, int repeat )
 						sprintf(buf,"_%1u.png",saveIndex);	
 						strcat(ui_current_path,buf);
 						screenshot(ui_current_path);
-						scePowerSetClockFrequency(
+						/*scePowerSetClockFrequency(
 									cpu_speeds[cpu_speeds_select].cpu, 
 									cpu_speeds[cpu_speeds_select].cpu, 
-									cpu_speeds[cpu_speeds_select].bus );
+									cpu_speeds[cpu_speeds_select].bus );*/
 						setGameStage(0);
 						sound_continue();
 					}
@@ -762,10 +769,10 @@ static void process_key( int key, int down, int repeat )
 			case RESET_GAME:
 				if(nPrevGame != ~0U)
 				{					
-						scePowerSetClockFrequency(
+						/*scePowerSetClockFrequency(
 								cpu_speeds[cpu_speeds_select].cpu, 
 								cpu_speeds[cpu_speeds_select].cpu, 
-								cpu_speeds[cpu_speeds_select].bus );
+								cpu_speeds[cpu_speeds_select].bus );*/
 						resetGame();
 						if(wifiStatus==3)
 							wifiSend(WIFI_CMD_RESET);					
@@ -778,10 +785,10 @@ static void process_key( int key, int down, int repeat )
 						strcat(ui_current_path,BurnDrvGetTextA(DRV_NAME));
 						strcat(ui_current_path,".png");
 						screenshot(ui_current_path);
-						scePowerSetClockFrequency(
+						/*scePowerSetClockFrequency(
 									cpu_speeds[cpu_speeds_select].cpu, 
 									cpu_speeds[cpu_speeds_select].cpu, 
-									cpu_speeds[cpu_speeds_select].bus );
+									cpu_speeds[cpu_speeds_select].bus );*/
 						setGameStage(0);
 						sound_continue();
 				}
@@ -889,7 +896,6 @@ static void process_key( int key, int down, int repeat )
 						
 						setGameStage(3);
 						ui_process_pos = 0;
-
 						if ( DrvInit( nBurnDrvSelect, false ) == 0 ) {
 							
 							BurnRecalcPal();
@@ -902,7 +908,6 @@ static void process_key( int key, int down, int repeat )
 							nBurnDrvSelect = ~0U; 
 							setGameStage(2);
 						}
-
 					} else
 						nBurnDrvSelect = ~0U; 
 
